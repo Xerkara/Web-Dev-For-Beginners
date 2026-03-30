@@ -623,10 +623,10 @@
 
         class AccessibleModal {
             constructor(triggers, overlay, modal, dismissButtons) {
-                this.triggers = Array.isArray(triggers) ? triggers : [triggers];
+                this.triggers = this.ensureArray(triggers);
+                this.dismissButtons = this.ensureArray(dismissButtons);
                 this.overlay = overlay;
                 this.modal = modal;
-                this.dismissButtons = Array.isArray(dismissButtons) ? dismissButtons : [dismissButtons];
                 this.isOpen = false;
                 this.previousActiveElement = null;
 
@@ -634,6 +634,13 @@
                 this.focusableSelector = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
 
                 this.init();
+            }
+
+            ensureArray(input) {
+                if (!input) return [];
+                if (input instanceof NodeList) return Array.from(input);
+                if (Array.isArray(input)) return input;
+                return [input];
             }
 
             init() {
