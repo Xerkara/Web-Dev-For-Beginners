@@ -1,183 +1,181 @@
-# Johdatus ohjelmointikieliin ja moderneihin kehittäjätyökaluihin
+# Johdatus ohjelmointikieliin ja nykyaikaisiin kehittäjätyökaluihin
+ 
+Hei siellä, tuleva kehittäjä! 👋 Saanko kertoa sinulle jotain, mikä saa minut edelleen kylmilleen joka ikinen päivä? Olet juuri löytämässä, että ohjelmointi ei ole pelkästään tietokoneista – se on todellisten supervoimien omistamista, joiden avulla voit tuoda villeimmät ideasi elämään!
 
-Hei tuleva kehittäjä! 👋 Voinko kertoa sinulle jotain, mikä saa minut edelleen innostumaan joka päivä? Olet juuri astumassa maailmaan, jossa ohjelmointi ei ole pelkästään tietokoneiden kanssa puuhastelua – se on supervoima, jonka avulla voit toteuttaa villeimmät ideasi!
+Tiedätkö sen hetken, kun käytät suosikkisovellustasi ja kaikki loksahtaa täydellisesti kohdalleen? Kun napautat nappia ja tapahtuu jotain aivan taianomaista, joka saa sinut sanomaan "vau, miten he TEKIVÄT sen?" No, joku aivan kuten sinä – todennäköisesti suosikkikahvilassaan klo 02.00 kolmannen espressonsa kanssa – kirjoitti sen koodin, joka loi tuon taian. Ja tässä tulee mieleesi räjäyttävä juttu: tämän oppitunnin lopussa et pelkästään ymmärrä, miten he sen tekivät, vaan sinulla on pakottava halu kokeilla itse!
 
-Tiedätkö sen hetken, kun käytät suosikkisovellustasi ja kaikki toimii täydellisesti? Kun painat nappia ja tapahtuu jotain aivan maagista, joka saa sinut ajattelemaan: "Vau, miten he TEKIVÄT tämän?" No, joku aivan kuten sinä – todennäköisesti istuen suosikkikahvilassaan aamuyöllä kolmannen espressonsa kanssa – kirjoitti koodin, joka loi tuon taian. Ja tässä tulee se, mikä räjäyttää mielesi: tämän oppitunnin lopussa et vain ymmärrä, miten he sen tekivät, vaan sinulla on valtava halu kokeilla sitä itse!
+Katsos, ymmärrän täysin, jos ohjelmointi tuntuu nyt pelottavalta. Kun itse aloitin, luulin rehellisesti, että täytyy olla jonkinlainen matikkaguru tai olla koodannut jo viidestä vuodesta lähtien. Mutta tässä se, mikä täysin muutti näkökantani: ohjelmointi on juuri kuin uuden kielen oppimista – aloitat sanomalla "hei" ja "kiitos", sitten opit tilamaan kahvin ja ennen kuin huomaatkaan, käydään syvällisiä filosofisia keskusteluja! Ainostaan tässä tapauksessa keskustelet tietokoneiden kanssa, ja rehellisesti? Ne ovat kärsivällisimmät keskustelukumppanit ikinä – ne eivät koskaan tuomitse virheitäsi ja niillä on aina intoa yrittää uudelleen!
 
-Kuule, ymmärrän täysin, jos ohjelmointi tuntuu juuri nyt pelottavalta. Kun aloitin, ajattelin rehellisesti, että sinun täytyy olla jonkinlainen matemaattinen nero tai että sinun olisi pitänyt koodata jo viisivuotiaasta lähtien. Mutta tässä on se, mikä muutti täysin näkemykseni: ohjelmointi on aivan kuin uuden kielen oppimista. Aloitat "hei" ja "kiitos", sitten opit tilaamaan kahvia, ja ennen kuin huomaatkaan, käyt syvällisiä filosofisia keskusteluja! Paitsi että tässä tapauksessa keskustelet tietokoneiden kanssa, ja rehellisesti? Ne ovat kärsivällisimpiä keskustelukumppaneita, joita sinulla koskaan tulee olemaan – ne eivät koskaan tuomitse virheitäsi ja ovat aina valmiita yrittämään uudelleen!
-
-Tänään tutustumme uskomattomiin työkaluihin, jotka tekevät modernista web-kehityksestä paitsi mahdollisen, myös todella koukuttavan. Puhun samoista editoreista, selaimista ja työnkuluista, joita Netflixin, Spotifyn ja suosikkisi indie-sovellusstudion kehittäjät käyttävät joka päivä. Ja tässä tulee se osuus, joka saa sinut tanssimaan ilosta: suurin osa näistä ammattitason, teollisuusstandardin työkaluista on täysin ilmaisia!
+Tänään tutustumme uskomattomiin työkaluihin, jotka tekevät modernista web-kehityksestä paitsi mahdollista, myös todella koukuttavaa. Puhun samoista editoreista, selaimista ja työnkulkuista, joita Netflixin, Spotifyn ja suosikkisi indie-sovellusstudiot käyttävät joka ikinen päivä. Ja tässä tulee kohta, joka saa sinut tanssimaan ilosta: suurin osa näistä ammattimaisista, alan standardin työvälineistä on täysin ilmaisia!
 
 ![Intro Programming](../../../../translated_images/fi/webdev101-programming.d6e3f98e61ac4bff.webp)
-> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+> Sketchnote tekijä [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ```mermaid
 journey
-    title Your Programming Journey Today
-    section Discover
-      What is Programming: 5: You
-      Programming Languages: 4: You
-      Tools Overview: 5: You
-    section Explore
-      Code Editors: 4: You
-      Browsers & DevTools: 5: You
-      Command Line: 3: You
-    section Practice
-      Language Detective: 4: You
-      Tool Exploration: 5: You
-      Community Connection: 5: You
+    title Ohjelmointimatkasi Tänään
+    section Löydä
+      Mitä on ohjelmointi: 5: You
+      Ohjelmointikielet: 4: You
+      Työkalujen yleiskatsaus: 5: You
+    section Tutki
+      Koodieditorit: 4: You
+      Selaimet & Kehittäjätyökalut: 5: You
+      Komentorivi: 3: You
+    section Harjoittele
+      Kielenetsivä: 4: You
+      Työkalujen tutkiminen: 5: You
+      Yhteisöyhteydet: 5: You
 ```
+## Katsotaan, mitä jo osaat!
 
-## Katsotaan, mitä jo tiedät!
+Ennen kuin sukellamme hauskoihin juttuihin, olen utelias – mitä sinä jo tiedät tästä ohjelmointimaailmasta? Ja kuule, jos kun katsot näitä kysymyksiä ajattelet "minulla ei ole tästä mitään hajua," se ei ole pelkästään okei, se on täydellistä! Se tarkoittaa, että olet juuri oikeassa paikassa. Ajattele tätä testiä kuin venyttelyä ennen harjoittelua – lämmittelemme juuri niitä aivolihaksia!
 
-Ennen kuin sukellamme hauskoihin juttuihin, olen utelias – mitä tiedät jo tästä ohjelmointimaailmasta? Ja kuuntele, jos katsot näitä kysymyksiä ja ajattelet "Minulla ei ole aavistustakaan mistään tästä," se ei ole vain ok, vaan täydellistä! Se tarkoittaa, että olet juuri oikeassa paikassa. Ajattele tätä testiä kuin venyttelyä ennen treeniä – lämmitämme vain aivolihaksia!
+[Osallistu esitestiin](https://ff-quizzes.netlify.app/web/)
 
-[Osallistu ennakkotestiin](https://forms.office.com/r/dru4TE0U9n?origin=lprLink)
 
-## Seikkailu, johon olemme yhdessä ryhtymässä
+## Se seikkailu, johon olemme juuri lähdössä yhdessä
 
-Okei, olen aidosti innoissani siitä, mitä aiomme tutkia tänään! Vakavasti, toivon, että voisin nähdä ilmeesi, kun jotkut näistä konsepteista loksahtavat paikoilleen. Tässä on uskomaton matka, jonka teemme yhdessä:
+Okei, olen oikeasti innoissani siitä, mitä tänään tulemme tutkimaan! Rehellisesti, toivon, että näkisin sinun ilmeesi, kun jotkut näistä käsitteistä loksahtavat kohdalleen. Tässä uskomaton matka, jonka teemme yhdessä:
 
-- **Mitä ohjelmointi oikeastaan on (ja miksi se on siisteintä ikinä!)** – Tutkimme, miten koodi on kirjaimellisesti näkymätöntä taikaa, joka pyörittää kaikkea ympärilläsi, aina siitä herätyskellosta, joka tietää, että on maanantaiaamu, algoritmiin, joka täydellisesti valitsee Netflix-suosituksesi.
-- **Ohjelmointikielet ja niiden hämmästyttävät persoonallisuudet** – Kuvittele, että astut juhliin, jossa jokaisella vieraalla on täysin erilaiset supervoimat ja ongelmanratkaisutaidot. Sellainen on ohjelmointikielten maailma, ja tulet rakastamaan niiden tapaamista!
-- **Peruspalikat, jotka saavat digitaalisen taian tapahtumaan** – Ajattele näitä lopullisena luovana LEGO-sarjana. Kun ymmärrät, miten nämä palikat sopivat yhteen, huomaat, että voit kirjaimellisesti rakentaa mitä tahansa, mitä mielikuvituksesi keksii.
-- **Ammattilaistyökalut, jotka saavat sinut tuntemaan kuin sinulle olisi annettu taikasauva** – En liioittele – nämä työkalut saavat sinut todella tuntemaan, että sinulla on supervoimia, ja parasta? Ne ovat samoja, joita ammattilaiset käyttävät!
+- **Mitä ohjelmointi oikein on (ja miksi se on kaikkein siistein juttu ikinä!)** – Löydämme, miten koodi on kirjaimellisesti näkymätön taika, joka pyörittää kaikkea ympärilläsi, tuosta hälytyksestä, joka jotenkin tietää että on maanantaiaamu, sille algoritmille, joka täydellisesti kuratoi Netflixin suosituksesi
+- **Ohjelmointikielet ja niiden hämmästyttävät persoonallisuudet** – Kuvittele, että astut juhliin, joissa jokaisella ihmisellä on täysin erilaiset supervoimat ja ongelmanratkaisutavat. Näin ohjelmointikielten maailma on, ja tulet rakastamaan niiden tapaamista!
+- **Perusosa-alueet, jotka tekevät digitaalisesta taikasta totta** – Ajattele näitä kuin äärimmäisen luovaa LEGO-settiä. Kun ymmärrät, miten nämä palat sopivat yhteen, ymmärrät, että voit kirjaimellisesti rakentaa mitä mielikuvituksesi keksii
+- **Ammattimaiset työkalut, jotka saavat sinut tuntemaan, kuin olisit juuri saanut taikasauvan käteesi** – En ole dramatisoimassa – nämä työkalut saavat sinut todella tuntemaan, että sinulla on supervoimia, ja paras osa? Ne ovat samoja, joita ammattilaiset käyttävät!
 
-> 💡 **Tässä on juttu**: Älä edes ajattele yrittäväsi muistaa kaikkea tänään! Juuri nyt haluan vain, että tunnet innostuksen siitä, mitä kaikkea on mahdollista tehdä. Yksityiskohdat jäävät mieleen luonnollisesti, kun harjoittelemme yhdessä – näin oikea oppiminen tapahtuu!
+> 💡 **Tässä on juttu**: Älä edes yritä muistaa kaikkea tänään! Tässä vaiheessa haluan vain sinun aistivan sen kipinän siitä, mitä on mahdollista tehdä. Yksityiskohdat tarttuvat luonnostaan, kun harjoittelemme yhdessä – siinä tapahtuu todellinen oppiminen!
 
-> Voit käydä tämän oppitunnin [Microsoft Learnissa](https://docs.microsoft.com/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
+> Voit ottaa tämän oppitunnin käyttöön [Microsoft Learnissä](https://learn.microsoft.com/en-us/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
 
-## Mitä ohjelmointi oikeastaan *on*?
+## Mikä se ohjelmointi *oikein on*?
 
-Okei, käydään käsiksi miljoonan dollarin kysymykseen: mitä ohjelmointi oikeastaan on?
+Selvä, tartumme miljoonan taalan kysymykseen: mitä ohjelmointi oikeastaan on?
 
-Kerron sinulle tarinan, joka muutti täysin ajattelutapani. Viime viikolla yritin selittää äidilleni, miten käyttää uutta älytelevision kaukosäädintä. Huomasin sanovani asioita kuten "Paina punaista nappia, mutta ei sitä isoa punaista nappia, vaan sitä pientä punaista nappia vasemmalla... ei, sinun toisella vasemmalla... okei, nyt pidä sitä painettuna kaksi sekuntia, ei yhtä, ei kolmea..." Kuulostaako tutulta? 😅
+Kerron sinulle tarinan, joka täysin muutti tapani ajatella tätä. Viime viikolla yritin selittää äidilleni, miten käytetään uutta äly-TV:n kaukosäädintä. Huomasin sanovani asioita kuten: "Paina punaista nappia, mutta ei isoa punaista nappia, vaan vasemmalla olevaa pientä punaista nappia... ei, sinun toinen vasen... hyvä, pidä sitä pohjassa kaksi sekuntia, ei yhtä, ei kolmea..." Tuttu tunne? 😅
 
-Tuo on ohjelmointia! Se on taidetta antaa uskomattoman yksityiskohtaisia, vaiheittaisia ohjeita jollekin, joka on erittäin voimakas mutta tarvitsee kaiken selitettynä täydellisesti. Paitsi että äitisi sijaan (joka voi kysyä "mikä punainen nappi?!"), selität tietokoneelle (joka tekee juuri sen, mitä sanot, vaikka se ei olisikaan ihan sitä, mitä tarkoitit).
+Se on ohjelmointia! Se on taiteenlaji, jossa annetaan erittäin tarkkoja, vaihe vaiheelta -ohjeita jollekin, joka on hyvin voimakas, mutta tarvitsee kaiken kirjattuna selvästi. Paitsi että nyt et selitä äidillesi (joka voi kysyä "mikä punainen nappi?"), vaan tietokoneelle (joka tekee täsmälleen mitä sanot, vaikka sanomasi ei olisi ihan sitä, mitä tarkoitit).
 
-Tässä on se, mikä räjäytti mieleni, kun opin tämän: tietokoneet ovat itse asiassa melko yksinkertaisia pohjimmiltaan. Ne ymmärtävät kirjaimellisesti vain kaksi asiaa – 1 ja 0, mikä on käytännössä vain "kyllä" ja "ei" tai "päällä" ja "pois." Siinä kaikki! Mutta tässä tulee taika – meidän ei tarvitse puhua 1:illä ja 0:illa kuin olisimme Matrixissa. Siksi **ohjelmointikielet** tulevat apuun. Ne ovat kuin maailman paras kääntäjä, joka muuttaa normaalit ihmisen ajatukset tietokonekieleksi.
+Tässä se, mikä räjäytti mieleni, kun opin tämän: tietokoneet ovat itse asiassa ytimekkäästi melko yksinkertaisia. Ne ymmärtävät kirjaimellisesti vain kaksi asiaa – 1 ja 0, mikä tarkoittaa käytännössä "kyllä" ja "ei" tai "päällä" ja "pois." Siinä kaikki! Mutta tässä tulee se maaginen kohta – meidän ei tarvitse puhua 1- ja 0-kielellä kuin olisimme Matrixissa. Tässä tarpeessa ovat **ohjelmointikielet**. Ne ovat kuin maailman parhaat kääntäjät, jotka ottavat tavalliset ihmisen ajatuksesi ja muuntavat ne tietokoneen kieleksi.
 
-Ja tässä on se, mikä saa minut edelleen kylmille väreille joka aamu, kun herään: kirjaimellisesti *kaikki* digitaalinen elämässäsi alkoi jonkun kaltaisesi ihmisen toimesta, joka todennäköisesti istui pyjamissaan kahvikupin kanssa ja kirjoitti koodia kannettavallaan. Se Instagram-suodatin, joka saa sinut näyttämään täydelliseltä? Joku koodasi sen. Suositus, joka johdatti sinut uuteen suosikkikappaleeseesi? Kehittäjä rakensi sen algoritmin. Sovellus, joka auttaa sinua jakamaan ravintolalaskun ystäviesi kanssa? Jep, joku ajatteli "tämä on ärsyttävää, voisin varmaan korjata tämän" ja sitten... he tekivät sen!
+Ja tässä se, mikä saa minut edelleen joka aamu kylmilleen herätessäni: kirjaimellisesti *kaikki* digitaalisessa elämässäsi alkoi jostain aivan samanlaisesta kuin sinä, todennäköisesti pyjamassa, kahvikuppi kädessä, naputtamassa koodia kannettavallaan. Se Instagram-filtteri, joka saa sinut näyttämään virheettömältä? Joku koodasi sen. Suositus, joka johdatti sinut uuteen suosikkikappaleeseesi? Kehittäjä rakensi tuon algoritmin. Sovellus, joka auttaa jakamaan illallislaskut kavereiden kanssa? Jep, joku ajatteli "tämä ärsyttää, voisin kyllä korjata tämän" ja sitten... hän teki sen!
 
-Kun opit ohjelmoimaan, et vain opi uutta taitoa – sinusta tulee osa tätä uskomatonta ongelmanratkaisijoiden yhteisöä, joka viettää päivänsä miettien: "Entä jos voisin rakentaa jotain, joka tekee jonkun päivästä hieman paremman?" Rehellisesti, voiko olla mitään siistimpää kuin se?
+Kun opit ohjelmoimaan, et vain omaksu uutta taitoa – sinusta tulee osa tätä uskomatonta ongelmanratkaisuyhteisöä, joka käyttää päivänsä pohtien: "Entä jos voisin rakentaa jotain, joka tekee jonkun päivän edes vähän paremmaksi?" Rehellisesti, onko mitään siistimpää kuin se?
 
-✅ **Hauska faktaetsintä**: Tässä on jotain todella siistiä, mitä voit etsiä, kun sinulla on hetki aikaa – kuka luulet olleen maailman ensimmäinen tietokoneohjelmoija? Annan sinulle vihjeen: se ei ehkä ole se, mitä odotat! Tämän henkilön tarina on todella kiehtova ja osoittaa, että ohjelmointi on aina ollut luovaa ongelmanratkaisua ja laatikon ulkopuolella ajattelua.
+✅ **Hauska faktajahdissa**: Tässä on jotain superhienoa, jota voit selvittää, kun sinulla on hetki aikaa – kuka luulet olleen maailman ensimmäinen tietokoneohjelmoija? Annan sinulle vinkin: se ei välttämättä ole se henkilö, jota odotat! Tämän henkilön tarina on ehdottoman kiehtova ja osoittaa, että ohjelmointi on aina ollut luovaa ongelmanratkaisua ja tutkia asioita laatikon ulkopuolelta.
 
-### 🧠 **Tarkistuspiste: Miltä sinusta tuntuu?**
+### 🧠 **Tilannekatsaus: Miltä Sinusta Tuntuu?**
 
-**Pohdi hetki:**
-- Tuntuuko ajatus "ohjeiden antamisesta tietokoneille" nyt järkevältä?
-- Voitko keksiä päivittäisen tehtävän, jonka haluaisit automatisoida ohjelmoinnin avulla?
-- Mitä kysymyksiä sinulla herää tästä koko ohjelmointijutusta?
+**Ota hetki miettiäksesi:**
+- Onko "ohjeiden antaminen tietokoneille" nyt järkevää sinulle?
+- Voitko keksiä jonkin päivittäisen tehtävän, jonka haluaisit automatisoida ohjelmoinnilla?
+- Mitä kysymyksiä mieleesi nousee tästä kaikesta ohjelmoinnista?
 
-> **Muista**: On täysin normaalia, jos jotkut käsitteet tuntuvat vielä epäselviltä. Ohjelmoinnin oppiminen on kuin uuden kielen oppimista – aivojen täytyy rakentaa ne hermoyhteydet ajan kanssa. Olet hyvässä vauhdissa!
+> **Muista**: On täysin normaalia, jos jotkin käsitteet tuntuvat vielä epäselviltä. Ohjelmointi on kuin uuden kielen oppimista – aivosi tarvitsevat aikaa neuralgisten polkujen rakentamiseen. Olet mahtavasti mukana!
 
-## Ohjelmointikielet ovat kuin erilaisia taikuuden muotoja
+## Ohjelmointikielet ovat kuin erimakuisia taikoja
 
-Okei, tämä kuulostaa ehkä oudolta, mutta pysy mukana – ohjelmointikielet ovat kuin erilaisia musiikkityylejä. Mieti: sinulla on jazz, joka on sulavaa ja improvisoitua, rock, joka on voimakasta ja suoraviivaista, klassinen, joka on eleganttia ja strukturoitua, ja hip-hop, joka on luovaa ja ilmeikästä. Jokaisella tyylillä on oma tunnelmansa, oma intohimoisten fanien yhteisönsä, ja jokainen niistä sopii täydellisesti eri tilanteisiin ja mielialoihin.
+Okei, tämä saattaa kuulostaa oudolta, mutta pysy mukana – ohjelmointikielet ovat hyvin samanlaisia kuin erilaiset musiikkityylit. Ajattele: jazz, joka on sulavaa ja improvisoivaa, rock, joka on voimakasta ja suoraviivaista, klassinen, joka on hienostunutta ja rakenteellista, ja hip-hop, joka on luovaa ja ilmaisevaa. Jokaisella tyylillä on oma tunnelmansa, oma intohimoinen fanikuntansa, ja jokainen on täydellinen erilaisiin tunnelmiin ja tilanteisiin.
 
-Ohjelmointikielet toimivat täsmälleen samalla tavalla! Et käyttäisi samaa kieltä hauskan mobiilipelin rakentamiseen kuin käyttäisit valtavan määrän ilmastodatan käsittelyyn, aivan kuten et soittaisi death metalia joogatunnilla (no, useimmilla joogatunneilla ainakin! 😄).
+Ohjelmointikielet toimivat juuri samalla tavalla! Et käyttäisi samaa kieltä rakentamaan hauskaa mobiilipeliä kuin mitä käyttäisit valtavan määrän ilmastodataa käsiteltäessä, aivan kuten et soittaisi death metalia joogaluokassa (no, suurimmassa osassa joogatunteja ainakin! 😄).
 
-Mutta tässä on se, mikä hämmästyttää minua joka kerta, kun ajattelen sitä: nämä kielet ovat kuin maailman kärsivällisin, briljantti tulkki, joka istuu vieressäsi. Voit ilmaista ideasi tavalla, joka tuntuu luonnolliselta ihmisaivoillesi, ja ne hoitavat kaiken uskomattoman monimutkaisen työn muuntaen sen 1:iksi ja 0:iksi, joita tietokoneet oikeasti puhuvat. Se on kuin ystävä, joka on täydellisesti sujuva sekä "ihmisen luovuudessa" että "tietokoneen logiikassa" – eikä hän koskaan väsy, tarvitse kahvitaukoja tai tuomitse sinua, vaikka kysyisit samaa kysymystä kahdesti!
+Mutta tässä tulee se, mikä aina saa minut haukkomaan henkeäni: nämä kielet ovat kuin sinulle aivan vieressä istuva maailman kärsivällisin ja nerokkain tulkki. Voit ilmaista ideasi tavalla, joka tuntuu luonnolliselta sinun ihmisaivoillesi, ja ne hoitavat kaiken uskomattoman monimutkaisen työn muuntaen sen niiden 1:iksi ja 0:iksi, joita tietokoneet oikeasti puhuvat. Se on kuin ystävä, joka puhuu täydellisesti sekä ”ihmisen luovuutta” että ”tietokoneen logiikkaa” – ja hän ei koskaan väsy, tarvitse kahvitaukoja eikä tuomitse sinua, vaikka kysyisit samaa kysymystä kahdesti!
 
-### Suosittuja ohjelmointikieliä ja niiden käyttötarkoituksia
+### Suosituimmat ohjelmointikielet ja niiden käyttötarkoitukset
 
 ```mermaid
 mindmap
-  root((Programming Languages))
-    Web Development
+  root((Ohjelmointikielet))
+    Web-kehitys
       JavaScript
-        Frontend Magic
-        Interactive Websites
+        Frontend-taikuutta
+        Vuorovaikutteiset verkkosivut
       TypeScript
-        JavaScript + Types
-        Enterprise Apps
+        JavaScript + tyypit
+        Yrityssovellukset
     Data & AI
       Python
-        Data Science
-        Machine Learning
-        Automation
+        Data-analytiikka
+        Koneoppiminen
+        Automaatio
       R
-        Statistics
-        Research
-    Mobile Apps
+        Tilastotiede
+        Tutkimus
+    Mobiilisovellukset
       Java
         Android
-        Enterprise
+        Yritys
       Swift
         iOS
-        Apple Ecosystem
+        Applen ekosysteemi
       Kotlin
-        Modern Android
-        Cross-platform
-    Systems & Performance
+        Moderni Android
+        Monialustainen
+    Järjestelmät & suorituskyky
       C++
-        Games
-        Performance Critical
+        Pelit
+        Suorituskykykriittinen
       Rust
-        Memory Safety
-        System Programming
+        Muistin turvallisuus
+        Järjestelmäohjelmointi
       Go
-        Cloud Services
-        Scalable Backend
+        Pilvipalvelut
+        Laajennettava backend
 ```
-
-| Kieli | Parhaat käyttötarkoitukset | Miksi se on suosittu |
-|-------|----------------------------|----------------------|
-| **JavaScript** | Web-kehitys, käyttöliittymät | Toimii selaimissa ja mahdollistaa interaktiiviset verkkosivut |
+| Kieli | Parhaiten soveltuva käyttö | Miksi se on suosittu |
+|----------|----------|------------------|
+| **JavaScript** | Web-kehitys, käyttöliittymät | Toimii selaimissa ja pyörittää interaktiivisia verkkosivuja |
 | **Python** | Data-analytiikka, automaatio, tekoäly | Helppo lukea ja oppia, tehokkaat kirjastot |
-| **Java** | Yrityssovellukset, Android-sovellukset | Alustariippumaton, kestävä suurille järjestelmille |
+| **Java** | Yrityssovellukset, Android-sovellukset | Alustariippumaton, kestävä suurissa järjestelmissä |
 | **C#** | Windows-sovellukset, pelikehitys | Vahva Microsoft-ekosysteemin tuki |
-| **Go** | Pilvipalvelut, taustajärjestelmät | Nopea, yksinkertainen, suunniteltu moderniin laskentaan |
+| **Go** | Pilvipalvelut, backend-järjestelmät | Nopea, yksinkertainen, suunniteltu moderniin laskentaan |
 
 ### Korkean tason vs. matalan tason kielet
 
-Okei, tämä oli rehellisesti se konsepti, joka sai aivoni ylikuormittumaan, kun aloitin oppimisen, joten jaan kanssasi vertauksen, joka lopulta sai minut ymmärtämään – ja toivon todella, että se auttaa sinua myös!
+Okei, tämä oli rehellisesti se käsite, joka hajotti aivoni, kun aloitin, joten jaan analogian, joka lopulta sai sen loksahtamaan – ja toivon todella, että se auttaa sinua myös!
 
-Kuvittele, että vierailet maassa, jossa et puhu kieltä, ja sinun täytyy epätoivoisesti löytää lähin wc (olemme kaikki olleet siinä tilanteessa, eikö? 😅):
+Kuvittele, että olet vieraassa maassa, jossa et puhu kieltä, ja sinun on kipeästi löydettävä lähin WC (me kaikki olemme olleet siinä tilanteessa, eikö? 😅):
 
-- **Matalan tason ohjelmointi** on kuin oppisit paikallisen murteen niin hyvin, että voit jutella kadunkulman hedelmiä myyvän isoäidin kanssa käyttäen kulttuuriviittauksia, paikallista slangia ja sisäpiirivitsejä, jotka vain siellä kasvanut ymmärtäisi. Todella vaikuttavaa ja uskomattoman tehokasta... jos satut olemaan sujuva! Mutta melko ylivoimaista, kun yrität vain löytää wc:n.
+- **Matalan tason ohjelmointi** on kuin oppisit paikallista murretta niin hyvin, että pystyt juttelemaan kulmassa hedelmiä myyvän isoäidin kanssa käyttäen kulttuuriviittauksia, paikallista slangia ja sisäpiirin vitsejä, joita vain paikalliset ymmärtävät. Todella vaikuttavaa ja erittäin tehokasta... jos osaat murteen! Mutta aika ylivoimaista, kun yrität vain löytää vessan.
 
-- **Korkean tason ohjelmointi** on kuin sinulla olisi se mahtava paikallinen ystävä, joka vain ymmärtää sinua. Voit sanoa "Minun täytyy todella löytää wc" tavallisella englannilla, ja hän hoitaa kaiken kulttuurisen käännöksen ja antaa sinulle ohjeet tavalla, joka käy järkeen ei-paikalliselle.
+- **Korkean tason ohjelmointi** on kuin se upea paikallinen ystävä, joka todella ymmärtää sinua. Voit sanoa englanniksi "Minun pitää todella löytää WC", ja hän hoitaa koko kulttuurikäännöksen ja antaa ohjeet tavalla, joka tekee täyttä järkeä aivoillesi, jotka eivät ole paikkakuntalaisia.
 
 Ohjelmoinnin termein:
-- **Matalan tason kielet** (kuten Assembly tai C) antavat sinun käydä uskomattoman yksityiskohtaisia keskusteluja tietokoneen varsinaisen laitteiston kanssa, mutta sinun täytyy ajatella kuin kone, mikä on... no, sanotaan vain, että se on melko suuri henkinen muutos!
-- **Korkean tason kielet** (kuten JavaScript, Python tai C#) antavat sinun ajatella kuin ihminen, kun ne hoitavat kaiken konepuheen kulissien takana. Lisäksi niillä on uskomattoman tervetulleita yhteisöjä, jotka ovat täynnä ihmisiä, jotka muistavat, millaista oli olla uusi ja haluavat aidosti auttaa!
+- **Matalan tason kielet** (kuten Assembly tai C) antavat sinulle mahdollisuuden keskustella hyvin yksityiskohtaisesti tietokoneen laitteiston kanssa, mutta sinun täytyy ajatella kuin kone, mikä on... no, sanotaan vaikka, suuri henkinen muutos!
+- **Korkean tason kielet** (kuten JavaScript, Python tai C#) antavat sinun ajatella kuin ihminen samalla, kun ne hoitavat kaiken koneen kielen taustalla. Lisäksi niillä on uskomattoman vastaanottavia yhteisöjä, joissa ihmiset muistavat, millaista oli olla uusi ja haluavat aidosti auttaa!
 
-Arvaa, mitä suosittelen sinulle aloitettavaksi? 😉 Korkean tason kielet ovat kuin apupyörät, joita et koskaan oikeasti halua ottaa pois, koska ne tekevät koko kokemuksesta niin paljon nautinnollisemman!
+Arvaa, mistä kielistä aion ehdottaa sinun aloittavan? 😉 Korkean tason kielet ovat kuin apupyörät, joita et oikeasti halua koskaan poistaa, koska ne tekevät koko kokemuksesta paljon nautittavamman!
 
 ```mermaid
 flowchart TB
-    A["👤 Human Thought:<br/>'I want to calculate Fibonacci numbers'"] --> B{Choose Language Level}
+    A["👤 Inhimillinen ajatus:<br/>'Haluan laskea Fibonaccin lukujonoja'"] --> B{Valitse ohjelmointitaso}
     
-    B -->|High-Level| C["🌟 JavaScript/Python<br/>Easy to read and write"]
-    B -->|Low-Level| D["⚙️ Assembly/C<br/>Direct hardware control"]
+    B -->|Korkean tason| C["🌟 JavaScript/Python<br/>Helppo lukea ja kirjoittaa"]
+    B -->|Matalan tason| D["⚙️ Assembly/C<br/>Suora laitteiston ohjaus"]
     
-    C --> E["📝 Write: fibonacci(10)"]
-    D --> F["📝 Write: mov r0,#00<br/>sub r0,r0,#01"]
+    C --> E["📝 Kirjoita: fibonacci(10)"]
+    D --> F["📝 Kirjoita: mov r0,#00<br/>sub r0,r0,#01"]
     
-    E --> G["🤖 Computer Understanding:<br/>Translator handles complexity"]
+    E --> G["🤖 Tietokoneen ymmärrys:<br/>Kääntäjä hoitaa monimutkaisuuden"]
     F --> G
     
-    G --> H["💻 Same Result:<br/>0, 1, 1, 2, 3, 5, 8, 13..."]
+    G --> H["💻 Sama tulos:<br/>0, 1, 1, 2, 3, 5, 8, 13..."]
     
     style C fill:#e1f5fe
     style D fill:#fff3e0
     style H fill:#e8f5e8
 ```
+### Näytän miksi korkean tason kielet ovat paljon ystävällisempiä
 
-### Näytän sinulle, miksi korkean tason kielet ovat niin paljon ystävällisempiä
+Okei, olen kohta näyttämässä sinulle jotain, joka täydellisesti osoittaa, miksi rakastuin korkean tason kieliin, mutta ensin – tarvitsee sinun luvata minulle yksi juttu. Kun näet ensimmäisen koodiesimerkin, älä paniikki! Sen on tarkoitus näyttää pelottavalta. Juuri sitä yritän sanoa!
 
-Okei, aion näyttää sinulle jotain, joka täydellisesti havainnollistaa, miksi rakastuin korkean tason kieliin, mutta ensin – sinun täytyy luvata minulle jotain. Kun näet ensimmäisen koodiesimerkin, älä panikoi! Sen on tarkoitus näyttää pelottavalta. Juuri sitä yritän tässä havainnollistaa!
+Katselemme samaa tehtävää, kirjoitettuna kahdella täysin eri tyylillä. Molemmat luovat niin kutsutun Fibonacci-jonon – se on kaunis matemaattinen kuvio, jossa kukin luku on kahden edellisen summa: 0, 1, 1, 2, 3, 5, 8, 13... (Hauska fakta: tämä kuvio esiintyy kirjaimellisesti kaikkialla luonnossa – auringonkukan siementen spiraalit, kävyn kuviot, jopa galaksien muodostuminen!)
 
-Katsotaan täsmälleen sama tehtävä kirjoitettuna kahdella täysin erilaisella tyylillä. Molemmat luovat niin sanotun Fibonacci-jonon – se on kaunis matemaattinen kuvio, jossa jokainen luku on kahden edellisen summan: 0, 1, 1, 2, 3, 5, 8, 13... (Hauska fakta: löydät tämän kuvion kirjaimellisesti kaikkialta luonnosta – auringonkukan siemenistä, käpyjen kuvioista, jopa galaksien muodostumisesta!)
-
-Valmis näkemään ero? Mennään!
+Valmiina näkemään eron? Mennään!
 
 **Korkean tason kieli (JavaScript) – Ihmisystävällinen:**
 
 ```javascript
-// Step 1: Basic Fibonacci setup
+// Vaihe 1: Perus Fibonacci-asetus
 const fibonacciCount = 10;
 let current = 0;
 let next = 1;
@@ -185,32 +183,32 @@ let next = 1;
 console.log('Fibonacci sequence:');
 ```
 
-**Tämä koodi tekee seuraavaa:**
-- **Määrittää** vakion, joka kertoo, kuinka monta Fibonacci-lukua haluamme tuottaa
+**Tässä mitä tämä koodi tekee:**
+- **Määrittää** vakion, joka kertoo, kuinka monta Fibonacci-lukua haluamme luoda
 - **Alustaa** kaksi muuttujaa seuraamaan nykyistä ja seuraavaa lukua jonossa
-- **Asettaa** aloitusarvot (0 ja 1), jotka määrittävät Fibonacci-kuvion
-- **Näyttää** otsikkoviestin, joka kertoo tuloksesta
+- **Asettaa** aloitusarvot (0 ja 1), jotka määrittelevät Fibonacci-kuvion
+- **Näyttää** otsikkoviestin tunnistamaan tuloksemme
 
 ```javascript
-// Step 2: Generate the sequence with a loop
+// Vaihe 2: Luo sekvenssi silmukalla
 for (let i = 0; i < fibonacciCount; i++) {
   console.log(`Position ${i + 1}: ${current}`);
   
-  // Calculate next number in sequence
+  // Laske seuraava luku sekvenssissä
   const sum = current + next;
   current = next;
   next = sum;
 }
 ```
 
-**Tässä tapahtuu seuraavaa:**
-- **Käydään läpi** jokainen sijainti jonossa `for`-silmukalla
-- **Näytetään** jokainen luku sen sijainnin kanssa käyttämällä mallilausekkeita
+**Tässä käydään läpi, mitä tapahtuu:**
+- **Toistetaan** jokainen paikka jonossamme käyttäen `for`-silmukkaa
+- **Näytetään** jokainen luku sen paikan kanssa käyttäen template literal -muotoilua
 - **Lasketaan** seuraava Fibonacci-luku lisäämällä nykyinen ja seuraava arvo
-- **Päivitetään** seurantamuuttujat siirtyäksemme seuraavaan iteraatioon
+- **Päivitetään** muuttujat siirtymään seuraavaan iteraatioon
 
 ```javascript
-// Step 3: Modern functional approach
+// Vaihe 3: Moderni funktionaalinen lähestymistapa
 const generateFibonacci = (count) => {
   const sequence = [0, 1];
   
@@ -221,16 +219,16 @@ const generateFibonacci = (count) => {
   return sequence;
 };
 
-// Usage example
+// Käyttöesimerkki
 const fibSequence = generateFibonacci(10);
 console.log(fibSequence);
 ```
 
-**Yllä teimme:**
-- **Luoimme** uudelleenkäytettävän funktion modernilla nuolifunktiosyntaksilla
-- **Rakensimme** taulukon tallentamaan koko jonon sen sijaan, että näyttäisimme luvut yksi kerrallaan
-- **Käytimme** taulukon indeksejä laskeaksemme jokaisen uuden luvun edellisistä arvoista
-- **Palautimme** koko jonon joustavasti käytettäväksi ohjelman muissa osissa
+**Edellä olemme:**
+- **Luoneet** uudelleenkäytettävän funktion käyttämällä modernia nuolitoimintojen syntaksia
+- **Rakentaneet** taulukon tallentamaan koko jono yksittäisen tulostuksen sijaan
+- **Käyttäneet** taulukon indeksointia laskiakseen jokaisen uuden luvun edellisistä arvoista
+- **Palauttaneet** koko jonon monipuoliseen käyttöön ohjelman muissa osissa
 
 **Matalan tason kieli (ARM Assembly) – Tietokoneystävällinen:**
 
@@ -259,124 +257,128 @@ back add r0,r1
  end
 ```
 
-Huomaa, kuinka JavaScript-versio näyttää melkein kuin englanninkielisiltä ohjeilta, kun
-- **Kommentit**: Korkean tason ohjelmointikielet kannustavat selittäviin kommentteihin, jotka tekevät koodista itseään dokumentoivan.
-- **Rakenne**: JavaScriptin looginen kulku vastaa tapaa, jolla ihmiset ajattelevat ongelmia askel askeleelta.
-- **Ylläpito**: JavaScript-version päivittäminen eri vaatimuksia varten on suoraviivaista ja selkeää.
+Huomaa, miten JavaScript-versio lukee melkein kuin englanninkieliset ohjeet, kun taas Assembly-versio käyttää kryptisiä käskyjä, jotka ohjaavat suoraan tietokoneen prosessoria. Molemmat saavuttavat saman tehtävän, mutta korkean tason kieli on paljon helpompi ihmisille ymmärtää, kirjoittaa ja ylläpitää.
 
-✅ **Tietoa Fibonacci-jonosta**: Tämä uskomattoman kaunis lukujono (jossa jokainen luku on kahden edellisen summa: 0, 1, 1, 2, 3, 5, 8...) esiintyy kirjaimellisesti *kaikkialla* luonnossa! Löydät sen auringonkukan spiraaleista, käpyjen kuvioista, nautilus-kuorten kaarevuudesta ja jopa puiden oksien kasvutavasta. On aika hämmästyttävää, miten matematiikka ja koodi voivat auttaa meitä ymmärtämään ja luomaan uudelleen luonnon kauneuden luomiseen käyttämiä kuvioita!
+**Keskeiset erot, jotka huomaat:**
+- **Luettavuus**: JavaScript käyttää kuvailevia nimiä kuten `fibonacciCount`, kun taas Assemblyssa käytetään kryptisiä tunnisteita kuten `r0`, `r1`
+- **Kommentit**: Korkeamman tason kielet kannustavat selittäviin kommentteihin, jotka tekevät koodista itseään dokumentoivan
+- **Rakenne**: JavaScriptin looginen kulku vastaa ihmisten tapausta ajatella ongelmia vaihe vaiheelta
+- **Ylläpito**: JavaScript-version päivittäminen eri vaatimuksiin on yksinkertaista ja selkeää
 
-## Rakennuspalikat, jotka saavat taian aikaan
+✅ **Fibonaccin lukujonosta**: Tämä uskomattoman kaunis numerosarja (jossa kukin luku on kahden edeltävän summa: 0, 1, 1, 2, 3, 5, 8...) esiintyy kirjaimellisesti *kaikkialla* luonnossa! Löydät sen auringonkukan kierteistä, käpyjen kuvioista, nautiluksen kuoren kaarevuudesta ja jopa siitä, miten puun oksat kasvavat. On melko hurjaa, miten matematiikka ja koodi voivat auttaa meitä ymmärtämään ja jäljittelemään luonnon käyttämää kauneuden muodostavaa mallia!
 
-Okei, nyt kun olet nähnyt, miltä ohjelmointikielet näyttävät käytännössä, puretaanpa perusosat, jotka muodostavat kirjaimellisesti jokaisen koskaan kirjoitetun ohjelman. Ajattele näitä kuin suosikkireseptisi olennaisia aineksia – kun ymmärrät, mitä kukin tekee, pystyt lukemaan ja kirjoittamaan koodia melkein millä tahansa kielellä!
 
-Tämä on vähän kuin ohjelmoinnin kieliopin oppimista. Muistatko koulusta, kun opit substantiiveista, verbeistä ja siitä, miten lauseita muodostetaan? Ohjelmoinnilla on oma kielioppinsa, ja rehellisesti sanottuna se on paljon loogisempaa ja anteeksiantavampaa kuin englannin kielioppi koskaan oli! 😄
+## Rakennuspalikat, jotka tekevät taian mahdolliseksi
 
-### Lauseet: Askeltasolla etenevät ohjeet
+Hyvä on, nyt kun olet nähnyt, miltä ohjelmointikielet näyttävät käytännössä, puretaanpa fundamentaaliset osat, jotka muodostavat kirjaimellisesti jokaisen koskaan kirjoitetun ohjelman. Ajattele näitä suosikkireseptisi olennaisina ainesosina – kun ymmärrät, mitä kukin tekee, osaat lukea ja kirjoittaa koodia lähes missä tahansa kielessä!
 
-Aloitetaan **lauseista** – ne ovat kuin yksittäisiä lauseita keskustelussa tietokoneesi kanssa. Jokainen lause kertoo tietokoneelle, mitä tehdä, vähän kuin antaisi ohjeita: "Käänny tästä vasemmalle", "Pysähdy punaisissa valoissa", "Pysäköi tuohon paikkaan."
+Tämä on vähän kuin oppisit ohjelmoinnin kielioppia. Muistatko koulusta, kun opit substantiiveista, verbeistä ja lauseiden rakentamisesta? Ohjelmoinnilla on oma kielioppinsa, ja rehellisesti, se on paljon loogisempi ja armollisempi kuin englannin kielioppi koskaan oli! 😄
 
-Rakastan lauseita niiden luettavuuden takia. Katso tätä:
+### Lauseet: Askel askeleelta ohjeet
+
+Aloitetaan **lauseista** – ne ovat kuin yksittäisiä lauseita keskustelussa tietokoneesi kanssa. Jokainen lause kertoo tietokoneelle tehdä jotain tiettyä, vähän kuin antamalla ohjeita: "Käänny tähän vasemmalle," "Pysähdy punaisiin valoihin," "Pysäköi siihen kohtaan."
+
+Pidän siitä, miten luettavia lauseet yleensä ovat. Katso tätä:
 
 ```javascript
-// Basic statements that perform single actions
+// Peruslauseet, jotka suorittavat yksittäisiä toimintoja
 const userName = "Alex";                    
 console.log("Hello, world!");              
 const sum = 5 + 3;                         
 ```
-
-**Tämä koodi tekee seuraavaa:**
-- **Määrittää** vakion muuttujan käyttäjän nimen tallentamiseksi
-- **Näyttää** tervehdysviestin konsolin tulosteessa
-- **Laskee** ja tallentaa matemaattisen operaation tuloksen
+  
+**Tämä koodi tekee seuraavaa:**  
+- **Määrittelee** vakion käyttäjän nimen tallentamista varten  
+- **Näyttää** tervehdyksen konsoliin  
+- **Laskee** ja tallentaa matemaattisen operaation tuloksen  
 
 ```javascript
-// Statements that interact with web pages
+// Lauseet, jotka ovat vuorovaikutuksessa verkkosivujen kanssa
 document.title = "My Awesome Website";      
 document.body.style.backgroundColor = "lightblue";
 ```
-
-**Askel askeleelta, tässä tapahtuu:**
-- **Muokkaa** verkkosivun otsikkoa, joka näkyy selaimen välilehdessä
-- **Vaihda** koko sivun taustaväri
+  
+**Askel askeleelta tapahtuu:**  
+- **Muokkaa** verkkosivun otsikkoa, joka näkyy selaimen välilehdessä  
+- **Vaihda** koko sivun taustaväri  
 
 ### Muuttujat: Ohjelmasi muistijärjestelmä
 
-Okei, **muuttujat** ovat rehellisesti yksi suosikkikonsepteistani opettaa, koska ne ovat niin samanlaisia kuin asiat, joita käytät jo joka päivä!
+Okei, **muuttujat** ovat rehellisesti sanottuna yksi suosikki käsitteistäni opettaa, koska ne ovat niin samanlaisia kuin asioita, joita käytät joka päivä!
 
-Ajattele hetki puhelimesi yhteystietoluetteloa. Et muista kaikkien puhelinnumeroita ulkoa – sen sijaan tallennat "Äiti", "Paras ystävä" tai "Pizzerian numero, joka toimittaa klo 2 asti" ja annat puhelimesi muistaa varsinaiset numerot. Muuttujat toimivat täsmälleen samalla tavalla! Ne ovat kuin nimettyjä säiliöitä, joihin ohjelmasi voi tallentaa tietoa ja hakea sen myöhemmin nimen avulla, joka oikeasti käy järkeen.
+Ajattele hetki puhelimesi yhteystietoluetteloa. Et muista kaikkien puhelinnumeroita – sen sijaan tallennat "Äiti," "Paras Ystävä" tai "Pizzapaikka, joka toimittaa aamukahteen asti" ja annat puhelimesi muistaa numerot. Muuttujat toimivat ihan samalla tavalla! Ne ovat kuin nimettyjä säiliöitä, joihin ohjelmasi voi tallentaa tietoa ja hakea sen myöhemmin järkevällä nimellä.
 
-Tässä on hienoa: muuttujat voivat muuttua ohjelman suorittamisen aikana (siitä nimi "muuttuja" – ymmärrätkö, mitä he tekivät?). Aivan kuten päivittäisit pizzerian yhteystiedot, kun löydät vielä paremman paikan, muuttujia voidaan päivittää, kun ohjelmasi oppii uutta tietoa tai tilanteet muuttuvat!
+Tässä on se todella siisti juttu: muuttujat voivat muuttua ohjelman ajon aikana (juuri siksi ne kutsutaan muuttujiksi – näitkö mitä teimme siellä?). Aivan kuten saatat päivittää pizzapaikan yhteystiedon, kun löydät paremman, muuttujia voidaan päivittää, kun ohjelmasi oppii uutta tai tilanteet muuttuvat!
 
-Näytän, kuinka kauniin yksinkertaista tämä voi olla:
+Näytän sinulle, kuinka kauniin yksinkertaista tämä voi olla:
 
 ```javascript
-// Step 1: Creating basic variables
+// Vaihe 1: Perusmuuttujien luominen
 const siteName = "Weather Dashboard";        
 let currentWeather = "sunny";               
 let temperature = 75;                       
 let isRaining = false;                      
 ```
-
-**Näiden käsitteiden ymmärtäminen:**
-- **Tallenna** muuttumattomat arvot `const`-muuttujiin (kuten sivuston nimi)
-- **Käytä** `let`-muuttujia arvoille, jotka voivat muuttua ohjelman aikana
-- **Määritä** erilaisia tietotyyppejä: merkkijonoja (tekstiä), numeroita ja totuusarvoja (true/false)
-- **Valitse** kuvaavia nimiä, jotka selittävät, mitä kukin muuttuja sisältää
+  
+**Näiden käsitteiden ymmärtäminen:**  
+- **Tallenna** muuttumattomat arvot `const`-muuttujiin (kuten sivuston nimi)  
+- **Käytä** `let` arvoihin, jotka voivat muuttua ohjelmassa  
+- **Määritä** eri tietotyyppejä: merkkijonoja (tekstiä), lukuja, boolean-arvoja (totta/epätotta)  
+- **Valitse** kuvailevat nimet, jotka selittävät, mitä kukin muuttuja sisältää  
 
 ```javascript
-// Step 2: Working with objects to group related data
+// Vaihe 2: Työskentely objektien kanssa ryhmitelläksesi liittyviä tietoja
 const weatherData = {                       
   location: "San Francisco",
   humidity: 65,
   windSpeed: 12
 };
 ```
-
-**Yllä olevassa olemme:**
-- **Luoneet** olion ryhmitelläksemme yhteen liittyviä säätietoja
-- **Järjestäneet** useita tietoja yhden muuttujan alle
-- **Käyttäneet** avain-arvopareja merkitsemään jokainen tieto selkeästi
+  
+**Yllä olemme:**  
+- **Luoneet** olion ryhmittelemään liittyvää säätietoa yhteen  
+- **Organisoineet** useita tietoja yhden muuttujan alle  
+- **Käyttäneet** avain-arvo -pareja selkeästi merkitsemiseen  
 
 ```javascript
-// Step 3: Using and updating variables
+// Vaihe 3: Muuttujien käyttäminen ja päivittäminen
 console.log(`${siteName}: Today is ${currentWeather} and ${temperature}°F`);
 console.log(`Wind speed: ${weatherData.windSpeed} mph`);
 
-// Updating changeable variables
+// Muutettavien muuttujien päivittäminen
 currentWeather = "cloudy";                  
 temperature = 68;                          
 ```
-
-**Ymmärretään jokainen osa:**
-- **Näytä** tietoa käyttämällä mallilausekkeita `${}`-syntaksilla
-- **Pääsy** olion ominaisuuksiin piste-notaatiolla (`weatherData.windSpeed`)
-- **Päivitä** `let`-muuttujia muuttuvien olosuhteiden mukaan
-- **Yhdistä** useita muuttujia luodaksesi merkityksellisiä viestejä
+  
+**Ymmärretään jokainen osa:**  
+- **Näytä** tietoa käyttämällä mallipohjaisia merkkijonoja `${}`-syntaksilla  
+- **Käytä** olion ominaisuuksia piste-notaatiolla (`weatherData.windSpeed`)  
+- **Päivitä** `let`-muuttujia heijastamaan muuttuvia olosuhteita  
+- **Yhdistä** useita muuttujia luodaksesi merkityksellisiä viestejä  
 
 ```javascript
-// Step 4: Modern destructuring for cleaner code
+// Vaihe 4: Moderneja purkutekniikoita puhtaampaan koodiin
 const { location, humidity } = weatherData; 
 console.log(`${location} humidity: ${humidity}%`);
 ```
+  
+**Mitä sinun tulee tietää:**  
+- **Ota** tiettyjä ominaisuuksia olioista purkamalla (destructuring)  
+- **Luo** uusia muuttujia samoilla nimillä kuin oli avaimet automaattisesti  
+- **Yksinkertaista** koodia välttelemällä toistuvaa piste-notaatiota  
 
-**Mitä sinun tulee tietää:**
-- **Poimi** tiettyjä ominaisuuksia olioista käyttämällä hajautusmäärittelyä
-- **Luo** uusia muuttujia automaattisesti samoilla nimillä kuin olion avaimet
-- **Yksinkertaista** koodia välttämällä toistuvaa piste-notaatiota
+### Ohjausrakenne: Opeta ohjelmallesi ajattelua
 
-### Ohjausvirta: Opeta ohjelmaasi ajattelemaan
+Okei, tässä ohjelmointi muuttuu täysin uskomattomaksi! **Ohjausrakenne** on käytännössä sitä, että opetat ohjelmallesi tekemään fiksuja päätöksiä aivan kuten sinäkin teet joka päivä ilman, että edes ajattelet niitä.
 
-Okei, tässä kohtaa ohjelmointi muuttuu todella hämmästyttäväksi! **Ohjausvirta** tarkoittaa käytännössä ohjelman opettamista tekemään fiksuja päätöksiä, aivan kuten sinä teet joka päivä ajattelematta sitä.
+Kuvittele tämä: tänä aamuna menit varmaan läpi jotain tällaista "Jos sataa, otan sateenvarjon. Jos on kylmä, laitan takin päälle. Jos olen myöhässä, jätän aamiaisen väliin ja haen kahvin matkan varrella." Aivosi seuraa luonnollisesti tätä jos-niin-logiikkaa kymmeniä kertoja päivittäin!
 
-Kuvittele tämä: tänä aamuna kävit todennäköisesti läpi jotain sellaista kuin "Jos sataa, otan sateenvarjon. Jos on kylmä, puen takin. Jos olen myöhässä, jätän aamiaisen väliin ja nappaan kahvin matkalla." Aivosi seuraavat luonnollisesti tällaista jos-niin logiikkaa kymmeniä kertoja päivässä!
+Tämä tekee ohjelmista älykkäitä ja eläviä, eikä vain tylsästi ennalta arvattavia käsikirjoituksia. Ne voivat oikeasti tarkastella tilannetta, arvioida mitä tapahtuu, ja reagoida sopivasti. Se on kuin antaisit ohjelmallesi aivot, jotka pystyvät sopeutumaan ja tekemään valintoja!
 
-Tämä tekee ohjelmista älykkäitä ja eloisia sen sijaan, että ne vain seuraisivat tylsää, ennalta määrättyä käsikirjoitusta. Ne voivat oikeasti tarkastella tilannetta, arvioida mitä tapahtuu ja reagoida asianmukaisesti. Se on kuin antaisi ohjelmallesi aivot, jotka voivat sopeutua ja tehdä valintoja!
-
-Haluatko nähdä, kuinka kauniisti tämä toimii? Näytän sinulle:
+Haluatko nähdä, kuinka tehokkaasti tämä toimii? Näytän sinulle:
 
 ```javascript
-// Step 1: Basic conditional logic
+// Vaihe 1: Perusehdollinen logiikka
 const userAge = 17;
 
 if (userAge >= 18) {
@@ -386,15 +388,15 @@ if (userAge >= 18) {
   console.log(`You'll be able to vote in ${yearsToWait} year(s).`);
 }
 ```
-
-**Tämä koodi tekee seuraavaa:**
-- **Tarkistaa**, täyttääkö käyttäjän ikä äänestysvaatimuksen
-- **Suorittaa** eri koodilohkoja ehdon tuloksen perusteella
-- **Laskee** ja näyttää, kuinka kauan äänestyskelpoisuuteen on aikaa, jos ikä on alle 18
-- **Tarjoaa** tarkkaa ja hyödyllistä palautetta jokaiseen tilanteeseen
+  
+**Tämä koodi tekee:**  
+- **Tarkista**, täyttääkö käyttäjän ikä äänioikeuden vaatimuksen  
+- **Suorita** eri koodilohkot ehdon tuloksen perusteella  
+- **Laske** ja näytä, kuinka kauan äänioikeuden saavuttamiseen on, jos alle 18  
+- **Anna** tarkat, hyödylliset palautteet joka tilanteessa  
 
 ```javascript
-// Step 2: Multiple conditions with logical operators
+// Vaihe 2: Useita ehtoja loogisilla operaattoreilla
 const userAge = 17;
 const hasPermission = true;
 
@@ -406,26 +408,26 @@ if (userAge >= 18 && hasPermission) {
   console.log("Sorry, you must be at least 16 years old.");
 }
 ```
-
-**Tässä tapahtuu:**
-- **Yhdistää** useita ehtoja `&&` (ja)-operaattorilla
-- **Luo** ehtohierarkian käyttämällä `else if` useille skenaarioille
-- **Käsittele** kaikki mahdolliset tapaukset viimeisellä `else`-lauseella
-- **Tarjoa** selkeää ja toimivaa palautetta jokaiseen eri tilanteeseen
+  
+**Tässä tapahtuu:**  
+- **Yhdistä** useita ehtoja `&&` (ja) -operaattorilla  
+- **Luo** ehtorakenteiden hierarkia käyttäen `else if` monille tilanteille  
+- **Käsittele** kaikki mahdolliset tapaukset lopullisella `else`-lauseella  
+- **Anna** selkeät ja käyttäjäystävälliset palautteet erilaisille tilanteille  
 
 ```javascript
-// Step 3: Concise conditional with ternary operator
+// Vaihe 3: Tiivis ehto ternäärisellä operaattorilla
 const votingStatus = userAge >= 18 ? "Can vote" : "Cannot vote yet";
 console.log(`Status: ${votingStatus}`);
 ```
-
-**Mitä sinun tulee muistaa:**
-- **Käytä** ternääristä operaattoria (`? :`) yksinkertaisiin kahden vaihtoehdon ehtoihin
-- **Kirjoita** ehto ensin, sitten `?`, sen jälkeen tosi-tulos, sitten `:`, ja lopuksi epätosi-tulos
-- **Sovella** tätä mallia, kun sinun täytyy määrittää arvoja ehtojen perusteella
+  
+**Muista tämä:**  
+- **Käytä** ternääristä operaattoria (`? :`) yksinkertaisiin kahden vaihtoehdon ehtoihin  
+- **Kirjoita** ehto ensin, sitten `?`, sitten tosi-arvo, sitten `:`, sitten epätosi-arvo  
+- **Sovella** tätä mallia, kun haluat määrittää arvoja ehtojen perusteella  
 
 ```javascript
-// Step 4: Handling multiple specific cases
+// Vaihe 4: Useiden erityistapausten käsittely
 const dayOfWeek = "Tuesday";
 
 switch (dayOfWeek) {
@@ -444,58 +446,57 @@ switch (dayOfWeek) {
     console.log("Invalid day of the week");
 }
 ```
+  
+**Tämä koodi:**  
+- **Vertailee** muuttujan arvoa useisiin erityistapauksiin  
+- **Ryhmittelee** samanlaiset tapaukset yhteen (arkipäivät vs. viikonloput)  
+- **Suorittaa** sopivan koodilohkon löytyessään vastaavuuden  
+- **Sisältää** `default`-tapauksen odottamattomien arvojen käsittelyyn  
+- **Käyttää** `break`-lauseita estämään koodin jatkumisen seuraavaan tapaukseen  
 
-**Tämä koodi tekee seuraavaa:**
-- **Vertailee** muuttujan arvoa useisiin tiettyihin tapauksiin
-- **Ryhmittele** samankaltaiset tapaukset yhteen (arkipäivät vs. viikonloput)
-- **Suorita** sopiva koodilohko, kun osuma löytyy
-- **Sisällytä** `default`-tapaus odottamattomien arvojen käsittelemiseksi
-- **Käytä** `break`-lauseita estääksesi koodin jatkumisen seuraavaan tapaukseen
+> 💡 **Todellinen vertauskuva**: Ajattele ohjausrakennetta kuin maailman kärsivällisintä GPS:ää, joka ohjaa sinut perille. Se saattaa sanoa "Jos Main Streetillä on ruuhkaa, ota moottoritie. Jos moottoritietä on suljettu rakentamisen takia, kokeile maisemareittiä." Ohjelmat käyttävät juuri samanlaista ehdollista logiikkaa reagoidakseen älykkäästi erilaisiin tilanteisiin ja antaakseen käyttäjille parhaan mahdollisen kokemuksen.
 
-> 💡 **Reaaliaikainen vertauskuva**: Ajattele ohjausvirtaa kuin maailman kärsivällisintä GPS:ää, joka antaa sinulle ohjeita. Se saattaa sanoa "Jos Main Streetillä on ruuhkaa, ota moottoritie. Jos moottoritiellä on rakennustöitä, kokeile maisemareittiä." Ohjelmat käyttävät täsmälleen samaa ehdollista logiikkaa reagoidakseen älykkäästi eri tilanteisiin ja tarjotakseen käyttäjille parhaan mahdollisen kokemuksen.
+### 🎯 **Käsitteiden tarkastus: Rakennuspalikoiden hallinta**
 
-### 🎯 **Käsitteiden tarkistus: Rakennuspalikoiden hallinta**
+**Katsotaan, miten osaat perusteet:**  
+- Osaatko selittää oman sanoin muuttujan ja lauseen eron?  
+- Mieti todellista tilannetta, jossa käyttäisit jos-niin-päätöstä (kuten äänestys-esimerkissä)  
+- Mikä ohjelmointilogikassa yllätti sinut?  
 
-**Katsotaan, miten olet omaksunut perusteet:**
-- Voitko selittää omin sanoin eron muuttujan ja lauseen välillä?
-- Mieti todellisen maailman tilannetta, jossa käyttäisit jos-niin päätöstä (kuten äänestysesimerkki)
-- Mikä ohjelmointilogiikassa yllätti sinut?
-
-**Nopea itseluottamusbuusti:**
+**Pikainen itseluottamuksen kohotus:**  
 ```mermaid
 flowchart LR
-    A["📝 Statements<br/>(Instructions)"] --> B["📦 Variables<br/>(Storage)"] --> C["🔀 Control Flow<br/>(Decisions)"] --> D["🎉 Working Program!"]
+    A["📝 Lauseet<br/>(Ohjeet)"] --> B["📦 Muuttujat<br/>(Tallennus)"] --> C["🔀 Ohjausvirta<br/>(Päätökset)"] --> D["🎉 Toimiva ohjelma!"]
     
     style A fill:#ffeb3b
     style B fill:#4caf50
     style C fill:#2196f3
     style D fill:#ff4081
-```
+```  
+✅ **Mitä seuraavaksi:** Pääsemme sukeltamaan näihin käsitteisiin vielä syvemmälle tässä uskomattomassa matkassa! Nyt keskity vain siihen innostukseen, joka sinulla on kaikkien mahtavien mahdollisuuksien edessä. Tarkat taidot ja tekniikat tarttuvat luontevasti harjoitellessa – lupaan, että tämä tulee olemaan paljon hauskempaa kuin osasit odottaa!
 
-✅ **Mitä seuraavaksi**: Meillä tulee olemaan aivan mahtavaa, kun sukellamme syvemmälle näihin käsitteisiin ja jatkamme tätä uskomatonta matkaa yhdessä! Juuri nyt keskity vain tuntemaan innostusta kaikista edessä olevista upeista mahdollisuuksista. Tietyt taidot ja tekniikat jäävät mieleen luonnollisesti, kun harjoittelemme yhdessä – lupaan, että tämä tulee olemaan paljon hauskempaa kuin odotit!
+## Työkalut alan ammattilaisille
 
-## Työkalut käyttöön
+Okei, tässä kohdin innostukseni on lähes sietämätön! 🚀 Puhumme uskomattomista työkaluista, jotka saavat sinut tuntemaan, kuin olisit juuri saanut käsiisi digitaalisen avaruusaluksen ohjaimet.
 
-Okei, tämä on rehellisesti se kohta, jossa innostun niin paljon, että tuskin pysyn paikallani! 🚀 Puhumme nyt uskomattomista työkaluista, jotka saavat sinut tuntemaan kuin sinulle olisi juuri annettu avaimet digitaaliseen avaruusalukseen.
+Tiedätkö, miten kokilla on täydellisesti tasapainotetut veitset, jotka tuntuvat käden jatkeelta? Tai miten muusikolla on se yksi kitara, joka tuntuu laulavan heti, kun sitä kosketetaan? Kehittäjillä on oma versionsa näistä taikatyökaluista, ja tässä on jotain, mikä saa mielesi räjähtämään – suurin osa niistä on täysin ilmaisia!
 
-Tiedätkö, miten kokilla on täydellisesti tasapainotetut veitset, jotka tuntuvat kuin käden jatkeilta? Tai miten muusikolla on se yksi kitara, joka tuntuu laulavan heti, kun hän koskettaa sitä? No, kehittäjillä on oma versio näistä maagisista työkaluista, ja tässä on se, mikä tulee täysin hämmästyttämään sinut – suurin osa niistä on täysin ilmaisia!
+Olen melkein hyppinyt innosta tuolissani tätä sinulle kertoessani, koska nämä ovat mullistaneet tavan, jolla rakennamme ohjelmistoja. Puhumme tekoälyn ohjaamista koodiapureista, jotka voivat auttaa kirjoittamaan koodiasi (en edes vitsaile!), pilviympäristöistä, joissa voit rakentaa kokonaissovelluksia käytännössä mistä tahansa missä on Wi-Fi, ja debuggaustyökaluista, jotka ovat niin kehittyneitä, että ne ovat kuin röntgensäteet ohjelmillesi.
 
-Olen melkein hyppimässä tuolissani ajatellessani näiden jakamista kanssasi, koska ne ovat täysin mullistaneet tavan, jolla rakennamme ohjelmistoja. Puhumme tekoälyllä toimivista koodausavustajista, jotka voivat auttaa kirjoittamaan koodiasi (en edes vitsaile!), pilviympäristöistä, joissa voit rakentaa kokonaisia sovelluksia kirjaimellisesti mistä tahansa, missä on Wi-Fi, ja virheenkorjaustyökaluista, jotka ovat niin kehittyneitä, että ne ovat kuin röntgennäkö ohjelmillesi.
-
-Ja tässä on se osa, joka edelleen antaa minulle kylmiä väreitä: nämä eivät ole "aloittelijatyökaluja", jotka jäävät tarpeettomiksi. Nämä ovat täsmälleen samoja ammattikäyttöön tarkoitettuja työkaluja, joita Google, Netflix ja se indie-sovellusstudio, jota rakastat, käyttävät juuri tällä hetkellä. Tulet tuntemaan itsesi todelliseksi ammattilaiseksi niitä käyttäessäsi!
+Ja tässä tulee aina kylmät väreet: nämä eivät ole aloittelijoille tarkoitettuja työkaluja, jotka kasvaisit nopeasti ulos. Nämä ovat juuri samanlaisia ammattimaisia työkaluja, joita Googlen, Netflixin ja lempibini indie-sovellusstudion kehittäjät käyttävät juuri tällä hetkellä. Tulet tuntemaan itsesi todelliseksi ammattilaiseksi käyttäessäsi niitä!
 
 ```mermaid
 graph TD
-    A["💡 Your Idea"] --> B["⌨️ Code Editor<br/>(VS Code)"] 
-    B --> C["🌐 Browser DevTools<br/>(Testing & Debugging)"]
-    C --> D["⚡ Command Line<br/>(Automation & Tools)"]
-    D --> E["📚 Documentation<br/>(Learning & Reference)"]
-    E --> F["🚀 Amazing Web App!"]
+    A["💡 Sinun Ideasi"] --> B["⌨️ Koodieditori<br/>(VS Code)"] 
+    B --> C["🌐 Selaimen DevTools<br/>(Testaus & Virheenkorjaus)"]
+    C --> D["⚡ Komentorivi<br/>(Automaatiot & Työkalut)"]
+    D --> E["📚 Dokumentaatio<br/>(Oppiminen & Viittaus)"]
+    E --> F["🚀 Upea Verkkosovellus!"]
     
-    B -.-> G["🤖 AI Assistant<br/>(GitHub Copilot)"]
-    C -.-> H["📱 Device Testing<br/>(Responsive Design)"]
-    D -.-> I["📦 Package Managers<br/>(npm, yarn)"]
-    E -.-> J["👥 Community<br/>(Stack Overflow)"]
+    B -.-> G["🤖 AI-avustaja<br/>(GitHub Copilot)"]
+    C -.-> H["📱 Laitetestaus<br/>(Responsiivinen Suunnittelu)"]
+    D -.-> I["📦 Pakettienhallinta<br/>(npm, yarn)"]
+    E -.-> J["👥 Yhteisö<br/>(Stack Overflow)"]
     
     style A fill:#fff59d
     style F fill:#c8e6c9
@@ -503,341 +504,353 @@ graph TD
     style H fill:#f3e5f5
     style I fill:#ffccbc
     style J fill:#e8eaf6
-```
-
+```  
 ### Koodieditorit ja IDE:t: Uudet digitaaliset parhaat ystäväsi
 
-Puhutaan koodieditoreista – nämä tulevat vakavasti ottaen olemaan uusia suosikkipaikkojasi viettää aikaa! Ajattele niitä henkilökohtaisena koodauspyhättönäsi, jossa vietät suurimman osan ajastasi luoden ja viimeistellen digitaalisia luomuksiasi.
+Puhutaanpa koodieditoreista – ne tulevat todellakin olemaan uusi suosikkipaikkasi viettää aikaa! Ajattele niitä henkilökohtaisena koodauksen pyhättönä, jossa vietät suurimman osan ajastasi luoden ja hioten digitaalisia luomuksiasi.
 
-Mutta tässä on modernien editorien taika: ne eivät ole vain hienoja tekstieditoreita. Ne ovat kuin sinulla olisi kaikkein loistavin, tukevin koodausmentori istumassa vieressäsi 24/7. Ne korjaavat kirjoitusvirheesi ennen kuin edes huomaat niitä, ehdottavat parannuksia, jotka saavat sinut näyttämään nerolta, auttavat sinua ymmärtämään, mitä jokainen koodin osa tekee, ja jotkut niistä voivat jopa ennustaa, mitä olet kirjoittamassa ja tarjota valmiita ehdotuksia!
+Mutta tässä on se taianomainen juttu nykyaikaisissa editoreissa: ne eivät ole vain hienoja tekstieditoreita. Ne ovat kuin älykkäin ja kannustavin koodausmentori, joka istuu vieressäsi 24/7. Ne tarttuvat kirjoitusvirheisiisi ennen kuin huomaat niitä, ehdottavat parannuksia, jotka saavat sinut näyttämään neroilta, auttavat ymmärtämään, mitä kukin koodinpätkä tekee, ja jotkut niistä voivat jopa ennustaa, mitä aiot kirjoittaa ja tarjoutua täydentämään ajatuksiasi!
 
-Muistan, kun ensimmäisen kerran löysin automaattisen täydennyksen – tunsin kirjaimellisesti eläväni tulevaisuudessa. Aloitat kirjoittamisen, ja editorisi sanoo: "Hei, ajattelitko tätä funktiota, joka tekee juuri sen, mitä tarvitset?" Se on kuin sinulla olisi ajatustenlukija koodauskaverina!
+Muistan, kun löysin automaattisen täydennyksen – tunsin eläväni tulevaisuudessa. Aloitat kirjoittamaan jotain, ja editori sanoo: "Hei, ajattelitteko tätä funktiota, joka tekee juuri sen mitä tarvitset?" Se on kuin aavistaja-koodikaveri!
 
 **Mikä tekee näistä editoreista niin uskomattomia?**
 
-Modernit koodieditorit tarjoavat vaikuttavan valikoiman ominaisuuksia, jotka parantavat tuottavuuttasi:
+Nykyaikaiset koodieditorit tarjoavat vaikuttavan joukon ominaisuuksia, jotka lisäävät tuottavuuttasi:
 
 | Ominaisuus | Mitä se tekee | Miksi se auttaa |
 |------------|---------------|-----------------|
-| **Syntaksin korostus** | Värittää koodin eri osat | Tekee koodista helpommin luettavaa ja virheet helpommin havaittavia |
-| **Automaattinen täydennys** | Ehdottaa koodia kirjoittaessasi | Nopeuttaa koodausta ja vähentää kirjoitusvirheitä |
-| **Virheenkorjaustyökalut** | Auttaa löytämään ja korjaamaan virheitä | Säästää tunteja ongelmien selvittämisessä |
-| **Laajennukset** | Lisää erikoistuneita ominaisuuksia | Mukauta editorisi mille tahansa teknologialle |
-| **Tekoälyavustajat** | Ehdottaa koodia ja selityksiä | Nopeuttaa oppimista ja tuottavuutta |
+| **Syntaksin korostus** | Värittää koodin eri osat | Tekee koodista helpommin luettavaa ja virheet havaittaviksi |
+| **Automaattinen täydennys** | Ehdottaa koodia kirjoittaessasi | Nopeuttaa koodaamista ja vähentää kirjoitusvirheitä |
+| **Vianmääritystyökalut** | Auttaa löytämään ja korjaamaan virheet | Säästää tuntikausia ongelmien ratkaisua |
+| **Laajennukset** | Lisää erikoisominaisuuksia | Mukauta editoriasi mille tahansa teknologialle |
+| **Tekoälyassistentit** | Ehdottaa koodia ja selityksiä | Nopeuttaa oppimista ja tuottavuutta |
 
-> 🎥 **Videomateriaali**: Haluatko nähdä nämä työkalut toiminnassa? Katso tämä [Tools of the Trade -video](https://youtube.com/watch?v=69WJeXGBdxg) saadaksesi kattavan yleiskatsauksen.
+> 🎥 **Videolähde**: Haluatko nähdä nämä työkalut toiminnassa? Katso tämä [Tools of the Trade video](https://youtube.com/watch?v=69WJeXGBdxg) kattava esittely.
 
 #### Suositellut editorit web-kehitykseen
 
-**[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** (Ilmainen)
-- Suosituin web-kehittäjien keskuudessa
-- Erinomainen laajennusekosysteemi
-- Sisäänrakennettu terminaali ja Git-integraatio
-- **Pakolliset laajennukset**:
-  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Tekoälyllä toimivat koodiehdotukset
-  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Reaaliaikainen yhteistyö
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Automaattinen koodin muotoilu
-  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Koodin kirjoitusvirheiden tarkistus
+**[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** (Ilmainen)  
+- Suosituin web-kehittäjien keskuudessa  
+- Erinomainen laajennusvalikoima  
+- Sisäänrakennettu terminaali ja Git-integraatio  
+- **Pakolliset laajennukset**:  
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) – tekoälypohjaiset koodiehdotukset  
+  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) – reaaliaikainen yhteistyö  
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) – automaattinen koodin muotoilu  
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) – kirjoitusvirheiden havaitseminen koodissa  
 
-**[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)** (Maksullinen, ilmainen opiskelijoille)
-- Kehittyneet virheenkorjaus- ja testausvälineet
-- Älykäs koodin täydennys
-- Sisäänrakennettu versionhallinta
+**[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)** (Maksullinen, opiskelijoille ilmainen)  
+- Kehittyneet debuggaus- ja testausvälineet  
+- Älykäs koodin täydennys  
+- Sisäänrakennettu versionhallinta  
 
-**Pilvipohjaiset IDE:t** (Vaihtelevat hinnat)
-- [GitHub Codespaces](https://github.com/features/codespaces) - Täysi VS Code selaimessasi
-- [Replit](https://replit.com/) - Loistava oppimiseen ja koodin jakamiseen
-- [StackBlitz](https://stackblitz.com/) - Välitön, täyden pinon web-kehitys
+**Pilvipohjaiset IDE:t** (Hinta vaihtelee)  
+- [GitHub Codespaces](https://github.com/features/codespaces) – koko VS Code selaimessasi  
+- [Replit](https://replit.com/) – erinomainen oppimiseen ja koodin jakamiseen  
+- [StackBlitz](https://stackblitz.com/) – välitön, täyden pinon web-kehitys  
 
-> 💡 **Aloitusvinkki**: Aloita Visual Studio Codella – se on ilmainen, laajasti käytetty teollisuudessa ja sillä on valtava yhteisö, joka luo hyödyllisiä opetusmateriaaleja ja laajennuksia.
+> 💡 **Aloitusvinkki**: Aloita Visual Studio Codella – se on ilmainen, laajasti käytetty alalla ja sillä on valtava yhteisö, joka luo hyödyllisiä ohjeita ja laajennuksia.
+
 
 ### Verkkoselaimet: Salainen kehityslaboratoriosi
 
-Okei, valmistaudu hämmästymään täysin! Tiedätkö, miten olet käyttänyt selaimia
-Kun joku näytti minulle selaimen DevTools-työkalut ensimmäistä kertaa, vietin noin kolme tuntia vain klikkaillen ympäriinsä ja huudahdellen: "MITÄ, SE OSAA TEHDÄ TUONKIN?!" Voit kirjaimellisesti muokata mitä tahansa verkkosivustoa reaaliajassa, nähdä tarkalleen kuinka nopeasti kaikki latautuu, testata miltä sivustosi näyttää eri laitteilla ja jopa debugata JavaScriptiä kuin todellinen ammattilainen. Se on aivan uskomatonta!
+Okei, valmistaudu olemaan aivan häkeltynyt! Tiedätkö, miten olet käyttänyt selaimia selaillessasi sosiaalista mediaa ja katsoessasi videoita? No, ne ovat koko ajan piilotelleet tätä uskomatonta salattua kehityslaboratoriota, joka on odottanut, että löydät sen!
+
+Joka kerta kun klikkaat oikealla hiiren napilla verkkosivustolla ja valitset "Tarkastele elementtiä," avaat piilotetun kehittäjätyökalumaailman, joka on rehellisesti sanottuna voimakkaampi kuin jotkin kalliit ohjelmistot, joista ennen maksoin satoja euroja. Se on kuin huomaisit, että tavallinen keittiösi on piilottanut ammattilaiskokin laboratorion salaisen paneelin taakse!
+Ensimmäisellä kerralla kun joku näytti minulle selaimen DevTools-työkalut, vietin noin kolme tuntia vain klikkailen ympäriinsä ja ajatellen "HETKIS, SE OSAA SENKIN?!" Voit kirjaimellisesti muokata mitä tahansa verkkosivua reaaliajassa, nähdä tarkalleen kuinka nopeasti kaikki latautuu, testata miltä sivustosi näyttää erilaisilla laitteilla ja jopa virheenkorjata JavaScriptiä kuin todellinen ammattilainen. Se on täysin hämmästyttävää!
 
 **Tässä syy, miksi selaimet ovat salainen aseesi:**
 
-Kun luot verkkosivuston tai -sovelluksen, sinun täytyy nähdä, miltä se näyttää ja miten se toimii oikeassa maailmassa. Selaimet eivät ainoastaan näytä työtäsi, vaan ne tarjoavat myös yksityiskohtaista palautetta suorituskyvystä, saavutettavuudesta ja mahdollisista ongelmista.
+Kun luot verkkosivua tai web-sovellusta, sinun täytyy nähdä miltä se näyttää ja miten se käyttäytyy oikeassa elämässä. Selaimet eivät ainoastaan näytä työtäsi, vaan tarjoavat myös yksityiskohtaista palautetta suorituskyvystä, saavutettavuudesta ja mahdollisista ongelmista.
 
-#### Selaimen kehittäjätyökalut (DevTools)
+#### Selaimen Kehittäjätyökalut (DevTools)
 
-Modernit selaimet sisältävät kattavat kehitystyökalut:
+Nykyaikaiset selaimet sisältävät kattavat kehityspaketit:
 
-| Työkalukategoria | Mitä se tekee | Esimerkki käyttötapauksesta |
-|------------------|---------------|-----------------------------|
-| **Element Inspector** | Näytä ja muokkaa HTML/CSS reaaliajassa | Muokkaa tyylejä ja näe tulokset heti |
-| **Konsoli** | Näytä virheilmoitukset ja testaa JavaScriptiä | Debugaa ongelmia ja kokeile koodia |
-| **Verkkoseuranta** | Seuraa resurssien latautumista | Optimoi suorituskyky ja latausajat |
-| **Saavutettavuuden tarkistus** | Testaa inklusiivista suunnittelua | Varmista, että sivustosi toimii kaikille käyttäjille |
-| **Laitteiden simulaattori** | Esikatsele eri näyttökokoja | Testaa responsiivista suunnittelua ilman useita laitteita |
+| Työkaluluokka       | Mitä se tekee                | Esimerkkikäyttö     |
+|---------------------|-----------------------------|--------------------|
+| **Elementin tarkastaja** | Näytä ja muokkaa HTML/CSS reaaliajassa | Säädä tyyliä nähdäksesi tulokset välittömästi |
+| **Konsoli**            | Näytä virheilmoitukset ja testaa JavaScriptiä | Virheenkorjaa ongelmia ja kokeile koodia |
+| **Verkkovalvonta**     | Seuraa resurssien latautumista | Optimoi suorituskyky ja latausajat |
+| **Saavutettavuustarkistin** | Testaa esteettömyyttä ja inklusiivista suunnittelua | Varmista, että sivusto toimii kaikille käyttäjille |
+| **Laitesimulaattori**  | Esikatsele eri näyttökokoja | Testaa responsiivista suunnittelua ilman useita laitteita |
 
 #### Suositellut selaimet kehitykseen
 
-- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** - Alan standardi DevTools-työkaluilla ja kattavalla dokumentaatiolla
-- **[Firefox](https://developer.mozilla.org/docs/Tools)** - Erinomainen CSS Grid- ja saavutettavuustyökalu
-- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** - Perustuu Chromiumiin ja sisältää Microsoftin kehittäjäresurssit
+- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** – toimialan standardin mukaiset DevTools-työkalut ja laaja dokumentaatio
+- **[Firefox](https://developer.mozilla.org/docs/Tools)** – erinomaiset CSS Grid- ja saavutettavuustyökalut
+- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** – Chromium-pohjainen Microsoftin kehittäjäresursseilla
 
-> ⚠️ **Tärkeä testausvinkki**: Testaa verkkosivustosi aina useilla selaimilla! Se, mikä toimii täydellisesti Chromessa, saattaa näyttää erilaiselta Safarissa tai Firefoxissa. Ammattikehittäjät testaavat kaikilla suurilla selaimilla varmistaakseen yhtenäisen käyttäjäkokemuksen.
+> ⚠️ **Tärkeä testausvinkki**: Testaa aina verkkosivusi eri selaimilla! Mikä toimii täydellisesti Chromessa, saattaa näyttää erilaiselta Safarissa tai Firefoxissa. Ammattimaiset kehittäjät testaavat kaikilla suurilla selaimilla varmistaakseen yhtenevät käyttökokemukset.
 
-### Komentorivityökalut: Kehittäjän supervoimien portti
 
-Okei, ollaanpa täysin rehellisiä komentorivistä, koska haluan kertoa tämän sinulle sellaiselta, joka todella ymmärtää. Kun näin sen ensimmäistä kertaa – vain pelottava musta ruutu vilkkuvalla tekstillä – ajattelin kirjaimellisesti: "Ei, ei todellakaan! Tämä näyttää joltain 1980-luvun hakkerielokuvasta, enkä todellakaan ole tarpeeksi fiksu tähän!" 😅
+### Komentorivityökalut: Porttisi kehittäjän supervoimiin
 
-Mutta tässä on se, mitä toivon jonkun kertoneen minulle silloin, ja mitä kerron sinulle nyt: komentorivi ei ole pelottava – se on itse asiassa kuin suora keskustelu tietokoneesi kanssa. Ajattele sitä kuin eroa tilata ruokaa hienon sovelluksen kautta, jossa on kuvia ja valikoita (mikä on mukavaa ja helppoa), verrattuna siihen, että astut sisään suosikkiravintolaasi, jossa kokki tietää tarkalleen, mistä pidät, ja voi loihtia jotain täydellistä vain sanomalla "yllätä minut jollain mahtavalla."
+Okei, pidetään täysin rehellinen hetki komentorivistä, koska haluan, että kuulet tämän joltain, joka todella ymmärtää sen. Kun näin sen ensimmäisen kerran – vain pelottava musta ruutu vilkkuvalla tekstillä – ajattelin kirjaimellisesti, "Ei kiitos, ei todellakaan! Tämä näyttää joltain 1980-luvun hakkereiden elokuvasta, enkä todellakaan ole tarpeeksi älykäs tähän!" 😅
 
-Komentorivi on paikka, jossa kehittäjät tuntevat itsensä todellisiksi velhoiksi. Kirjoitat muutaman taianomaisen sanan (okei, ne ovat vain komentoja, mutta ne tuntuvat taianomaisilta!), painat enteriä, ja BOOM – olet luonut kokonaisia projektirakenteita, asentanut tehokkaita työkaluja ympäri maailmaa tai julkaissut sovelluksesi internetiin miljoonien ihmisten nähtäväksi. Kun saat ensimmäisen maistiaisen siitä voimasta, se on rehellisesti sanottuna melko koukuttavaa!
+Mutta tässä mitä toivon jonkun sanoneen minulle silloin, ja mitä sanon sinulle nyt: komentorivi ei ole pelottava – se on oikeastaan kuin suorassa vuoropuhelussa tietokoneesi kanssa. Ajattele sitä kuin erona tilata ruokaa hienon sovelluksen kautta, jossa on kuvia ja valikot (mikä on helppoa ja mukavaa) ja kävellä suosikki paikalliseen ravintolaan, jossa kokki tietää tarkalleen mitä pidät ja voi loihtia täydellisen annoksen vain sanomalla "yllätytä minut jollain upealla."
+
+Komentorivillä kehittäjät tuntevat itsensä ihan taikureiksi. Kirjoitat muutaman näennäisesti maagisen sanan (okei, ne ovat vain komentoja, mutta ne tuntuvat maagisilta!), painat enteriä ja BOOM – olet luonut kokonaisia projektirakenteita, asentanut tehokkaita työkaluja ympäri maailmaa tai julkaissut sovelluksesi internetiin miljoonille ihmisille nähtäväksi. Kun saat maistaa tuota voimaa ensimmäisen kerran, se on oikeasti aika koukuttavaa!
 
 **Miksi komentorivistä tulee suosikkityökalusi:**
 
-Vaikka graafiset käyttöliittymät ovat hyviä moniin tehtäviin, komentorivi loistaa automaatiossa, tarkkuudessa ja nopeudessa. Monet kehitystyökalut toimivat ensisijaisesti komentorivikäyttöliittymien kautta, ja niiden tehokas käyttö voi parantaa tuottavuuttasi merkittävästi.
+Vaikka graafiset käyttöliittymät toimivat monissa tehtävissä hyvin, komentorivi loistaa automaatiossa, tarkkuudessa ja nopeudessa. Monet kehitystyökalut toimivat pääosin komentoriviltä, ja niiden tehokas käyttö parantaa tuottavuuttasi merkittävästi.
 
 ```bash
-# Step 1: Create and navigate to project directory
+# Vaihe 1: Luo projektihakemisto ja siirry siihen
 mkdir my-awesome-website
 cd my-awesome-website
 ```
 
 **Tämä koodi tekee seuraavaa:**
-- **Luo** uuden hakemiston nimeltä "my-awesome-website" projektillesi
-- **Siirry** juuri luotuun hakemistoon aloittaaksesi työn
+- **Luo** uuden kansion nimeltä "my-awesome-website" projektille
+- **Siirtyy** luotuun kansioon työskentelyä varten
 
 ```bash
-# Step 2: Initialize project with package.json
+# Vaihe 2: Alusta projekti tiedostolla package.json
 npm init -y
 
-# Install modern development tools
+# Asenna nykyaikaiset kehitystyökalut
 npm install --save-dev vite prettier eslint
 npm install --save-dev @eslint/js
 ```
 
-**Vaihe vaiheelta, tässä tapahtuu:**
-- **Alustetaan** uusi Node.js-projekti oletusasetuksilla komennolla `npm init -y`
-- **Asennetaan** Vite moderniksi rakennustyökaluksi nopeaan kehitykseen ja tuotantoversioihin
-- **Lisätään** Prettier automaattiseen koodin muotoiluun ja ESLint koodin laadun tarkistamiseen
-- **Käytetään** `--save-dev`-lippua merkitsemään nämä vain kehityskäyttöön tarkoitetuiksi riippuvuuksiksi
+**Vaihe vaiheelta tapahtuu:**
+- **Alustaa** uuden Node.js-projektin oletusasetuksilla käyttäen `npm init -y`
+- **Asentaa** Viten modernina rakennustyökaluna nopeaan kehitykseen ja tuotantoon
+- **Lisää** Prettierin automaattiseen koodin muotoiluun ja ESLintin koodin laadun tarkistuksiin
+- **Käyttää** `--save-dev` -lipuketta merkitsemään riippuvuudet kehityksiin liittyviksi
 
 ```bash
-# Step 3: Create project structure and files
+# Vaihe 3: Luo projektin rakenne ja tiedostot
 mkdir src assets
 echo '<!DOCTYPE html><html><head><title>My Site</title></head><body><h1>Hello World</h1></body></html>' > index.html
 
-# Start development server
+# Käynnistä kehityspalvelin
 npx vite
 ```
 
-**Yllä olevassa olemme:**
-- **Järjestäneet** projektimme luomalla erilliset kansiot lähdekoodille ja aineistoille
-- **Luoneet** perus HTML-tiedoston asianmukaisella dokumenttirakenteella
-- **Käynnistäneet** Vite-kehityspalvelimen live-päivityksille ja moduulien kuuman korvaamisen tueksi
+**Yllä olemme:**
+- **Järjestäneet** projektin luomalla erilliset kansiot lähdekoodille ja resursseille
+- **Generoineet** perus HTML-tiedoston oikealla dokumenttirakenteella
+- **Käynnistäneet** Viten kehityspalvelimen live-kuuntelua ja kuumaan moduulin vaihtoon
 
-#### Välttämättömät komentorivityökalut web-kehitykseen
+#### Keskeiset komentorivityökalut web-kehityksessä
 
-| Työkalu | Tarkoitus | Miksi tarvitset sen |
-|---------|----------|---------------------|
-| **[Git](https://git-scm.com/)** | Versionhallinta | Seuraa muutoksia, tee yhteistyötä muiden kanssa, varmuuskopioi työsi |
-| **[Node.js & npm](https://nodejs.org/)** | JavaScript-ajonaika & pakettien hallinta | Aja JavaScriptiä selainten ulkopuolella, asenna moderneja kehitystyökaluja |
-| **[Vite](https://vitejs.dev/)** | Rakennustyökalu & kehityspalvelin | Salamannopea kehitys kuuman moduulien korvaamisen avulla |
-| **[ESLint](https://eslint.org/)** | Koodin laatu | Löydä ja korjaa automaattisesti ongelmat JavaScriptissäsi |
-| **[Prettier](https://prettier.io/)** | Koodin muotoilu | Pidä koodisi johdonmukaisesti muotoiltuna ja helposti luettavana |
+| Työkalu | Tarkoitus | Miksi tarvitset sitä |
+|---------|-----------|---------------------|
+| **[Git](https://git-scm.com/)** | Versionhallinta | Seuraa muutoksia, tee yhteistyötä, varmuuskopioi työsi |
+| **[Node.js & npm](https://nodejs.org/)** | JavaScriptin suoritusympäristö & pakettien hallinta | Suorita JavaScript selaimien ulkopuolella, asenna moderneja kehitystyökaluja |
+| **[Vite](https://vitejs.dev/)** | Rakennustyökalu & kehityspalvelin | Salamannopea kehitys kuuman moduulin vaihdolla |
+| **[ESLint](https://eslint.org/)** | Koodinlaadun tarkistus | Etsi ja korjaa automaattisesti ongelmia JavaScriptissä |
+| **[Prettier](https://prettier.io/)** | Koodin muotoilu | Pidä koodi yhtenäisenä ja helposti luettavana |
 
 #### Alustakohtaiset vaihtoehdot
 
 **Windows:**
-- **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** - Moderni, monipuolinen terminaali
-- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 - Tehokas skriptikieliympäristö
-- **[Command Prompt](https://docs.microsoft.com/windows-server/administration/windows-commands/?WT.mc_id=academic-77807-sagibbon)** 💻 - Perinteinen Windows-komentorivi
+- **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** – moderni, ominaisuusrikas terminaali
+- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 – tehokas skriptausympäristö
+- **[Komentorivi](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)** 💻 – perinteinen Windowsin komentorivi
 
 **macOS:**
-- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 - Sisäänrakennettu terminaalisovellus
-- **[iTerm2](https://iterm2.com/)** - Parannettu terminaali edistyneillä ominaisuuksilla
+- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 – sisäänrakennettu terminaalisovellus
+- **[iTerm2](https://iterm2.com/)** – paranneltu terminaali lisäominaisuuksilla
 
 **Linux:**
-- **[Bash](https://www.gnu.org/software/bash/)** 💻 - Linuxin vakio komentokuori
-- **[KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)** - Edistynyt terminaaliemulaattori
+- **[Bash](https://www.gnu.org/software/bash/)** 💻 – Linuxin standardikuori
+- **[KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)** – kehittynyt terminaaliemulaattori
 
 > 💻 = Esiasennettu käyttöjärjestelmään
 
-> 🎯 **Oppimispolku**: Aloita peruskomennoilla, kuten `cd` (vaihda hakemistoa), `ls` tai `dir` (näytä tiedostot) ja `mkdir` (luo kansio). Harjoittele nykyaikaisia työnkulkuun liittyviä komentoja, kuten `npm install`, `git status` ja `code .` (avaa nykyinen hakemisto VS Codessa). Kun tunnet olosi mukavammaksi, opit luonnollisesti lisää kehittyneitä komentoja ja automaatiotekniikoita.
+> 🎯 **Oppimispolku**: Aloita perus komennoista kuten `cd` (vaihda kansiota), `ls` tai `dir` (näytä tiedostot) ja `mkdir` (luo kansio). Harjoittele moderneilla työnkulun komennoilla kuten `npm install`, `git status` ja `code .` (avaa nykyinen kansio VS Codessa). Mitä mukavammaksi tulet, sitä luonnollisemmin opit edistyneempiä komentoja ja automaatiotekniikoita.
 
-### Dokumentaatio: Aina saatavilla oleva oppaasi
 
-Okei, haluan jakaa pienen salaisuuden, joka saa sinut tuntemaan olosi paljon paremmaksi aloittelijana: jopa kokeneimmat kehittäjät viettävät suuren osan ajastaan dokumentaatiota lukien. Eikä se johdu siitä, etteivät he tietäisi mitä tekevät – se on itse asiassa merkki viisaudesta!
+### Dokumentaatio: Aina käytettävissä oleva oppimisen mentori
 
-Ajattele dokumentaatiota kuin maailman kärsivällisimmät ja asiantuntevimmat opettajat, jotka ovat saatavilla 24/7. Ongelma keskellä yötä? Dokumentaatio on siellä lämpimän virtuaalisen halauksen ja juuri oikean vastauksen kanssa. Haluatko oppia jostain siististä uudesta ominaisuudesta, josta kaikki puhuvat? Dokumentaatio auttaa sinua askel askeleelta. Yritätkö ymmärtää, miksi jokin toimii niin kuin toimii? Kyllä – dokumentaatio selittää sen tavalla, joka vihdoin avaa silmäsi!
+Okei, annan pienen salaisuuden, joka saa sinut tuntemaan olosi paljon paremmaksi aloittelijana: jopa kokeneimmat kehittäjät käyttävät suuren osan ajastaan dokumentaation lukemiseen. Eikä siksi, etteivät tietäisi mitä tekevät – se on itse asiassa viisauden merkki!
 
-Tässä on jotain, mikä muutti täysin näkökulmani: verkkokehityksen maailma liikkuu uskomattoman nopeasti, eikä kukaan (siis ei kukaan!) muista kaikkea ulkoa. Olen nähnyt 15+ vuoden kokemuksen omaavien seniorikehittäjien etsivän perussyntaksia, ja tiedätkö mitä? Se ei ole noloa – se on fiksua! Kyse ei ole täydellisestä muistista, vaan siitä, että osaa löytää luotettavat vastaukset nopeasti ja ymmärtää, miten niitä sovelletaan.
+Ajattele dokumentaatiota maailman kärsivällisimpien ja tietävimpien opettajien saatavuudeksi 24/7. Jämähtänyt ongelman äärelle aamuyöllä kello 2? Dokumentaatio on siellä lämpimänä virtuaalihalauksena ja täsmälleen oikealla vastauksella. Haluat oppia uuden siistin ominaisuuden, josta kaikki puhuvat? Dokumentaatio tukee sinua vaihe vaiheelta esimerkein. Yrität ymmärtää miksi jokin toimii tietyllä tavalla? Arvasit oikein – dokumentaatio selittää sen tavalla, joka vihdoin saa palaset loksahtamaan kohdalleen!
+
+Tässä jotain, mikä täysin muutti näkökulmani: web-kehityksen maailma liikkuu uskomattoman nopeasti, eikä kukaan (en tarkoita yhtään ketään!) muista kaikkea ulkoa. Olen nähnyt vanhempien kehittäjien, joilla on yli 15 vuoden kokemus, kaivavan hakusanoja perussyntaksiin, ja tiedätkö mitä? Se ei ole noloa – se on fiksua! Kyse ei ole täydellisestä muistista, vaan siitä, että osaa nopeasti etsiä luotettavia vastauksia ja ymmärtää, miten niitä sovelletaan.
 
 **Tässä tapahtuu todellinen taika:**
 
-Ammattikehittäjät käyttävät merkittävän osan ajastaan dokumentaation lukemiseen – ei siksi, etteivät he tietäisi mitä tekevät, vaan koska verkkokehityksen kenttä kehittyy niin nopeasti, että ajan tasalla pysyminen vaatii jatkuvaa oppimista. Hyvä dokumentaatio auttaa sinua ymmärtämään, ei vain *miten* jotain käytetään, vaan myös *miksi* ja *milloin* sitä käytetään.
+Ammattilaiset käyttävät suuren osan ajastaan dokumentaation lukemiseen – ei siksi, että he eivät tietäisi mitä tekevät, vaan koska web-kehityksen kenttä kehittyy niin nopeasti, että ajan tasalla pysyminen edellyttää jatkuvaa oppimista. Erinomainen dokumentaatio auttaa ymmärtämään paitsi *miten* jotain käytetään, myös *miksi* ja *milloin* sitä tulisi käyttää.
 
-#### Välttämättömät dokumentaatioresurssit
+#### Tärkeitä dokumentaatioresursseja
 
 **[Mozilla Developer Network (MDN)](https://developer.mozilla.org/docs/Web)**
-- Verkkoteknologian dokumentaation kultastandardi
-- Kattavat oppaat HTML:stä, CSS:stä ja JavaScriptistä
+- Kultastandardi web-teknologian dokumentaatiossa
+- Laajat oppaat HTML, CSS ja JavaScriptiin
 - Sisältää selainten yhteensopivuustiedot
-- Tarjoaa käytännön esimerkkejä ja interaktiivisia demoja
+- Käytännön esimerkit ja interaktiiviset demonstraatiot
 
 **[Web.dev](https://web.dev)** (Googlelta)
-- Modernin verkkokehityksen parhaat käytännöt
+- Modernit web-kehityksen parhaat käytännöt
 - Suorituskyvyn optimointiohjeet
-- Saavutettavuuden ja inklusiivisen suunnittelun periaatteet
-- Tapaustutkimuksia tosielämän projekteista
+- Saavutettavuus ja inklusiivisen suunnittelun periaatteet
+- Tapaustutkimuksia oikeista projekteista
 
 **[Microsoft Developer Documentation](https://docs.microsoft.com/microsoft-edge/#microsoft-edge-for-developers)**
-- Edge-selaimen kehitysresurssit
-- Progressiivisten verkkosovellusten oppaat
-- Alustojen välisten kehitysten näkemykset
+- Resurssit Edge-selaimen kehittämiseen
+- Progressiivisen web-sovelluksen oppaat
+- Monialustaisen kehityksen näkökulmia
 
 **[Frontend Masters Learning Paths](https://frontendmasters.com/learn/)**
-- Jäsenneltyjä oppimispolkuja
-- Videokursseja alan asiantuntijoilta
-- Käytännön koodausharjoituksia
+- Rakenteelliset oppimiskokonaisuudet
+- Video-opetukset alan asiantuntijoilta
+- Käytännön koodiharjoituksia
 
-> 📚 **Opiskelustrategia**: Älä yritä opetella dokumentaatiota ulkoa – opettele sen sijaan navigoimaan siinä tehokkaasti. Tallenna usein käytetyt viitteet kirjanmerkkeihin ja harjoittele hakutoimintojen käyttöä löytääksesi nopeasti tietoa.
+> 📚 **Opiskeluohje:** Älä yritä opetella dokumentaatiota ulkoa – opi sen sijaan navigoimaan siinä tehokkaasti. Kirjanmerkitä usein käytetyt viitteet ja harjoittele hakutoimintojen käyttöä löytääksesi tietoa nopeasti.
 
-### 🔧 **Työkalujen hallinnan tarkistus: Mikä innostaa sinua?**
+### 🔧 **Työkalujen hallintatesti: Mikä kolahtaa sinuun?**
 
-**Pysähdy hetkeksi miettimään:**
-- Mikä työkalu innostaa sinua eniten kokeilemaan ensimmäisenä? (Ei ole väärää vastausta!)
-- Tuntuuko komentorivi edelleen pelottavalta, vai herättääkö se uteliaisuutesi?
-- Voitko kuvitella käyttäväsi selaimen DevTools-työkaluja kurkistaaksesi suosikkisivustojesi kulissien taakse?
+**Pohdi hetki:**
+- Mitä työkalua olet innokkain kokeilemaan ensin? (Ei ole väärää vastausta!)
+- Tuntuuko komentorivi vielä pelottavalta vai oletko utelias kokeilemaan sitä?
+- Voitko kuvitella käyttäväsi selaimen DevToolsia kurkistaaksesi suosikkisivujesi kulissien taakse?
 
 ```mermaid
-pie title "Developer Time Spent With Tools"
-    "Code Editor" : 40
-    "Browser Testing" : 25
-    "Command Line" : 15
-    "Reading Docs" : 15
-    "Debugging" : 5
+pie title "Kehittäjän aika työkalujen parissa"
+    "Koodieditori" : 40
+    "Selaimen testaus" : 25
+    "Komentorivi" : 15
+    "Dokumentaation lukeminen" : 15
+    "Virheiden korjaus" : 5
 ```
+> **Hauska fakta**: Useimmat kehittäjät käyttävät noin 40 % ajastaan koodieditorissa, mutta huomaa kuinka paljon aikaa menee testaukseen, oppimiseen ja ongelmanratkaisuun. Ohjelmointi ei ole pelkästään koodin kirjoittamista – se on kokemusten luomista!
 
-> **Hauska huomio**: Useimmat kehittäjät viettävät noin 40 % ajastaan koodieditorissa, mutta huomaa, kuinka paljon aikaa kuluu testaamiseen, oppimiseen ja ongelmanratkaisuun. Ohjelmointi ei ole vain koodin kirjoittamista – se on kokemusten luomista!
-
-✅ **Ajateltavaa**: Tässä jotain mielenkiintoista pohdittavaa – miten luulet verkkosivustojen rakentamiseen käytettävien työkalujen (kehitys) eroavan niiden ulkoasun suunnitteluun käytettävistä työkaluista (suunnittelu)? Se on kuin ero arkkitehdin, joka suunnittelee kauniin talon, ja urakoitsijan, joka sen oikeasti rakentaa. Molemmat ovat ratkaisevan tärkeitä, mutta he tarvitsevat erilaiset työkalupakit! Tällainen ajattelu auttaa sinua näkemään laajemman kuvan siitä, miten verkkosivustot syntyvät.
+✅ **Mietittävää**: Tässä on mielenkiintoinen ajatus – miten verkkosivujen rakentamisen (kehitys) työkalut eroavat sivujen ulkoasun suunnittelun (design) työkaluista? Se on kuin ero arkkitehdin, joka suunnittelee kauniin talon, ja urakoitsijan, joka sen oikeasti rakentaa. Molemmat ovat tärkeitä, mutta he tarvitsevat erilaisia työvälineitä! Tällainen ajattelu auttaa sinua näkemään isomman kuvan siitä, miten verkkosivut heräävät eloon.
 
 ## GitHub Copilot Agent -haaste 🚀
 
 Käytä Agent-tilaa suorittaaksesi seuraavan haasteen:
 
-**Kuvaus:** Tutki modernin koodieditorin tai IDE:n ominaisuuksia ja osoita, kuinka se voi parantaa työskentelyäsi web-kehittäjänä.
+**Kuvaus:** Tutki modernin koodieditorin tai IDE:n ominaisuuksia ja osoita, miten se voi parantaa työnkulkuasi web-kehittäjänä.
 
-**Tehtävä:** Valitse koodieditori tai IDE (kuten Visual Studio Code, WebStorm tai pilvipohjainen IDE). Listaa kolme ominaisuutta tai laajennusta, jotka auttavat sinua kirjoittamaan, debuggaamaan tai ylläpitämään koodia tehokkaammin. Kerro lyhyesti, miten kukin hyödyttää työskentelyäsi.
+**Ohje:** Valitse koodieditori tai IDE (kuten Visual Studio Code, WebStorm tai pilvipohjainen IDE). Listaa kolme ominaisuutta tai laajennusta, jotka auttavat sinua kirjoittamaan, virheenkorjaamaan tai ylläpitämään koodia tehokkaammin. Kerro lyhyesti, miten kukin parantaa työnkulkuasi.
 
 ---
 
 ## 🚀 Haaste
 
-**Oletko valmis ensimmäiseen tehtävääsi, salapoliisi?**
+**No niin, etsivä, valmiina ensimmäiseen tapaukseesi?**
 
-Nyt kun sinulla on tämä mahtava perusta, minulla on seikkailu, joka auttaa sinua näkemään, kuinka uskomattoman monipuolinen ja kiehtova ohjelmointimaailma todella on. Ja kuuntele – tämä ei vielä koske koodin kirjoittamista, joten ei paineita! Ajattele itseäsi ohjelmointikielten salapoliisina ensimmäisellä jännittävällä tehtävällään!
+Nyt kun sinulla on tämä upea perusta, minulla on seikkailu, joka auttaa sinua näkemään miten uskomattoman monipuolinen ja kiehtova ohjelmointimaailma oikeasti on. Ja kuuntele – tässä ei vielä kirjoitella koodia, eli ei painetta! Ajattele itseäsi ohjelmointikielten etsivänä ensimmäisessä jännittävässä tapauksessasi!
 
-**Tehtäväsi, jos päätät hyväksyä sen:**
-1. **Ryhdy kielitutkijaksi**: Valitse kolme ohjelmointikieltä täysin eri maailmoista – ehkä yksi, joka rakentaa verkkosivustoja, yksi, joka luo mobiilisovelluksia, ja yksi, joka käsittelee dataa tutkijoille. Etsi esimerkkejä samasta yksinkertaisesta tehtävästä, joka on kirjoitettu jokaisella kielellä. Lupaan, että hämmästyt siitä, kuinka erilaisilta ne voivat näyttää tehdessään täsmälleen samaa asiaa!
+**Tehtäväsi, jos päätät sen hyväksyä:**
+1. **Tule kielten tutkimusmatkailijaksi**: Valitse kolme ohjelmointikieltä täysin eri universumeista – ehkä yksi verkkosivujen rakentamiseen, yksi mobiilisovellusten tekemiseen ja yksi tieteen tiedon käsittelyyn. Etsi esimerkkejä samasta yksinkertaisesta tehtävästä kirjoitettuna jokaisella kielellä. Lupaan, että tulet hämmästymään miten erilaisilta ne voivat näyttää samalla tehdessään täsmälleen samaa asiaa!
 
-2. **Paljasta niiden alkuperätarinat**: Mikä tekee kustakin kielestä erityisen? Tässä on siisti fakta – jokainen ohjelmointikieli on luotu, koska joku ajatteli: "Tiedätkö mitä? Tähän tiettyyn ongelmaan täytyy olla parempi ratkaisu." Voitko selvittää, mitkä nuo ongelmat olivat? Jotkut näistä tarinoista ovat todella kiehtovia!
+2. **Paljasta niiden syntytarinat**: Mikä tekee jokaisesta kielestä erityisen? Tässä hauska fakta – jokainen ohjelmointikieli on luotu, koska joku mietti, "Tiedätkö mitä? Täytyy olla parempi tapa ratkaista tämä tietty ongelma." Osaatko selvittää, mitkä ongelmat ne olivat? Jotkut näistä tarinoista ovat todellakin kiehtovia!
 
-3. **Tutustu yhteisöihin**: Katso, kuinka tervetulleita ja intohimoisia kunkin kielen yhteisöt ovat. Joillakin on miljoonia kehittäjiä, jotka jakavat tietoa ja auttavat toisiaan, toisilla on pienempi mutta erittäin tiivis ja tukeva yhteisö. Tulet rakastamaan nähdäksesi, kuinka erilaisia persoonallisuuksia näillä yhteisöillä on!
+3. **Tapaa yhteisöt**: Tutki kuinka vastaanottavaisia ja intohimoisia kunkin kielen yhteisöt ovat. Joillakin on miljoonia kehittäjiä jakamassa tietoa ja auttamassa toisiaan, toisilla on pienempi mutta uskomattoman tiivis ja tukevainen yhteisö. Tulet rakastamaan nähdä eri persoonallisuuksia näissä yhteisöissä!
 
-4. **Kuuntele vaistoasi**: Mikä kieli tuntuu sinulle tällä hetkellä lähestyttävimmältä? Älä stressaa "täydellisen" valinnan tekemisestä – kuuntele vain vaistojasi! Tässä ei ole väärää vastausta, ja voit aina tutkia muita myöhemmin.
+4. **Seuraa vaistoasi**: Mikä kieli tuntuu sinusta lähestyttävimmältä juuri nyt? Älä stressaa "täydellisen" valinnan tekemisestä – kuuntele vain vaistojasi! Tässä ei oikeasti ole väärää vastausta, ja voit aina myöhemmin tutustua muihin kieliin.
 
-**Bonus salapoliisityö**: Selvitä, mitkä suuret verkkosivustot tai sovellukset on rakennettu kunkin kielen avulla. Takaan, että tulet hämmästymään, kun saat selville, mikä pyörittää Instagramia, Netflixiä tai sitä mobiilipeliä, jota et voi lopettaa
-## Arviointi ja itseopiskelu
+**Bonus etsivätyö:** Yritä löytää, mitkä suuret verkkosivustot tai sovellukset on rakennettu milläkin kielellä. Vakuutan, että tulet yllättymään siitä, mitä Instagram, Netflix tai se mobiilipeli, jota et voi lopettaa, käyttävät taustalla!
 
-**Ota aikaa tutkiaksesi ja nauttiaksesi siitä!**
+> 💡 **Muista:** Et yritä tulla asiantuntijaksi missään näistä kielistä tänään. Tutustut vain naapurustoon ennen kuin päätät, mihin haluat asettua. Ota rauhassa, pidä hauskaa ja anna uteliaisuutesi ohjata!
 
-Olet oppinut tänään paljon, ja siitä voit olla ylpeä! Nyt alkaa hauska osuus – tutkia aiheita, jotka herättivät uteliaisuutesi. Muista, tämä ei ole läksy – tämä on seikkailu!
+## Juhlistetaan Löytöjäsi!
 
-**Sukella syvemmälle asioihin, jotka innostavat sinua:**
+Huh huh, olet imeytynyt niin paljon uskomattomia tietoja tänään! Olen todella innoissani nähdessäni, kuinka paljon tästä upeasta matkasta on tarttunut sinuun. Ja muista – tämä ei ole koe, jonka pitää mennä täydellisesti. Tämä on enemmänkin juhla kaikesta siististä, mitä olet oppinut tästä kiehtovasta maailmasta, johon olet juuri sukeltamassa!
 
-**Tutustu ohjelmointikieliin käytännössä:**
-- Käy 2-3 sinua kiinnostavan ohjelmointikielen virallisilla verkkosivuilla. Jokaisella niistä on oma persoonallisuutensa ja tarinansa!
-- Kokeile online-koodausalustoja, kuten [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/) tai [Replit](https://replit.com/). Älä pelkää kokeilla – et voi rikkoa mitään!
-- Lue, miten suosikkikielesi syntyi. Oikeasti, jotkut näistä tarinoista ovat todella kiehtovia ja auttavat sinua ymmärtämään, miksi kielet toimivat niin kuin toimivat.
+[Ota jälkitestin quiz](https://ff-quizzes.netlify.app/web/)
 
-**Tule tutuksi uusien työkalujesi kanssa:**
-- Lataa Visual Studio Code, jos et ole vielä tehnyt sitä – se on ilmainen ja tulet rakastamaan sitä!
-- Käytä muutama minuutti Extensions-markkinapaikan selaamiseen. Se on kuin sovelluskauppa koodieditorillesi!
-- Avaa selaimesi kehittäjätyökalut ja klikkaile ympäriinsä. Älä huolehdi, jos et ymmärrä kaikkea – tutustu vain siihen, mitä siellä on.
+## Kertaus & Itsenäinen opiskelu
+
+**Ota oma aikasi tutkia ja pitää hauskaa!**
+Olet edennyt paljon tänään, ja siitä kannattaa olla ylpeä! Nyt tulee hauska osuus – tutkia aiheita, jotka herättivät uteliaisuutesi. Muista, tämä ei ole läksyjä – tämä on seikkailu!
+
+**Sukella syvemmälle siihen, mikä innostaa sinua:**
+
+**Kokeile ohjelmointikieliä käytännössä:**
+- Käy kahden tai kolmen kielen virallisilla verkkosivuilla, jotka kiinnittivät huomiosi. Jokaisella on oma persoonallisuutensa ja tarinansa!
+- Kokeile joitakin online-koodausympäristöjä, kuten [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/) tai [Replit](https://replit.com/). Älä pelkää kokeilla – et riko mitään!
+- Lue, miten lempikielesi syntyi. Vakavasti, jotkut näistä alkuperätarinoista ovat todella kiehtovia ja auttavat sinua ymmärtämään, miksi kielet toimivat juuri niin kuin ne toimivat.
+
+**Tutustu uusiin työkaluihisi:**
+- Lataa Visual Studio Code, jos et ole vielä tehnyt niin – se on ilmainen ja tulet pitämään siitä!
+- Käy hetki Extensions-markkinapaikalla selailemassa. Se on kuin sovelluskauppa koodieditorillesi!
+- Avaa selaimesi Developer Tools ja klikkaile ympäriinsä. Älä huoli, vaikka et ymmärtäisi kaikkea – tutustu vain siihen, mitä siellä on.
 
 **Liity yhteisöön:**
-- Seuraa joitakin kehittäjäyhteisöjä [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/) tai [GitHub](https://github.com/) -sivustoilla. Ohjelmointiyhteisö on uskomattoman vastaanottavainen uusille tulokkaille!
-- Katso joitakin aloittelijaystävällisiä koodausvideoita YouTubesta. Siellä on paljon mahtavia sisällöntuottajia, jotka muistavat, millaista on aloittaa alusta.
-- Harkitse liittymistä paikallisiin tapaamisiin tai online-yhteisöihin. Uskokaa pois, kehittäjät rakastavat auttaa uusia tulokkaita!
+- Seuraa kehittäjäyhteisöjä kuten [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/) tai [GitHub](https://github.com/). Ohjelmointi on tosi avointa uusille!
+- Katso joitakin aloittelijaystävällisiä koodausvideoita YouTubessa. On paljon hyviä tekijöitä, jotka muistavat miltä alkutaival tuntuu.
+- Harkitse osallistumista paikallisiin tapaamisiin tai online-yhteisöihin. Luota minuun, kehittäjät rakastavat auttaa uusia tulokkaita!
 
-> 🎯 **Kuuntele, tässä on mitä haluan sinun muistavan**: Sinun ei odoteta tulevan koodausvelhoksi yhdessä yössä! Juuri nyt tutustut tähän hämmästyttävään uuteen maailmaan, johon olet liittymässä. Ota aikaa, nauti matkasta ja muista – jokainen ihailemasi kehittäjä oli kerran täsmälleen samassa tilanteessa kuin sinä nyt, innostunut ja ehkä hieman hämmentynyt. Se on täysin normaalia, ja se tarkoittaa, että teet kaiken oikein.
+> 🎯 **Kuuntele, tässä mitä haluan sinun muistavan**: Sinulta ei odoteta, että poltat ohjelmointitaitoa mestariksi yhdessä yössä! Nyt tutustut vain tähän mahtavaan uuteen maailmaan, johon olet astumassa. Ota aikasi, nauti matkasta ja muista – jokainen kehittäjä, jota ihailet, istui kerran tarkalleen siellä missä sinä olet nyt, innostuneena ja ehkä vähän hämmentyneenä. Se on täysin normaalia ja tarkoittaa, että teet oikein!
 
----
+
 
 ## Tehtävä
 
-[Dokumentaation lukeminen](assignment.md)
+[Reading the Docs](assignment.md)
 
-> 💡 **Pieni vinkki tehtävääsi**: Olisi mahtavaa nähdä sinun tutkivan joitakin työkaluja, joita emme ole vielä käsitelleet! Jätä väliin editorit, selaimet ja komentorivityökalut, joista olemme jo puhuneet – siellä on kokonainen uskomaton maailma upeita kehitystyökaluja, jotka odottavat löytämistä. Etsi sellaisia, joita aktiivisesti ylläpidetään ja joilla on elinvoimaisia, avuliaita yhteisöjä (niillä on yleensä parhaat tutoriaalit ja eniten tukevia ihmisiä, kun väistämättä törmäät haasteisiin ja tarvitset ystävällistä apua).
+> 💡 **Pieni vinkki tehtävääsi varten**: Haluaisin ehdottomasti nähdä sinun kokeilevan työkaluja, joita emme ole vielä käsitelleet! Ohita editorit, selaimet ja komentorivityökalut, joista olemme jo puhuneet – siellä on koko mahtava universumi upeita kehitystyökaluja odottamassa löytämistään. Etsi työkaluja, joita ylläpidetään aktiivisesti ja joilla on vilkas, auttavainen yhteisö (niissä on yleensä parhaat ohjeet ja kaikkein tukevimmat ihmiset, kun tulet jumiin ja tarvitset ystävällisen käden auttamaan).
 
 ---
 
 ## 🚀 Ohjelmointimatkasi aikajana
 
 ### ⚡ **Mitä voit tehdä seuraavan 5 minuutin aikana**
-- [ ] Lisää kirjanmerkkeihin 2-3 ohjelmointikielen verkkosivua, jotka herättivät kiinnostuksesi
+- [ ] Tallenna kirjanmerkkeihin 2-3 ohjelmointikielen verkkosivustoa, jotka kiinnittivät huomiosi
 - [ ] Lataa Visual Studio Code, jos et ole vielä tehnyt sitä
-- [ ] Avaa selaimesi kehittäjätyökalut (F12) ja klikkaile ympäriinsä millä tahansa verkkosivulla
+- [ ] Avaa selaimesi DevTools (F12) ja klikkaile missä tahansa verkkosivulla
 - [ ] Liity yhteen ohjelmointiyhteisöön (Dev.to, Reddit r/webdev tai Stack Overflow)
 
 ### ⏰ **Mitä voit saavuttaa tämän tunnin aikana**
-- [ ] Tee oppitunnin jälkeinen kysely ja pohdi vastauksiasi
+- [ ] Täytä oppitunnin jälkeinen tietovisa ja pohdi vastauksiasi
 - [ ] Asenna VS Codeen GitHub Copilot -laajennus
-- [ ] Kokeile "Hello World" -esimerkkiä kahdella eri ohjelmointikielellä verkossa
+- [ ] Kokeile "Hello World" -esimerkkiä kahdella eri ohjelmointikielellä netissä
 - [ ] Katso YouTubesta video "Päivä kehittäjän elämässä"
-- [ ] Aloita ohjelmointikielen etsintätehtäväsi (haasteesta)
+- [ ] Aloita ohjelmointikielen tutkijatyö (haasteen mukaan)
 
 ### 📅 **Viikon mittainen seikkailusi**
-- [ ] Suorita tehtävä ja tutki 3 uutta kehitystyökalua
-- [ ] Seuraa 5 kehittäjää tai ohjelmointiaiheista tiliä sosiaalisessa mediassa
-- [ ] Kokeile rakentaa jotain pientä CodePenissä tai Replitissä (vaikka vain "Hei, [Nimesi]!")
-- [ ] Lue yksi kehittäjän blogikirjoitus jonkun koodausmatkasta
-- [ ] Liity virtuaaliseen tapaamiseen tai katso ohjelmointiaiheinen esitys
-- [ ] Aloita valitsemasi kielen opiskelu verkkotutoriaalien avulla
+- [ ] Tee tehtävä loppuun ja tutustu 3 uuteen kehitystyökaluun
+- [ ] Seuraa 5 kehittäjää tai ohjelmointitiliä sosiaalisessa mediassa
+- [ ] Kokeile rakentaa jotain pientä CodePenissä tai Replitissä (vaikka vain "Hello, [Nimesi]!")
+- [ ] Lue yksi kehittäjäblogipostaus jonkun ohjelmointimatkasta
+- [ ] Osallistu virtuaalitapaamiseen tai katso ohjelmointiaiheinen puhe
+- [ ] Aloita valitsemasi kieli nettioppituntien avulla
 
-### 🗓️ **Kuukauden mittainen muodonmuutos**
-- [ ] Rakenna ensimmäinen pieni projektisi (vaikka yksinkertainen verkkosivu riittää!)
+### 🗓️ **Kuukauden mittainen muutosmatkasi**
+- [ ] Rakenna ensimmäinen pieni projektisi (yksinkertainenkin verkkosivu käy!)
 - [ ] Osallistu avoimen lähdekoodin projektiin (aloita dokumentaation korjauksista)
-- [ ] Ryhdy mentoriksi jollekin, joka on vasta aloittamassa ohjelmointimatkaansa
+- [ ] Ole mentori jollekin, joka vasta aloittaa ohjelmointimatkansa
 - [ ] Luo oma kehittäjäportfoliosivustosi
-- [ ] Yhdistä paikallisiin kehittäjäyhteisöihin tai opintoryhmiin
-- [ ] Aloita seuraavan oppimistavoitteesi suunnittelu
+- [ ] Yhdistä paikallisiin kehittäjäyhteisöihin tai opiskeluryhmiin
+- [ ] Ala suunnitella seuraavaa oppimisvirstanpylvästäsi
 
 ### 🎯 **Lopullinen pohdinta**
 
-**Ennen kuin jatkat, ota hetki juhliaksesi:**
-- Mikä ohjelmoinnissa innosti sinua tänään?
-- Mikä työkalu tai konsepti kiinnostaa sinua eniten?
-- Miltä sinusta tuntuu aloittaa tämä ohjelmointimatka?
-- Mikä kysymys sinulla olisi juuri nyt kehittäjälle?
+**Ennen kuin jatkat, ota hetki juhlia:**
+- Mikä ohjelmoinnissa innosti sinua tänään eniten?
+- Mitä työkalua tai käsitettä haluat tutkia ensin?
+- Miltä tuntuu aloittaa tämä ohjelmointimatka?
+- Mikä kysymys haluaisit esittää kehittäjälle juuri nyt?
 
 ```mermaid
 journey
-    title Your Confidence Building Journey
-    section Today
-      Curious: 3: You
-      Overwhelmed: 4: You
-      Excited: 5: You
-    section This Week
-      Exploring: 4: You
-      Learning: 5: You
-      Connecting: 4: You
-    section Next Month
-      Building: 5: You
-      Confident: 5: You
-      Helping Others: 5: You
+    title Itseluottamuksen Rakentamisen Matkasi
+    section Tänään
+      Utelias: 3: You
+      Ylikuormittunut: 4: You
+      Innoissaan: 5: You
+    section Tällä Viikolla
+      Tutkiskelu: 4: You
+      Oppiminen: 5: You
+      Yhdistäminen: 4: You
+    section Ensi Kuussa
+      Rakentaminen: 5: You
+      Itsevarma: 5: You
+      Auttaa Toisia: 5: You
 ```
-
-> 🌟 **Muista**: Jokainen asiantuntija on joskus ollut aloittelija. Jokainen kokenut kehittäjä on joskus tuntenut täsmälleen samoin kuin sinä nyt – innostunut, ehkä hieman hämmentynyt ja ehdottomasti utelias siitä, mitä kaikkea on mahdollista saavuttaa. Olet mahtavassa seurassa, ja tämä matka tulee olemaan uskomaton. Tervetuloa ohjelmoinnin ihmeelliseen maailmaan! 🎉
+> 🌟 **Muista**: Jokainen asiantuntija on joskus ollut aloittelija. Jokainen kokenut kehittäjä on joskus tuntenut juuri samoin kuin sinä nyt – innostuneena, ehkä vähän hämmentyneenä ja ehdottomasti uteliaana siitä, mitä on mahdollista saada aikaan. Olet mahtavassa seurassa, ja tämä matka tulee olemaan uskomaton. Tervetuloa ohjelmoinnin ihmeelliseen maailmaan! 🎉
 
 ---
 
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Vastuuvapauslauseke**:  
-Tämä asiakirja on käännetty käyttämällä tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, huomioithan, että automaattiset käännökset voivat sisältää virheitä tai epätarkkuuksia. Alkuperäinen asiakirja sen alkuperäisellä kielellä tulisi katsoa ensisijaiseksi lähteeksi. Kriittisen tiedon osalta suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa väärinkäsityksistä tai virhetulkinnoista, jotka johtuvat tämän käännöksen käytöstä.
+Tämä asiakirja on käännetty käyttäen tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, otathan huomioon, että automaattiset käännökset saattavat sisältää virheitä tai epätarkkuuksia. Alkuperäistä asiakirjaa sen alkuperäiskielellä tulee pitää lopullisena ja virallisena lähteenä. Tärkeissä tiedoissa suositellaan ammattimaisen ihmiskääntäjän palveluiden käyttöä. Emme ole vastuussa tämän käännöksen käytöstä johtuvista väärinymmärryksistä tai tulkinnoista.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

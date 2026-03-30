@@ -1,12 +1,12 @@
 # Įvadas į programavimo kalbas ir modernius kūrėjų įrankius
 
-Sveikas, būsimasis kūrėjau! 👋 Ar galiu tau pasakyti kažką, kas vis dar kasdien sukelia man šiurpuliukus? Tu netrukus suprasi, kad programavimas – tai ne tik apie kompiuterius – tai apie tikrąsias supergalias, kurios leidžia įgyvendinti tavo laukinius sumanymus!
+Sveikas, būsimasis kūrėji! 👋 Ar galiu tau papasakoti kažką, kas kasdien man sukelia šiurpuliukus? Tu netrukus suprasi, kad programavimas nėra tik apie kompiuterius – tai tikros supergalios paversti savo beprotiškiausias idėjas realybe!
 
-Žinai tą akimirką, kai naudoji savo mėgstamą programėlę ir viskas tiesiog veikia tobuloje harmonijoje? Kai paspaudi mygtuką ir įvyksta kažkas visiškai stebuklingo, dėl ko sakančiausi: „oho, kaip jie TAI padarė?“ Na, kažkas panašaus į tave – tikriausiai sėdintis savo mėgstamoje kavinėje vidurnaktį su trečiąja espresso porcija – parašė tą kodą, kuris sukūrė tą magiją. Ir štai kas privers tave nustebti: pamoko pabaigoje tu ne tik suprasi, kaip jie tai padarė, bet ir pats norėsi išbandyti!
+Žinai tą akimirką, kai naudoji savo mėgstamą programėlę ir viskas tiesiog susiklosto puikiai? Kai paspaudi mygtuką ir įvyksta kažkas nepaprasto, kas privers tave sakyti „vau, kaip jie TAI PADARĖ?“ Na, kažkas panašaus kaip tu – tikriausiai sėdėdamas savo mėgstamame kavinės kampelyje 2 val. nakties su trečia espreso kava – parašė kodą, kuris sukūrė tą magiją. Ir štai kas tave sužavės: pamokos pabaigoje tu ne tik suprasi, kaip jie tai padarė, bet ir degsi noru tai išbandyti pats!
 
-Žinau, programuoti gali atrodyti baugu. Kai aš pradėjau, man atrodė, kad turi būti kažkokiu būdu matematikos genijus arba programuoti nuo penkerių metų. Bet štai kas visiškai pakeitė mano požiūrį: programavimas yra kaip išmokti kalbėti nauja kalba. Pradedi nuo „labas“ ir „ačiū“, paskui gali užsisakyti kavos, o netrukus jau kalbiesi apie gilias filosofines temas! Tik šiuo atveju – tu kalbiesi su kompiuteriais, ir žinai ką? Jie yra kantriausi pašnekovai – niekada nenuvertina tavo klaidų ir visada entuziastingai nori pabandyti dar kartą!
+Žinok, visiškai suprantu, jei dabar programavimas atrodo bauginantis. Kai pradėjau, tikrai galvojau, kad reikia būti kokiu nors matematikos genijumi arba programuoti nuo penkerių metų. Bet štai kas visiškai pakeitė mano požiūrį: programavimas yra kaip mokytis kalbėti nauja kalba. Pradedi nuo „labas“ ir „ačiū“, vėliau užsakai kavą, ir netrukus jau vediesi gilius filosofinius pokalbius! Tik šiuo atveju tu kalbiesi su kompiuteriais, o jie yra kantriausi pokalbių draugai – niekada nepeikia tavo klaidų ir visada pasirengę bandyti dar kartą!
 
-Šiandien pažvelgsime į neįtikėtinas priemones, kurios daro šiuolaikinį žiniatinklio kūrimą ne tik įmanomu, bet ir labai priklausomybę sukeliančiu užsiėmimu. Kalbu apie tuos pačius redaktorius, naršykles ir darbo eigas, kuriomis kasdien naudojasi kūrėjai Netflix, Spotify bei tavo mėgstamoje nepriklausomoje programėlių studijoje. Ir štai kas privers tave šokti iš džiaugsmo: dauguma šių profesionalių, pramonės standartų įrankių yra visiškai nemokami!
+Šiandien ištyrinėsime neįtikėtinus įrankius, kurie padaro šiuolaikinę interneto kūrimo praktiką ne tik įmanoma, bet ir labai patrauklia. Kalbu apie tą pačią redaktorių, naršyklių ir darbo procesų grupę, kurių kasdien naudojasi kūrėjai Netflix, Spotify ir tavo mėgstamos nepriklausomos programėlės studijos komandoje. Ir štai kas privers tave šokti iš džiaugsmo: dauguma šių profesionalių, pramonės standartų įrankių yra visiškai nemokami!
 
 ![Intro Programming](../../../../translated_images/lt/webdev101-programming.d6e3f98e61ac4bff.webp)
 > Sketchnote autorius [Tomomi Imura](https://twitter.com/girlie_mac)
@@ -18,144 +18,144 @@ journey
       Kas yra programavimas: 5: You
       Programavimo kalbos: 4: You
       Įrankių apžvalga: 5: You
-    section Tyrinėkite
+    section Tyrinėti
       Kodo redaktoriai: 4: You
       Naršyklės ir kūrėjų įrankiai: 5: You
       Komandinė eilutė: 3: You
     section Praktika
-      Kalbos detektyvas: 4: You
+      Kalbų detektyvas: 4: You
       Įrankių tyrinėjimas: 5: You
-      Bendruomenės ryšys: 5: You
+      Bendruomenės ryšiai: 5: You
 ```
-## Pažiūrėkime, ką jau žinai!
+## Pažiūrėkime, ką tu jau žinai!
 
-Prieš pereidami prie linksmybių, įdomu – ką tu jau žinai apie šį programavimo pasaulį? Ir žinok, jei žvelgi į šiuos klausimus galvodamas „Aš nieko apie tai nežinau iš viso“, tai ne tik gerai, bet puiku! Tai reiškia, kad esi būtent ten, kur reikia. Galvok apie šį testą kaip apie apšilimą prieš treniruotę – tiesiog šildome smegenų raumenis!
+Prieš šokinėjant į smagius dalykus, man įdomu – ką tu jau žinai apie šį programavimo pasaulį? Ir klausyk, jei žiūrėdamas į šiuos klausimus galvoji „aš tiesiog visiškai neturiu jokios užuominos apie tai“, tai ne tik normalu, bet ir puiku! Tai reiškia, kad esi būtent reikiamoje vietoje. Galvok apie šį testą kaip apie tempimą prieš treniruotę – tiesiog šildome smegenų raumenis!
 
-[Atlik pradžios testą](https://forms.office.com/r/dru4TE0U9n?origin=lprLink)
+[Atlik priešpamokinį testą](https://ff-quizzes.netlify.app/web/)
 
 
-## Nuotykis, kurį keliausime kartu
+## Nuotykis, kurį ketiname patirti kartu
 
-Gerai, aš tikrai negaliu nusėdėti iš džiaugsmo, ką šiandien tyrinėsime! Rimtai, norėčiau matyti tavo veidą, kai kai kurios iš šių sąvokų tikrai įsisavins. Štai neįtikėtina kelionė, kurią keliaujame kartu:
+Gerai, aš išties džiaugiuosi dėl to, ką šiandien ištyrinėsime! Rimtai, norėčiau matyti tavo veidą, kai kai kurie šie konceptai ims kristi į vietas. Štai nuostabus kelias, kurį žengiame kartu:
 
-- **Kas yra programavimas iš tikrųjų (ir kodėl tai pats šauniausias dalykas!)** – Atraskime, kaip kodas yra nematoma magija, valdanti viską aplink tave, nuo to žadintuvo, kuris kaip nors žino, kad yra pirmadienio rytas, iki algoritmo, kuris idealiai atrenka tavo Netflix rekomendacijas
-- **Programavimo kalbos ir jų nuostabios asmenybės** – Įsivaizduok, kad įeini į vakarėlį, kuriame kiekvienas žmogus turi visiškai skirtingas supergalias ir problemų sprendimo būdus. Taip ir su programavimo kalbomis, ir tau patiks jas pažinti!
-- **Pagrindiniai blokai, kurie sukuria skaitmeninę magiją** – Įsivaizduok tai kaip neprilygstamą kūrybinį LEGO rinkinį. Kai suprasi, kaip šios dalys dera tarpusavyje, suprasi, kad gali statyti bet ką, ką tik įsivaizduoji
-- **Profesionalūs įrankiai, kurie privers tave jaustis lyg ką tik gavai burtininko lazdelę** – Nėra jokio perdėjimo – šie įrankiai iš tiesų privers tave pasijusti turint supergalias, o geriausia? Tai tie patys įrankiai, kuriuos naudoja profesionalai!
+- **Kas iš tikrųjų yra programavimas (ir kodėl tai pats šauniausias dalykas!)** – Sužinosime, kaip kodas iš tikrųjų yra nematoma magija, valdanti viską aplink tave, nuo to žadintuvo, kuris kaip tyčia žino, kad pirmadienis rytoj, iki algoritmo, kuris tobulai atrenka tavo Netflix rekomendacijas
+- **Programavimo kalbos ir jų nuostabūs charakteriai** – Įsivaizduok, kad ateini į vakarėlį, kuriame kiekvienas žmogus turi visiškai skirtingų supergalių ir sprendžia problemas skirtingais būdais. Taip yra ir programavimo kalbų pasaulyje, ir tau tikrai patiks jas pažinti!
+- **Pagrindinės dalelės, kurios kuria skaitmeninę magiją** – Įsivaizduok šiuos kaip galutinį kūrybinį LEGO rinkinį. Kai suprasi, kaip šie gabalai dera kartu, suprasi, kad gali tiesiogiai sukurti bet ką, ką tik įsivaizduoji
+- **Profesionalūs įrankiai, kurie privers jaustis lyg būtų atiduotas burtininko lazdelė** – Nesu dramatiškas – šie įrankiai tikrai suteiks tau supergalių jausmą, o geriausia? Tai tie patys, kuriuos naudoja profesionalai!
 
-> 💡 **Štai kas svarbu**: šiandien nė nebandyk įsiminti visko! Šiuo metu tiesiog noriu, kad pajustum tą susidomėjimą dėl galimų dalykų. Detalės natūraliai įsigers, kai mokysimės kartu – taip vyksta tikras mokymasis!
+> 💡 **Štai ką tau pasakysiu**: Šiandien net nesistenk įsiminti visko! Dabar tiesiog noriu, kad pajustum tą jaudulį dėl to, kas įmanoma. Detalės natūraliai įstrigs, kai drauge praktikavsimės – štai kaip vyksta tikras mokymasis!
 
-> Šią pamoką gali atlikti [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
+> Šią pamoką gali atlikti [Microsoft Learn](https://learn.microsoft.com/en-us/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon) platformoje!
 
-## Tai kas gi iš tikrųjų yra *programavimas*?
+## Tai kas gi iš tiesų yra programavimas?
 
-Gerai, imkime milijono dolerių vertės klausimą: kas yra programavimas iš tikrųjų?
+Gerai, spręskime milijono vertės klausimą: kas iš tiesų yra programavimas?
 
-Papasakosiu tau istoriją, kuri visiškai pakeitė mano požiūrį. Praėjusią savaitę bandžiau paaiškinti mamai, kaip naudotis mūsų naujuoju išmaniuoju televizoriaus pultu. Aš svarsčiau, sakydamas: „Paspausk raudoną mygtuką, bet ne didelį raudoną mygtuką, mažą raudoną kairėje... ne, tavo kita kairė... gerai, dabar palaikyk du sekundes, ne vieną, ne tris...“ Skamba pažįstamai? 😅
+Paprasčiau pasakosiu istoriją, kuri visiškai pakeitė mano supratimą. Praeitą savaitę bandžiau paaiškinti savo mamai, kaip naudotis mūsų naujuoju išmaniu televizoriaus pultu. Pradėjau sakyti dalykus tipo „Paspausk raudoną mygtuką, bet ne didelį raudoną, o mažą raudoną kairėje... ne, tavo kitoje kairėje... gerai, dabar palaikyk du sekundes, ne vieną, ne tris...“ Skamba pažįstamai? 😅
 
-Tai yra programavimas! Tai menas duoti labai detalias, žingsnis po žingsnio instrukcijas kažkam labai galingam, bet kuriam reikia itin aiškiai viską išdėstyti. Tik vietoj to, kad aiškintum mamai (kuri gali paklausti „kuris raudonas mygtukas?!“), aiškini kompiuteriui (kuris tiksliai daro tai, ką sakai, net jei tai, ką sakei, nėra būtent tai, ką norėjai pasakyti).
+Tai ir yra programavimas! Tai menas duoti nepaprastai detalias, žingsnis po žingsnio instrukcijas kažkam labai galingam, bet kam reikia viską labai tiksliai išdėstyti. Išskyrus tai, kad vietoje paaiškinimo mamai (kuri gali paklausti „kurią raudoną?!“), tu paaiškini kompiuteriui (kuris tiesiog daro būtent tai, ką sakai, net jei ne visai tai, ką turėjai omenyje).
 
-Štai kas mane nustebino, kai tik pradėjau mokytis: kompiuteriai iš esmės yra gana paprasti. Jie supranta tik du dalykus – 1 ir 0, kas iš esmės yra „taip“ ir „ne“ arba „įjungta“ ir „išjungta.“ Tai viskas! Bet štai kur prasideda magija – mes nemokame kalbėti tik 1 ir 0, tarsi būtume „Matricoje.“ Čia į pagalbą ateina **programavimo kalbos**. Jos kaip geriausias vertėjas pasaulyje, kuris tau padeda išreikšti tavo paprastus žmonių mintis kompiuterių kalba.
+Mano protą ištiko šokas, kai pirmą kartą supratau šią tiesą: kompiuteriai iš tikrųjų yra labai paprasti savo esmėje. Jie supranta tik du dalykus – 1 ir 0, kas iš esmės reiškia „taip“ ir „ne“ arba „įjungta“ ir „išjungta“. Tai viskas! Bet čia prasideda magija – mums nereikia kalbėti tik 1 ir 0 kaip Matrix filme. Čia ateina **programavimo kalbos** į pagalbą. Jos kaip geriausias pasaulio vertėjas, kuris paverčia tavo paprastus žmogaus mintis į kompiuterių kalbą.
 
-Ir štai kas vis dar kas rytą man kelia šiurpuliukus: pažink, kad *viskas* skaitmeniniame pasaulyje tavo gyvenime prasidėjo nuo kažkieno panašaus į tave, tikriausiai sėdinčio pižamoje su puoduku kavos, rašančio kodą į savo nešiojamąjį kompiuterį. Tas Instagram filtras, kuris padaro tave tobulą? Kas nors parašė tą kodą. Rekomendacija, kuri nuvedė tave prie naujos mėgstamos dainos? Kūrėjas sukūrė tą algoritmą. Programėlė, kuri padeda tau dalintis vakarienės sąskaitą su draugais? Taip, kažkas pagalvojo „čia erzina, aš galėčiau tai išspręsti“ ir tada… tai padarė!
+Ir štai kas man vis dar kas rytą sukelia šiurpuliukus: tiesiog *viskas* skaitmeniniame tavo gyvenime prasidėjo nuo kažko panašaus į tave, tikriausiai dėvint pižamą, gurkšnojančio kavą ir rašančio kodą savo nešiojamame kompiuteryje. Tą Instagram filtrą, kuris tave daro tobulą? Jį sukūrė kažkas. Rekomendaciją, kuria užkliuvai už savo naujos mėgstamos dainos? Algoritmą sukūrė kūrėjas. Programėlė, kuri padeda su draugais dalytis vakarienės sąskaitą? Taip, kažkas pagalvojo „tai erzina, gal aš galiu tai sutvarkyti“ ir tada... sutvarkė!
 
-Kai išmoksti programuoti, tu ne tik įgyji naują įgūdį – tu tampi šios nuostabios bendruomenės dalimi, kurią sudaro problemoms spręsti skirtų žmonių grupė, kuri kasdien galvoja: „O ką, jei galėčiau sukurti kažką, kas šiek tiek pagerintų kieno nors dieną?“ Sąžiningai, ar yra kas nors šaunesnio?
+Kai mokaisi programuoti, tu ne tik įgyji naują įgūdį – tu tampi šios neįtikėtinos problemų sprendėjų bendruomenės dalimi, kuri kiekvieną dieną klausia savęs: „O kas, jei aš galėčiau sukurti kažką, kas truputį pagerintų kieno nors dieną?“ Rimtai, ar gali būti kas nors šauniau už tai?
 
-✅ **Smagus faktas**: štai kažkas labai įdomaus, ką gali paieškoti, kai turėsi laisvą minutę – kas, tavo manymu, buvo pirmasis pasaulio kompiuterio programuotojas? Duosiu užuominą: tai gali būti ne tas, ko tikiesi! Šio žmogaus istorija yra tikrai fascinanti ir parodo, kad programavimas visada buvo kūrybiškas problemų sprendimas ir mąstymas už įprastų ribų.
+✅ **Smagus faktų medžioklė**: Štai ką labai smagaus galima paieškoti laisvu metu – kas, tavo manymu, buvo pirmasis pasaulio kompiuterių programuotojas? Duosiu užuominą: tai gali būti ne tas, ko tikiesi! Šios asmenybės istorija be galo įdomi ir parodo, kad programavimas visada buvo apie kūrybinį problemų sprendimą ir mąstymą neįprastai.
 
-### 🧠 **Patikrink save: kaip jautiesi?**
+### 🧠 **Patikra: Kaip jautiesi?**
 
-**Skirk minutėlę apmąstymams:**
-- Ar dabar tau prasminga idėja „duoti instrukcijas kompiuteriams“?
-- Ar gali pagalvoti apie kasdienę užduotį, kurią norėtum automatizuoti programuodamas?
-- Kokie klausimai kyla tavo galvoje apie visą tą programavimo pasaulį?
+**Skirk akimirką pagalvoti:**
+- Ar tau dabar prasminga mintis „duoti instrukcijas kompiuteriams“?
+- Ar gali įsivaizduoti kasdienę užduotį, kurią norėtum automatizuoti su programavimu?
+- Kokie klausimai kyla galvoje apie visą šį programavimo dalyką?
 
-> **Prisimink**: visiškai normalu, jei kai kurios sąvokos atrodo miglotos. Programavimą mokytis yra kaip naują kalbą – smegenims reikia laiko sukurti naujus ryšius. Tu darai puikiai!
+> **Prisimink**: Visiškai normalu, jei kai kurios sąvokos atrodo miglotos. Programavimas yra kaip mokytis naują kalbą – tavo smegenys turi laiko sukurti nervinius kelius. Tu darai puikų darbą!
 
-## Programavimo kalbos – tai kaip skirtingi magijos skoniai
+## Programavimo kalbos yra kaip skirtingi magijos skoniai
 
-Gerai, tai skambės keistai, bet lik su manimi – programavimo kalbos daug kuo panašios į skirtingų muzikos stilių rūšis. Pagalvok: turi džiazą, kuris yra švelnus ir improvizuojantis, roką, kuris yra galingas ir tiesmukas, klasiką, kuri elegantiška ir struktūruota, ir hiphopą, kuris kūrybingas ir išraiškingas. Kiekvienas stilius turi savo nuotaiką, savo aistringų gerbėjų bendruomenę, ir kiekvienas puikiai tinka skirtingiems jausmams bei progoms.
+Gerai, tai skambės keistai, bet iškentėk – programavimo kalbos daug kuo panašios į skirtingų muzikos stilių rūšis. Pagalvok: yra džiazas, kuris švelnus ir improvizuojantis, rokas, kuris galingas ir tiesmukas, klasikinė muzika, kuri elegantiška ir struktūruota, ir hiphopas, kuris kūrybingas ir ekspresyvus. Kiekvienas stilius turi savo atmosferą, savo aistruolių bendruomenę, ir kiekvienas tinka skirtingoms nuotaikoms bei progoms.
 
-Programavimo kalbos veikia lygiai taip pat! Tu juk nenaudotum tos pačios kalbos kurdama linksmą mobilią žaidimą ir apdorojant milžiniškus klimato duomenis, taip pat kaip nesileisi žaisti death metalo jogų užsiėmime (na, daugelyje užsiėmimų tikrai ne! 😄).
+Programavimo kalbos veikia būtent taip pat! Tu juk nesinaudotum ta pačia kalba kuriant smagią mobilų žaidimą ir analizuojant milžiniškus klimato duomenų kiekius, taip pat kaip ir negrojėtum death metalo jogos užsiėmime (na, daugumoje jogos užsiėmimų! 😄).
 
-Bet štai kas mane visuomet stulbina: šios kalbos yra kaip kantriausias, genialiausias pasaulio vertėjas, sėdintis šalia tavęs. Tu gali išreikšti savo idėjas taip, kaip tau natūralu kaip žmogui, o jos atlieka visą sudėtingą darbą verčiant tai į kompiuterio kalbą, kurią sudaro 1 ir 0. Tai kaip turėti draugą, kuris puikiai moka tiek „žmogišką kūrybiškumą“, tiek „kompiuterinę logiką“ – jie niekada nepavargsta, niekada neprisiruošia kavos pertraukėlės, ir niekada tavęs nevertina, jei paklai aus tą patį klausimą du kartus!
+Bet štai kas mane sužavi kiekvieną kartą, kai apie tai galvoju: šios kalbos tarsi kantriausias ir geniali draugas-vertėjas pasaulyje sėdi šalia tavęs. Gali idėjas išreikšti taip, kaip natūralu tavo žmogaus smegenims, o jos sudėtingai verčia tai į 1 ir 0, kuriuos iš tikrųjų supranta kompiuteriai. Tai kaip turėti draugą, kuris puikiai kalba tiek „žmogiška kūryba“, tiek „kompiuterio logika“ – jis niekada nepavargsta, niekada neprašo kavos pertraukos ir niekada nesmerkia, jei užduodi tą patį klausimą du kartus!
 
-### Populiarios programavimo kalbos ir jų panaudojimas
+### Populiarios programavimo kalbos ir jų paskirtys
 
 ```mermaid
 mindmap
-  root((Programavimo kalbos))
-    Web kūrimas
+  root((Programavimo Kalbos))
+    Web Development
       JavaScript
-        Frontendo magija
-        Interaktyvios svetainės
+        Frontend Magija
+        Interaktyvūs Tinklapių
       TypeScript
-        JavaScript + tipai
-        Įmonių programos
-    Duomenys ir DI
+        JavaScript + Tipai
+        Įmonių Programėlės
+    Data & AI
       Python
-        Duomenų mokslas
-        Mašininis mokymasis
+        Duomenų Mokslas
+        Mašininis Mokymasis
         Automatizavimas
       R
         Statistika
         Tyrimai
-    Mobiliosios programėlės
+    Mobile Apps
       Java
-        Android
+        Androidas
         Įmonės
       Swift
         iOS
-        Apple ekosistema
+        Apple Ekosistema
       Kotlin
-        Modernus Android
-        Daugiaplatformis
-    Sistemos ir našumas
+        Modernus Androidas
+        Kryžminė Platforma
+    Systems & Performance
       C++
         Žaidimai
-        Našumo kritiniai
+        Kritinė Veikimo Sparta
       Rust
-        Atminties sauga
-        Sistemų programavimas
+        Atminties Saugumas
+        Sisteminis Programavimas
       Go
-        Debesų paslaugos
-        Skalabilus backendas
+        Debesų Paslaugos
+        Masto Prieinamumas Backend
 ```
-| Kalba | Geriausia naudoti | Kodėl populiari |
+| Kalba | Geriausia | Kodėl populiari |
 |----------|----------|------------------|
-| **JavaScript** | Žiniatinklio kūrimas, vartotojo sąsajos | Veikia naršyklėse ir valdo interaktyvias svetaines |
-| **Python** | Duomenų mokslas, automatizavimas, dirbtinis intelektas | Lengva skaityti ir mokytis, galingos bibliotekos |
-| **Java** | Verslo programos, Android programėlės | Platformų nepriklausoma, stabili didelėms sistemoms |
+| **JavaScript** | Interneto kūrimas, vartotojo sąsajos | Veikia naršyklėse ir valdžioja interaktyvias svetaines |
+| **Python** | Duomenų mokslas, automatizavimas, DI | Lengva skaityti ir mokytis, galingos bibliotekos |
+| **Java** | Įmonių programos, Android aplikacijos | Nepriklausoma nuo platformos, stabili dideliems sistemoms |
 | **C#** | Windows programos, žaidimų kūrimas | Stipri Microsoft ekosistema |
-| **Go** | Debesų paslaugos, serverio pusės sistemos | Greita, paprasta, sukurta šiuolaikiniam skaičiavimui |
+| **Go** | Debesų paslaugos, serverio dalis | Greita, paprasta, skirta moderniam kompiuterijimui |
 
 ### Aukšto lygio ir žemo lygio kalbos
 
-Gerai, tai buvo sąvoka, kuri visiškai sudaužė mano smegenis, kai pradėjau mokytis, todėl pasidalinsiu analogija, kuri man pagaliau padėjo suprasti – ir tikiuosi, padės ir tau!
+Gerai, tai buvo konceptas, kuris pradžioje visiškai sulaužė mano smegenis, todėl pasidalinsiu analogija, kuri galiausiai man tai paaiškino – ir labai tikiuosi, kad padės ir tau!
 
-Įsivaizduok, kad esi svečiuose šalyje, kurios kalbos nemoki, ir desperatiškai nori rasti artimiausią tualetą (visi per gyvenimą esame buvę tokioje situacijoje, tiesa? 😅):
+Įsivaizduok, kad lankaisi šalyje, kurios kalbos nemoki, ir desperatiškai nori surasti arčiausią tualetą (visi tai yra patyrę, tiesa? 😅):
 
-- **Žemo lygio programavimas** yra kaip taip gerai išmokti vietinę tarme, kad gali kalbėtis su močiute, kuri parduoda vaisius kampe, naudodamas kultūrinius potekstes, vietinius slengus ir užkulisines anekdotų nuorodas, kurias supranta tik tas, kas užaugo ten. Labai įspūdinga ir be galo efektyvu... jei esi gimtakalbis! Bet gana baugu, kai tiesiog bandai rasti tualetą.
+- **Žemo lygio programavimas** panašus į tai, kai taip gerai išmoksti vietinį dialektą, kad gali kalbėtis su močiute, pardavinėjančia vaisius, naudodamas kultūrines užuominas, vietinius šnekamosios kalbos posakius ir vidinius juokelius, kuriuos suprastų tik augęs toje vietovėje. Labai įspūdinga ir ypač efektyvu… jei esi laisvai kalbantis! Bet gana sudėtinga, kai tiesiog nori rasti tualetą.
 
-- **Aukšto lygio programavimas** yra kaip turėti nuostabų vietinį draugą, kuris tave puikiai supranta. Gali pasakyti „Man tikrai reikia rasti tualetą“ paprasta anglų kalba, o jis pasirūpina visa kultūrine interpretacija ir nurodo kelią taip, kad tavo nelokalams smegenims viskas būtų aišku.
+- **Aukšto lygio programavimas** yra kaip turėti tą nuostabų vietinį draugą, kuris tave puikiai supranta. Gali tiesiog pasakyti „Man labai reikia rasti tualetą“ paprasta anglų kalba, o jis persimoko kultūrines subtilybes ir duoda tau suprantamas nuorodas, kurios suprantamos tavo nelokaliai smegenims.
 
-Programavimo terminais:
-- **Žemo lygio kalbos** (pvz., Assembly ar C) leidžia labai detaliai bendrauti su kompiuterio aparatine įranga, bet reikia galvoti kaip mašina, o tai... sakykime, didelis protinis pokytis!
-- **Aukšto lygio kalbos** (pvz., JavaScript, Python ar C#) leidžia mąstyti kaip žmogus, o jos rūpinasi visa mašinos kalba užkulisiuose. Be to, jose gyvena draugiškos bendruomenės, pilnos žmonių, kurie prisimena, kaip buvo naujokai ir tikrai nori padėti!
+Programavimo terminologijoje:
+- **Žemo lygio kalbos** (kaip Assembly ar C) leidžia tau labai detaliai bendrauti su kompiuterio aparatine įranga, tačiau turi mąstyti kaip mašina, kas yra... na, didelis protinis perėjimas!
+- **Aukšto lygio kalbos** (kaip JavaScript, Python ar C#) leidžia tau mąstyti kaip žmogui, o jos užkulisiuose tvarko visą kalbą mašinai. Be to, jos turi nepaprastai draugiškas bendruomenes, kuriose pilna žmonių, prisimenančių, kaip buvo pradžioje, ir iš tikrųjų norinčių padėti!
 
-Spėk, kurias aš pasiūlysiu pradėti tau? 😉 Aukšto lygio kalbos yra kaip treniruočių ratukai, kurių tu iš tiesų niekada nenorėsi nusimesti, nes jos daro visą patirtį daug malonesnę!
+Spėk, kokias kalbas pasiūlysiu tau pradėti mokytis? 😉 Aukšto lygio kalbos yra tarsi mokomieji ratukai, kurių tu niekada nenorėsi nusimauti, nes jos labai palengvina visą patirtį!
 
 ```mermaid
 flowchart TB
-    A["👤 Žmogiška mintis:<br/>'Noriu apskaičiuoti Fibonačio skaičius'"] --> B{Pasirinkti kalbos lygį}
+    A["👤 Žmogiška mintis:<br/>'Noriu apskaičiuoti Fibonačio skaičius'"] --> B{Pasirinkite kalbos lygį}
     
     B -->|Aukšto lygio| C["🌟 JavaScript/Python<br/>Lengva skaityti ir rašyti"]
-    B -->|Žemo lygio| D["⚙️ Asamblėja/C<br/>Tiesioginė aparatūros kontrolė"]
+    B -->|Žemo lygio| D["⚙️ Asamblėja/C<br/>Tiesioginis aparatūros valdymas"]
     
     C --> E["📝 Rašyti: fibonacci(10)"]
     D --> F["📝 Rašyti: mov r0,#00<br/>sub r0,r0,#01"]
     
-    E --> G["🤖 Kompiuterio suvokimas:<br/>Vertėjas tvarko sudėtingumą"]
+    E --> G["🤖 Kompiuterio supratimas:<br/>Vertėjas tvarko sudėtingumą"]
     F --> G
     
     G --> H["💻 Tas pats rezultatas:<br/>0, 1, 1, 2, 3, 5, 8, 13..."]
@@ -164,15 +164,15 @@ flowchart TB
     style D fill:#fff3e0
     style H fill:#e8f5e8
 ```
-### Parodysiu, kodėl aukšto lygio kalbos yra kur kas draugiškesnės
+### Pasirodysiu, kodėl aukšto lygio kalbos yra daug draugiškesnės
 
-Gerai, ketinu tau parodyti ką nors, kas puikiai iliustruoja, kodėl aš įsimylėjau aukšto lygio kalbas, bet pirmiausia – pažadu man kažką. Kai pamatysi pirmą kodo pavyzdį, nesijaudink! Jis turi atrodyti šiek tiek bauginantis. Būtent tai aš ir noriu parodyti!
+Gerai, dabar parodysiu tau ką nors, kas puikiai iliustruoja, kodėl aš įsimylėjau aukšto lygio kalbas, bet pirmiausia turi pažadėti man vieną dalyką. Kai pamatysi pirmą kodų pavyzdį, nesijaudink! Jis turi atrodyti kiek bauginančiai. Tai yra taikoma mano mintis!
 
-Pažiūrėsime tą pačią užduotį parašytą dviem visiškai skirtingais stiliais. Abi kuria tai, kas vadinama Fibonacci seka – gražus matematinis modelis, kuriame kiekvienas skaičius yra dviejų prieš jį esančių suma: 0, 1, 1, 2, 3, 5, 8, 13... (Smagus faktas: šį modelį rasi tiesiog visur gamtoje – saulėgrąžų sėklų spiralėse, kankorėžių raštuose, netgi galaktikų formavime!)
+Pažiūrėsime tą pačią užduotį, parašytą dviem visiškai skirtingais stiliais. Abu kuria tai, ką vadiname Fibonačio seka – tai nuostabus matematinis modelis, kur kiekvienas skaičius yra dviejų prieš jį esančių skaičių suma: 0, 1, 1, 2, 3, 5, 8, 13... (Smagi detalė: šią seką galima rasti visur gamtoje – saulėgrąžos sėklų spiralėse, pušies kankorėžių raštuose ar net galaksijų formavime!)
 
 Pasiruošęs pamatyti skirtumą? Pradėkime!
 
-**Aukšto lygio kalba (JavaScript) – žmogui draugiška:**
+**Aukšto lygio kalba (JavaScript) – Draugiška žmogui:**
 
 ```javascript
 // 1 žingsnis: Pagrindinis Fibonačio nustatymas
@@ -183,14 +183,14 @@ let next = 1;
 console.log('Fibonacci sequence:');
 ```
 
-**Štai ką daro šis kodas:**
-- **Nustato** konstantą, kiek Fibonacci skaičių norime sugeneruoti
-- **Inicijuoja** du kintamuosius, kurie seka esamą ir kitą skaičių sekoje
-- **Nustato** pradines reikšmes (0 ir 1), kurios apibrėžia Fibonacci modelį
-- **Rodo** antraštę, kad pažymėtų mūsų išvestį
+**Štai ką šis kodas daro:**
+- **Deklaruoja** konstantą, nurodančią, kiek Fibonačio skaičių norime sugeneruoti
+- **Inicijuoja** du kintamuosius, kurie seka einamą ir kitą skaičius sekoje
+- **Nustato** pradinius skaičius (0 ir 1), kurie apibrėžia Fibonačio modelį
+- **Rodo** antraštę, identifikuojančią mūsų išvestį
 
 ```javascript
-// 2 veiksmas: Sukurkite seką su kilpa
+// 2 žingsnis: Sukurkite seką naudojant ciklą
 for (let i = 0; i < fibonacciCount; i++) {
   console.log(`Position ${i + 1}: ${current}`);
   
@@ -201,11 +201,11 @@ for (let i = 0; i < fibonacciCount; i++) {
 }
 ```
 
-**Kas vyksta čia:**
-- **Kartojame** per visą sekos ilgį naudodami `for` ciklą
-- **Rodo** kiekvieną skaičių su jo padėtimi naudodami šabloninį formatavimą
-- **Apskaičiuoja** kitą Fibonacci skaičių pridėdami dabartinį ir kitą skaičių
-- **Atnaujina** kintamuosius sekti, kad pereitume prie kitos iteracijos
+**Išskaidome, kas čia vyksta:**
+- **Kartojama** per kiekvieną poziciją sekoje naudojant `for` ciklą
+- **Atvaizduojamas** kiekvienas skaičius su jo pozicija templatinių simbolių formatu
+- **Apskaičiuojamas** kitas Fibonačio skaičius sudedant einamuosius ir kitus skaičius
+- **Atnaujinami** stebėjimo kintamieji, kad pereitume į kitą iteraciją
 
 ```javascript
 // 3 žingsnis: Modernus funkcinis požiūris
@@ -225,12 +225,12 @@ console.log(fibSequence);
 ```
 
 **Aukščiau mes:**
-- **Sukūrėme** pakartotinai naudojamą funkciją naudodami modernią rodyklės funkcijos sintaksę
-- **Sukonstravome** masyvą, kuriame saugoma visa seka, o ne rodoma po vieną skaičių
-- **Naudojame** masyvo indeksavimą, kad apskaičiuotume kiekvieną naują skaičių iš ankstesnių
-- **Gražiname** visą seką, kad galėtume lankščiai naudoti kitose programos vietose
+- **Sukūrėme** pakartotinai naudojamą funkciją su modernaus rodyklių funkcijos sintakse
+- **Sukaupėme** masyvą, kuriame saugoma visa seka vietoje atvaizdavimo po vieną
+- **Panaudojome** masyvo indeksavimą kiekvienam naujam skaičiui apskaičiuoti pagal ankstesnius
+- **Grąžiname** visą seką, kad ją būtų galima lanksčiai naudoti kitose programos dalyse
 
-**Žemo lygio kalba (ARM Assembly) – kompiuteriui draugiška:**
+**Žemo lygio kalba (ARM Assembly) – Draugiška kompiuteriui:**
 
 ```assembly
  area ascen,code,readonly
@@ -257,77 +257,77 @@ back add r0,r1
  end
 ```
 
-Pastebėk, kaip JavaScript variantas beveik skaito kaip anglų kalbos instrukcijos, o Assembly versija naudoja paslaptimis apipintas komandas, kurios tiesiogiai valdo kompiuterio procesorių. Abi atlieka tą pačią užduotį, bet aukšto lygio kalba yra daug lengviau suprantama, parašoma ir palaikoma žmogui.
+Atkreipk dėmesį, kaip JavaScript versija beveik skaitosi kaip anglų kalbos instrukcijos, o Assembly versija naudoja paslaptingas komandas, kurios tiesiogiai valdo kompiuterio procesorių. Abu atlieka tą pačią užduotį, bet aukšto lygio kalba yra daug lengviau suprantama, rašoma ir prižiūrima žmonių.
 
-**Svarbūs skirtumai:**
-- **Skaitomumas**: JavaScript naudoja aprašomuosius pavadinimus, tokius kaip `fibonacciCount`, o Assembly – paslėptus ženklus, tokius kaip `r0`, `r1`
-- **Komentarai**: Aukšto lygio kalbos skatina aiškius komentarus, kurie daro kodą savarankiškai aprašomu
-- **Struktūra**: JavaScript loginis srautas atitinka, kaip žmonės žingsnis po žingsnio mąsto apie problemas
-- **Priežiūra**: JavaScript versijos atnaujinimas skirtingiems reikalavimams yra paprastas ir aiškus
+**Pagrindiniai skirtumai, kuriuos pastebėsi:**
+- **Skaitymo paprastumas**: JavaScript naudoja apibūdinančius pavadinimus, kaip `fibonacciCount`, o Asamblėja – kriptinius žymenis, kaip `r0`, `r1`
+- **Komentarai**: Aukšto lygio kalbos skatina aiškinamuosius komentarus, kurie padaro kodą savaiminiu dokumentu
+- **Struktūra**: JavaScript loginė eiga atitinka, kaip žmonės mąsto apie problemas žingsnis po žingsnio
+- **Priežiūra**: JavaScript versijos atnaujinimas pagal įvairius reikalavimus yra paprastas ir aiškus
 
-✅ **Apie Fibonačio seką**: Šis tiesiog nuostabus skaičių modelis (kai kiekvienas skaičius yra dviejų prieš jį esančių suma: 0, 1, 1, 2, 3, 5, 8...) pasitaiko tiesiog *visur* gamtoje! Jį rasite saulėgrąžų spiralėse, pušies kūgio raštuose, nukalnių kriauklių išlinkimuose, ir netgi medžių šakų augime. Tai tikrai nuostabu, kaip matematika ir kodas gali padėti mums suprasti ir atkurti modelius, kuriuos gamta naudoja kurdama grožį!
+✅ **Apie Fibonačio seką**: Šis gražiausias skaičių modelis (kur kiekvienas skaičius lygus dviejų prieš jį esančių sumai: 0, 1, 1, 2, 3, 5, 8...) pasirodo pažodžiui *kiekviename* gamtos kampelyje! Jį rasite saulėgrąžų spiralėse, pušies kūgų raštuose, nautilo kriauklių vingiuose ir net medžių šakų augime. Tai gana stulbinama, kaip matematika ir kodas gali padėti mums suprasti ir atkartoti gamtos naudojamus grožio modelius!
 
 
-## Statybiniai blokai, kurie sukuria magiją
+## Kūrimo blokai, kurie sukuria stebuklą
 
-Gerai, dabar, kai matėte, kaip atrodytų programavimo kalbos veikiant, išskaidykime pagrindines dalis, kurios sudaro praktiškai kiekvieną kada nors parašytą programą. Įsivaizduokite jas kaip svarbiausias sudedamąsias jūsų mėgstamoje recepto dalyje – kai suprasite, ką kiekviena daro, galėsite skaityti ir rašyti kodą beveik bet kuria kalba!
+Gerai, dabar, kai jau matėte, kaip atrodo programavimo kalbos veikime, išskaidykime pagrindinius elementus, sudarančius pažodžiui kiekvieną kada nors parašytą programą. Įsivaizduokite juos kaip esminius ingredientus jūsų mėgstamiausiame recepte – kai suprasite, ką kiekvienas daro, galėsite skaityti ir rašyti kodą beveik bet kuria kalba!
 
-Tai yra tarsi mokytis programavimo gramatikos. Prisiminkite mokykloje, kai mokėtės apie daiktavardžius, veiksmus ir kaip daryti sakinius? Programavimas turi savąją gramatiką, ir tiesą sakant, ji daug logiškesnė ir atlaidesnė nei anglų kalbos gramatika! 😄
+Tai šiek tiek primena programavimo gramatikos mokymąsi. Prisiminkite mokykloje, kai mokėtės apie daiktavardžius, veiksmažodžius ir kaip sudėti sakinius? Programavimas turi savo gramatiką, ir, tiesą sakant, ji kur kas logiškesnė ir atlaidesnė nei anglų kalbos gramatika! 😄
 
 ### Pareiškimai: žingsnis po žingsnio instrukcijos
 
-Pradėkime nuo **pareiškimų** – tai tarsi atskiri sakiniai pokalbyje su jūsų kompiuteriu. Kiekvienas pareiškimas liepia kompiuteriui atlikti vieną konkretų veiksmą, panašiai kaip duodami nurodymus: „Pasukite čia į kairę“, „Sustokite prie raudono šviesoforo“, „Pastatykite automobilį šioje vietoje.“
+Pradėkime nuo **pareiškimų** – tai tarsi atskiri sakiniai pokalbyje su jūsų kompiuteriu. Kiekvienas pareiškimas nurodo kompiuteriui padaryti vieną konkrečią užduotį, tarsi duodant instrukcijas: „Čia pasuk į kairę“, „Sustok prie raudono šviesoforo“, „Pastatyk automobilį ten“.
 
-Man patinka pareiškimų skaitomumas. Pažiūrėkite:
+Man patinka pareiškimai, nes jie paprastai labai suprantami. Pažiūrėkite į tai:
 
 ```javascript
-// Pagrindinės komandos, kurios atlieka vienkartines veiksmus
+// Pagrindinės instrukcijos, atliekamos vieną veiksmą
 const userName = "Alex";                    
 console.log("Hello, world!");              
 const sum = 5 + 3;                         
 ```
 
-**Štai ką daro šis kodas:**
-- **Deklaruoja** konstantą kintamąjį, kuriame saugomas vartotojo vardas
-- **Rodo** pasveikinimo žinutę konsolėje
-- **Apskaičiuoja** ir saugo matematinių veiksmų rezultatą
+**Štai ką šis kodas daro:**
+- **Deklaruoja** konstantą, kurioje saugomas vartotojo vardas
+- **Rodo** pasveikinimo žinutę konsolės išvestyje
+- **Apskaičiuoja** ir saugo matematinės operacijos rezultatą
 
 ```javascript
-// Teiginiai, sąveikaujantys su tinklalapiais
+// Teiginiai, kurie sąveikauja su interneto puslapiais
 document.title = "My Awesome Website";      
 document.body.style.backgroundColor = "lightblue";
 ```
 
-**Žingsnis po žingsnio, štai kas vyksta:**
-- **Keičia** interneto svetainės puslapio pavadinimą, rodomą naršyklės skirtuke
+**Žingsnis po žingsnio, kas vyksta:**
+- **Pakeičia** tinklalapio antraštę, rodomą naršyklės skirtuke
 - **Pakeičia** viso puslapio fono spalvą
 
-### Kintamieji: Jūsų programos atminties sistema
+### Kintamieji: jūsų programos atminties sistema
 
-Gerai, **kintamieji** man yra viena iš mėgstamiausių mokymo sąvokų, nes jie labai panašūs į dalykus, kuriuos kasdien naudojate!
+Gerai, **kintamieji** man yra viena iš pati mėgstamiausių temų mokyti, nes jie labai panašūs į dalykus, kuriuos jau naudojate kiekvieną dieną!
 
-Pagalvokite apie savo telefono kontaktų sąrašą. Jūs neužsirašote visų numerių atmintinai – vietoj to išsaugote „Mama“, „Geriausias draugas“ ar „Picerija, kuri tiekia iki 2 val. nakties“ ir telefono telefono atmintis prisimena tikruosius numerius. Kintamieji veikia lygiai taip pat! Jie tarsi pavadintos talpyklos, kuriose programa gali saugoti informaciją ir vėliau ją rasti pagal prasmingą pavadinimą.
+Įsivaizduokite savo telefono kontaktų sąrašą. Jūs neprisimenate visų telefono numerių – vietoj to išsaugote „Mama“, „Geriausias draugas“ ar „Picerija, kuri dirba iki 2 val. nakties“ ir leidžiate telefonui prisiminti tikruosius numerius. Kintamieji veikia lygiai taip pat! Jie tarsi pažymėti konteineriai, kuriuose jūsų programa gali laikyti informaciją ir vėliau ją atgaivinti pagal prasmę turintį pavadinimą.
 
-Štai kas išties nuostabu: kintamieji gali keistis, kai programa veikia (todėl jie ir vadinami „kintamaisiais“ – suprantate, ką jie padarė?). Kaip atnaujinate tą picerijos kontaktą, kai radote dar geresnę vietą, taip kintamieji atnaujinami, kai programa sužino naujos informacijos arba kai situacijos keičiasi!
+Ką yra labai šaunu: kintamieji gali keistis programai veikiant (todėl ir vadinami „kintamais“ – ar ne šaunu?). Kaip jūs atsinaujinate picų kontaktą, kai randate geresnį variantą, taip programoje kintamieji keičiasi, kai programa sužino naujų dalykų arba keičiasi sąlygos!
 
-Leiskite parodyti, kaip tai gali būti paprasta ir gražu:
+Parodysiu, kaip paprastai tai atrodo:
 
 ```javascript
-// 1 žingsnis: kuriami pagrindiniai kintamieji
+// 1 žingsnis: pagrindinių kintamųjų kūrimas
 const siteName = "Weather Dashboard";        
 let currentWeather = "sunny";               
 let temperature = 75;                       
 let isRaining = false;                      
 ```
 
-**Šių sąvokų supratimas:**
-- **Laikykite** nekintančias reikšmes `const` kintamuosiuose (pavyzdžiui, svetainės pavadinimą)
-- **Naudokite** `let` vertėms, kurios gali keistis programos eigoje
-- **Priskirkite** skirtingų tipų duomenis: tekstus (eilutes), skaičius ir bool tipo reikšmes (true/false)
-- **Rinkitės** aiškius pavadinimus, kurie paaiškina, ką kiekvienas kintamasis saugo
+**Suprasti šiuos konceptus:**
+- **Laikyti** nekintamas reikšmes naudodami `const` (pvz., svetainės pavadinimą)
+- **Naudoti** `let` reikšmėms, kurios gali keistis visos programos metu
+- **Priskirti** skirtingus duomenų tipus: tekstus, skaičius, loginės reikšmės (true/false)
+- **Rinktis** apibūdinančius pavadinimus, kurie aiškiai pasako, ką kiekvienas kintamasis laiko
 
 ```javascript
-// 2 žingsnis: Darbas su objektais siekiant suskirstyti susijusius duomenis
+// 2 žingsnis: Darbas su objektais, norint sugrupuoti susijusius duomenis
 const weatherData = {                       
   location: "San Francisco",
   humidity: 65,
@@ -336,9 +336,9 @@ const weatherData = {
 ```
 
 **Aukščiau mes:**
-- **Sukūrėme** objektą, kuris grupuoja susijusią oro sąlygų informaciją
-- **Organizavome** kelias duomenų dalis po vienu kintamuoju pavadinimu
-- **Panaudojome** raktas-reikšmė poras, kad aiškiai pažymėtume kiekvieną duomenų dalį
+- **Sukūrėme** objektą, kad sugrupuotume susijusią orų informaciją
+- **Organizavome** kelis duomenų elementus po vienu kintamojo pavadinimu
+- **Naudojome** raktas-reikšmė poras, kad aiškiai pažymėtume kiekvieną informaciją
 
 ```javascript
 // 3 žingsnis: kintamųjų naudojimas ir atnaujinimas
@@ -350,32 +350,32 @@ currentWeather = "cloudy";
 temperature = 68;                          
 ```
 
-**Suvokime kiekvieną dalį:**
-- **Rodyti** informaciją naudojant šablonines eilutes su `${}` sintakse
-- **Pasiekti** objekto savybes naudojant taško žymėjimą (`weatherData.windSpeed`)
-- **Atnaujinti** `let` deklaruotus kintamuosius, kad atspindėtų kintančias sąlygas
-- **Derinti** kelis kintamuosius, kad sukurtumėte prasmingas žinutes
+**Paaiškinkime kiekvieną dalį:**
+- **Rodome** informaciją naudodami šabloninius tekstus su `${}` sintakse
+- **Panaudojame** objekto savybes per taško notaciją (`weatherData.windSpeed`)
+- **Atnaujiname** su `let` deklaruotus kintamuosius, kad atspindėtume pokyčius
+- **Sujungiame** kelis kintamuosius, kad sukurtume prasmingas žinutes
 
 ```javascript
-// 4 žingsnis: Modernus destruktūravimas švaresniam kodui
+// 4 veiksmas: Šiuolaikinis dekonstruojimas švaresniam kodui
 const { location, humidity } = weatherData; 
 console.log(`${location} humidity: ${humidity}%`);
 ```
 
-**Tai, ką reikia žinoti:**
-- **Išskirti** specifines objekto savybes naudojant destruktuojantį priskyrimą
-- **Automatiškai kurti** naujus kintamuosius su tokiais pačiais pavadinimais kaip objekto raktai
-- **Supaprastinti** kodą vengiant pasikartojančio taško žymėjimo
+**Ką reikia žinoti:**
+- **Ištraukti** tam tikras savybes iš objektų naudojant destruktūrizacijos priskyrimą
+- **Sukurti** naujus kintamuosius automatiškai su tais pačiais pavadinimais kaip objekto raktai
+- **Supaprastinti** kodą vengiant daugkartinės taško notacijos
 
-### Valdymo eiga: mokome programą mąstyti
+### Kontrolės srautas: mokyti programą mąstyti
 
-Gerai, čia prasideda tikras programavimo stebuklas! **Valdymo eiga** iš esmės reiškia mokyti programą priimti protingus sprendimus, kaip darote kiekvieną dieną, net apie tai negalvodami.
+Gerai, dabar programavimas tampa tiesiog stulbinančiai įdomus! **Kontrolės srautas** iš esmės yra jūsų programos mokymas priimti sumanius sprendimus, lygiai kaip jūs kiekvieną dieną tai darote be jokio mąstymo.
 
-Įsivaizduokite: šiandien rytą turbūt pagalvojote „Jei lyja, pasiimsiu skėtį. Jei šalta – užsidėsiu striukę. Jei vėluoju, praleisiu pusryčius ir nusipirksiu kavos kelyje.“ Jūsų smegenys natūraliai seka šią jeigu-tada logiką dešimtis kartų kasdien!
+Įsivaizduokite: ryte tikriausiai galvojote „Jei lyja, pasiimsiu skėtį. Jei šalta, apsirengsiu striukę. Jei vėluoju, praleisiu pusryčius ir iškeliausiu pasiimti kavos.“ Jūsų smegenys natūraliai seka tokią jei-tada logiką dešimtis kartų per dieną!
 
-Tai leidžia programoms atrodyti protingoms ir gyvoms, o ne tiesiog vykdyti nuobodžius, nuspėjamus scenarijus. Jos gali pažvelgti į situaciją, įvertinti, kas vyksta, ir tinkamai atsakyti. Lyg suteiktumėte savo programai smegenis, kurios gali prisitaikyti ir priimti sprendimus!
+Tai daro programas protingas ir gyvas, o ne tiesiog nuobodžiai vykdančias nuspėjamą scenarijų. Jos gali pažvelgti į situaciją, įvertinti, kas vyksta, ir tinkamai reaguoti. Tai tarsi suteikti programai smegenis, kurios gali prisitaikyti ir priimti sprendimus!
 
-Norite pamatyti, kaip gražiai visa tai veikia? Leiskite parodyti:
+Norite pamatyti, kaip gražiai tai veikia? Parodysiu:
 
 ```javascript
 // 1 žingsnis: Pagrindinė sąlyginė logika
@@ -389,11 +389,11 @@ if (userAge >= 18) {
 }
 ```
 
-**Štai ką daro šis kodas:**
-- **Patikrina**, ar vartotojo amžius atitinka balsavimo reikalavimus
-- **Vykdo** skirtingus kodo blokus pagal sąlygos rezultatą
-- **Apskaičiuoja** ir rodo, kiek liko laiko iki balsavimo teisės, jei mažiau nei 18
-- **Teikia** konkrečią ir naudingą grįžtamąją informaciją kiekvienam atvejui
+**Šis kodas daro:**
+- **Tikrina**, ar vartotojo amžius atitinka balsavimo reikalavimus
+- **Atlieka** skirtingus kodo blokus pagal sąlygos rezultatą
+- **Apskaičiuoja** ir rodo, kiek laiko liko iki balsavimo galiojimo, jei vartotojas jaunesnis nei 18
+- **Pateikia** konkrečią, naudingą informaciją kiekvienam scenarijui
 
 ```javascript
 // 2 žingsnis: kelios sąlygos su loginiais operatoriais
@@ -409,11 +409,11 @@ if (userAge >= 18 && hasPermission) {
 }
 ```
 
-**Išskaidykime, kas čia vyksta:**
-- **Sujungia** kelias sąlygas naudodama `&&` (ir) operatorių
-- **Sukuria** sąlygų hierarchiją naudodama `else if` keliems scenarijams
-- **Tvarko** visas galimas bylas naudodama galutinį `else` pareiškimą
-- **Teikia** aiškią, veiksmingą grįžtamąją informaciją kiekvienai skirtingai situacijai
+**Išskaidydami, kas vyksta:**
+- **Sujungia** kelias sąlygas naudodami `&&` (ir) operatorių
+- **Sukuria** sąlygų hierarchiją su `else if` keliose situacijose
+- **Tvarko** visas galimas situacijas paskutiniu `else` pareiškimu
+- **Pateikia** aiškią ir veiksmingą grįžtamąją informaciją kiekvienam atvejui
 
 ```javascript
 // 3 žingsnis: Trumpa sąlyga su ternariniu operatoriumi
@@ -421,13 +421,13 @@ const votingStatus = userAge >= 18 ? "Can vote" : "Cannot vote yet";
 console.log(`Status: ${votingStatus}`);
 ```
 
-**Tai, ką verta prisiminti:**
-- **Naudokite** ternarinį operatorių (`? :`) paprastoms dvejetainėms sąlygoms
-- **Rašykite** sąlygą pirmiausia, tada `?`, po jos tiesa, tada `:`, po to melas
-- **Pritaikykite** šį modelį, kai reikia priskirti reikšmes pagal sąlygas
+**Svarbu atsiminti:**
+- **Naudokite** ternarinį operatorių (`? :`) paprastoms dvejopoms sąlygoms
+- **Rašykite** sąlygą pirmą, po jos `?`, tada tiesą atitinkantį rezultatą, po to `:`, tada netiesą atitinkantį rezultatą
+- **Taikykite** šį šabloną, kai reikia priskirti reikšmes pagal sąlygas
 
 ```javascript
-// 4 žingsnis: kelių specifinių atvejų tvarkymas
+// 4 žingsnis: kelių konkrečių atvejų apdorojimas
 const dayOfWeek = "Tuesday";
 
 switch (dayOfWeek) {
@@ -447,55 +447,55 @@ switch (dayOfWeek) {
 }
 ```
 
-**Šis kodas atlieka šiuos veiksmus:**
-- **Palygina** kintamojo reikšmę su keliais specifiniais atvejais
-- **Grupuoja** panašias bylas (darbo dienos prieš savaitgalius)
-- **Vykdo** tinkamą kodą, kai randamas sutapimas
-- **Įtraukia** `default` atvejį neplanuotoms reikšmėms
-- **Naudoja** `break` pareiškimus, kad nebūtų tęsiamas kodas kitam atvejui
+**Šis kodas atlieka:**
+- **Palygina** kintamojo reikšmę su keliomis konkrečiomis reikšmėmis
+- **Suriša** panašius atvejus kartu (darbo dienos prieš savaitgalius)
+- **Atlieka** atitinkamą kodo bloką, kai randamas atitikmuo
+- **Numato** `default` atvejį netikėtoms reikšmėms apdoroti
+- **Naudoja** `break` pareiškimus, kad kodas neitų į kitą atvejį
 
-> 💡 **Tikro gyvenimo analogija**: Valdymo eigą įsivaizduokite kaip kantriausią GPS pasaulyje, kuris jums duoda nurodymus. Jis gali pasakyti „Jei Main gatvėje yra kamštis, važiuok greitkeliu. Jei greitkelį užkemša statybos, bandyk aplinkkelį.“ Programos naudoja tokią pačią sąlyginę logiką, kad išmintingai reaguotų į įvairias situacijas ir visada suteiktų geriausią patirtį vartotojams.
+> 💡 **Reali gyvenimo analogija**: pagalvokite apie kontrolės srautą kaip apie pasaulio kantriausią GPS, kuris duoda nurodymus. Jis gali sakyti „Jei Main gatvėje eismas, važiuok greitkeliu. Jei greitkelį uždaro statybos, važiuok per vaizdingą maršrutą.“ Programos naudoja tą pačią loginę sąlygų logiką, kad išmintingai reaguotų į situacijas ir visuomet suteiktų vartotojams geriausią patirtį.
 
-### 🎯 **Patikrinimas: pagrindų valdymas**
+### 🎯 **Konceptų patikra: Kūrimo blokų meistriškumas**
 
 **Pažiūrėkime, kaip sekasi su pagrindais:**
-- Ar galite savo žodžiais paaiškinti, kuo skiriasi kintamasis nuo pareiškimo?
-- Pagalvokite apie realų gyvenimo pavyzdį, kur naudotumėte jeigu-tada sprendimą (kaip balsavimo pavyzdyje)
-- Kas programavimo logikoje jus labiausiai nustebino?
+- Ar sugebate savo žodžiais paaiškinti skirtumą tarp kintamojo ir pareiškimo?
+- Pagalvokite apie tikrą situaciją, kurje panaudotumėte jei-tada sprendimą (kaip balsavimo pavyzdyje)
+- Kas apie programavimo logiką jus nustebino?
 
-**Greitas pasitikėjimo suteikėjas:**
+**Greitas pasitikėjimo skatinimas:**
 ```mermaid
 flowchart LR
-    A["📝 Pareiškimai<br/>(Instrukcijos)"] --> B["📦 Kintamieji<br/>(Saugykla)"] --> C["🔀 Valdymo Srautas<br/>(Sprendimai)"] --> D["🎉 Veikianti Programa!"]
+    A["📝 Teiginiai<br/>(Komandos)"] --> B["📦 Kintamieji<br/>(Saugojimas)"] --> C["🔀 Valdymo srautas<br/>(Sprendimai)"] --> D["🎉 Veikianti programa!"]
     
     style A fill:#ffeb3b
     style B fill:#4caf50
     style C fill:#2196f3
     style D fill:#ff4081
 ```
-✅ **Kas bus toliau**: Mes įdomiai gilinsimės į šias sąvokas tęsdamiesi šią nuostabią kelionę kartu! Dabar tiesiog mėgaukitės jauduliu dėl visų nuostabių galimybių priešais jus. Specifiniai įgūdžiai ir technikos natūraliai įsimins, kai mokysimės kartu – pažadu, bus daug smagiau nei tikitės!
+✅ **Ką darysime toliau**: kartu žengsime toliau šioje nuostabioje kelionėje! Dabar tiesiog pasimėgaukite jauduliu dėl visų nuostabių galimybių, kurios jūsų laukia. Konkretūs įgūdžiai ir technikos ateis natūraliai, kai kartu praktikuosimės – pažadu, kad tai bus daug smagiau nei galite tikėtis!
 
-## Įrankiai
+## Įrankiai darbui
 
-Gerai, čia aš išties taip jaudinuosi, kad vos susivaldau! 🚀 Kalbėsime apie neįtikėtinus įrankius, kurie leis jaustis, tarsi ką tik gautumėte skaitmeninės kosminės erdvėlaivio raktus.
+Gerai, čia aš tiesiog negaliu sulaikyti savo džiugesio! 🚀 Kalbėsime apie nuostabius įrankius, kurie leis jums jaustis tarsi ką tik gavote skaitmeninės kosminės laivo raktus.
 
-Žinote, kaip šefas turi tobulai sureguliuotus peilius, kurie tarsi taptų jo rankų pratęsimu? Arba kaip muzikantas turi tą vienintelę gitarą, kuri atrodo kažkaip dainuoja vos tik ją palietus? Na, programuotojai turi savo magiškų įrankių versiją, ir štai kas visiškai nušluostys jums kojas – dauguma jų yra visiškai nemokami!
+Žinote, kaip šefas turi tobulai subalansuotus peilius, kurie atrodo tarsi rankų pratęsimas? Arba muzikantas turi gitarą, kuri tarsi pradeda dainuoti vos tik ją paliečia? Na, programuotojai turi savo versiją tų magiškų įrankių, ir štai kas jus visiškai sužavės – dauguma jų yra visiškai nemokami!
 
-Praktiškai šoku iš džiaugsmo galvodamas apie tai, kaip visa tai jums papasakoti, nes jie visiškai pakeitė, kaip mes kuriame programinę įrangą. Kalbame apie dirbtiniu intelektu paremtus programavimo padėjėjus, kurie gali padėti jums rašyti kodą (rimtai!), debesis, kur galite kurti visą programą tiesiog iš bet kur su Wi-Fi, bei tokius sudėtingus klaidų taisymo įrankius, kurie tarsi turi rentgeno matymą jūsų programoms.
+Aš beveik trypčioju vietoje, galvodamas, ką jums pasakysiu, nes šie įrankiai visiškai pakeitė, kaip mes kuriame programinę įrangą. Kalbame apie AI varomus kodavimo padėjėjus, kurie gali padėti rašyti jūsų kodą (rimtai!), debesų aplinkas, kur galite kurti visas programas iš bet kur turėdami Wi-Fi, bei tokias sudėtingas klaidų taisymo priemones, kad jos tarsi jūsų programų rentgeno akys.
 
-Ir štai dalis, kuri vis dar man kelia šiurpuliukus: tai nėra „pradedančiųjų įrankiai“, kuriuos peraugsit. Tai yra būtent tie patys profesionalūs įrankiai, kuriuos šiuo pat metu naudoja Google, Netflix ir tas indie programų studija, kurią mylite. Jūs jausitės tikrais profesionalais juos naudodami!
+Ir štai dalis, kuri man vis dar sukelia šiurpuliukus: tai ne „pradedančiųjų“ įrankiai, kuriuos greitai peraugsite. Tai būtent tie profesionalūs įrankiai, kuriuos dabar naudoja Google, Netflix ir ta indie programėlių studija, kurią mylite. Jūs jausitės tiesiog profesionalu, naudodami juos!
 
 ```mermaid
 graph TD
-    A["💡 Jūsų idėja"] --> B["⌨️ Kodo redaktorius<br/>(VS Code)"] 
-    B --> C["🌐 Naršyklės kūrimo įrankiai<br/>(Testavimas ir derinimas)"]
-    C --> D["⚡ Komandų eilutė<br/>(Automatizavimas ir įrankiai)"]
-    D --> E["📚 Dokumentacija<br/>(Mokymasis ir nuoroda)"]
-    E --> F["🚀 Nuostabi žiniatinklio programa!"]
+    A["💡 Jūsų Idėja"] --> B["⌨️ Kodo Redaktorius<br/>(VS Code)"] 
+    B --> C["🌐 Naršyklės DevTools<br/>(Testavimas ir Derinimas)"]
+    C --> D["⚡ Komandinė Eilutė<br/>(Automatizavimas ir Įrankiai)"]
+    D --> E["📚 Dokumentacija<br/>(Mokymasis ir Nuorodos)"]
+    E --> F["🚀 Nuostabi Interneto Programa!"]
     
-    B -.-> G["🤖 DI asistentas<br/>(GitHub Copilot)"]
-    C -.-> H["📱 Įrenginių testavimas<br/>(Reaguojantis dizainas)"]
-    D -.-> I["📦 Paketų tvarkyklės<br/>(npm, yarn)"]
+    B -.-> G["🤖 AI Asistentas<br/>(GitHub Copilot)"]
+    C -.-> H["📱 Įrenginio Testavimas<br/>(Reaguojantis Dizainas)"]
+    D -.-> I["📦 Paketų Tvarkyklės<br/>(npm, yarn)"]
     E -.-> J["👥 Bendruomenė<br/>(Stack Overflow)"]
     
     style A fill:#fff59d
@@ -507,94 +507,94 @@ graph TD
 ```
 ### Kodo redaktoriai ir IDE: jūsų nauji skaitmeniniai draugai
 
-Kalbėkime apie kodo redaktorius – jie tikrai taps jūsų mėgstamiausiomis vietomis kurti! Įsivaizduokite juos kaip asmeninę programavimo erdvę, kur praleisite daugiausiai laiko kurdami ir tobulindami savo skaitmeninius kūrinius.
+Pakalbėkime apie kodo redaktorius – jie greitai taps jūsų mėgstamiausiomis vietomis! Įsivaizduokite juos kaip savo asmeninę programavimo šventovę, kurioje praleisite daugiausiai laiko kurdami ir tobulindami savo skaitmeninius kūrinius.
 
-Bet štai kas nepaprasta apie šiuolaikinius redaktorius: tai ne tik puošnūs teksto redaktoriai. Jie tarsi genialiausi, palaikantys programavimo mentoriai, sėdintys šalia jūsų 24/7. Jie pagauna jūsų klaidas dar prieš jums jas pastebint, siūlo patobulinimus, kurie padaro jus genijumi, padeda suprasti, ką daro kiekviena kodo dalis, o kai kurie net gali nuspėti, ką ketinate rašyti ir pasiūlyti užbaigti jūsų mintis!
+Bet štai kas čia magiška apie šiuolaikinius redaktorius: tai ne tiesiog išmanūs teksto redaktoriai. Tai tarsi genialiausias ir palaikantis programavimo mentorius, kuris sėdi šalia jūsų 24/7. Jie pagauna jūsų rašybos klaidas dar prieš jums jas pastebint, siūlo patobulinimus, dėl kurių atrodote kaip genijus, padeda suprasti, ką kiekvienas kodo gabalas daro, o kai kurie net spėja, ką ketinate parašyti ir siūlo užbaigti jūsų mintis!
 
-Prisimenu, kai atradau automatinį užbaigimą – nejaučiau, kad gyvenu realybėje, tai buvo tarsi ateitis. Pradedate rašyti, o redaktorius sako: „Ei, galvojai apie šią funkciją, kuri daro būtent tai, ko tau reikia?“ Tarsi jūsų programavimo draugas, kuris skaito mintis!
+Prisimenu, kai pirmą kartą atradau automatinį užbaigimą – tiesiog jaučiausi it gyvenčiau ateityje. Pradedate rašyti kažką, o redaktorius sako: „Ei, galvojote apie šią funkciją, kuri tiksliai atlieka tai, ko jums reikia?“ Tai tarsi turėti mintis skaitančią programavimo bičiulę!
 
-**Kas daro šiuos redaktorius tokiais nuostabiais?**
+**Kas daro šiuos redaktorius tokius nuostabius?**
 
-Šiuolaikiniai kodo redaktoriai siūlo įspūdingą funkcijų sąrašą, skirtą didinti jūsų produktyvumą:
+Šiuolaikiniai kodo redaktoriai siūlo įspūdingą funkcijų spektrą, skirtą padidinti jūsų produktyvumą:
 
-| Funkcija | Ką ji daro | Kodėl ji naudinga |
+| Funkcija | Ką ji daro | Kam tai naudinga |
 |---------|--------------|--------------|
-| **Sintaksės paryškinimas** | Spalvina skirtingas kodo dalis | Palengvina skaitymą ir klaidų pastebėjimą |
-| **Automatinis užbaigimas** | Siūlo kodą rašant | Spartina programavimą ir mažina klaidas |
-| **Debug įrankiai** | Padeda rasti ir taisyti klaidas | Taupo valandas sprendžiant problemas |
-| **Praplėtimai** | Prideda specializuotas funkcijas | Priderina redaktorių bet kokiai technologijai |
-| **DI asistentai** | Siūlo kodo fragmentus ir paaiškinimus | Pagreitina mokymąsi ir darbą |
+| **Sintaksės paryškinimas** | Spalvina skirtingas kodo dalis | Lengviau skaityti kodą ir pastebėti klaidas |
+| **Automatinis užbaigimas** | Siūlo kodą rašant | Paspartina kodavimą ir sumažina klaidų |
+| **Klaidų taisymo įrankiai** | Padeda rasti ir taisyti klaidas | Sutaupo daug laiko trikčių šalinimui |
+| **Praplėtimai** | Prideda specializuotas funkcijas | Pritaiko redaktorių bet kokiai technologijai |
+| **AI pagalbininkai** | Siūlo kodą ir paaiškinimus | Pagreitina mokymąsi ir darbą |
 
-> 🎥 **Vaizdo įrašas**: Norite pamatyti šiuos įrankius veikiant? Peržiūrėkite [Tools of the Trade video](https://youtube.com/watch?v=69WJeXGBdxg) išsamų apžvalgą.
+> 🎥 **Vaizdo įrašas**: Norite pamatyti šiuos įrankius veiksme? Peržiūrėkite šį [Tools of the Trade video](https://youtube.com/watch?v=69WJeXGBdxg) išsamiam apžvalgai.
 
 #### Rekomenduojami redaktoriai interneto kūrimui
 
 **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** (Nemokamas)
 - Populiariausias tarp interneto kūrėjų
-- Puikus praplėtimų ekosistema
-- Integruotas terminalas ir Git palaikymas
-- **Būtini priedai**:
-  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - DI pagrįstos kodo rekomendacijos
-  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - bendradarbiavimas realiu laiku
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - automatinis kodo formatavimas
-  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - klaidų tikrinimas kode
+- Puiki praplatinimų ekosistema
+- Integruota terminalas ir Git palaikymas
+- **Privalomi praplėtimai**:
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) – AI varomi kodo pasiūlymai
+  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) – bendradarbiavimas realiu laiku
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) – automatinis kodo formatavimas
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) – klaidų tikrinimas kode
 
 **[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)** (Mokamas, nemokamas studentams)
 - Pažangūs klaidų taisymo ir testavimo įrankiai
-- Išmanus kodo užbaigimas
+- Intelektualus kodo užbaigimas
 - Integruota versijų kontrolė
 
-**Debesų pagrindu veikiantys IDE** (Įvairios kainos)
-- [GitHub Codespaces](https://github.com/features/codespaces) - pilnas VS Code naršyklėje
-- [Replit](https://replit.com/) - puikus mokymuisi ir kodo dalijimuisi
-- [StackBlitz](https://stackblitz.com/) - momentinė, pilno svorio interneto kūrimas
+**Debesų IDE** (Įvairios kainos)
+- [GitHub Codespaces](https://github.com/features/codespaces) – pilnas VS Code jūsų naršyklėje
+- [Replit](https://replit.com/) – puikus mokymuisi ir kodų dalijimuisi
+- [StackBlitz](https://stackblitz.com/) – momentinis, pilno paketo interneto kūrimas
 
-> 💡 **Pradžios patarimas**: Pradėkite nuo Visual Studio Code – jis nemokamas, plačiai naudojamas pramonėje ir turi milžinišką bendruomenę, kuri kuria naudingus mokymus ir priedus.
+> 💡 **Pradžios patarimas**: pradėkite nuo Visual Studio Code – jis nemokamas, plačiai naudojamas pramonėje ir turi milžinišką bendruomenę, kuri kuria naudingus mokymus ir praplėtimus.
 
 
-### Interneto naršyklės: jūsų slaptos kūrimo laboratorijos
+### Interneto naršyklės: jūsų paslaptinga kūrimo laboratorija
 
-Gerai, pasiruoškite, kad jūsų mintys bus visiškai sudaužytos! Žinote, kaip naudojate naršykles naršydami socialiniuose tinkluose ar žiūrėdami vaizdo įrašus? Paaiškėjo, kad jos visą laiką slėpė šią neįtikėtiną slaptą kūrėjų laboratoriją, tik laukdamos, kol ją atrasite!
+Gerai, pasiruoškite, kad protas gali būti visiškai sukrėstas! Žinote, kaip naršyklės naudojamos naršyti socialiniuose tinkluose ar žiūrėti vaizdo įrašus? Paaiškėjo, kad jos visą laiką slepia neįtikėtiną kūrėjo laboratoriją, kuri tik laukia, kol ją atrasite!
 
-Kiekvieną kartą, kai dešiniuoju pelės klavišu spustelite puslapį ir renkatės "Inspect Element" („Tikrinti elementą“), jūs atveriate paslėptą kūrėjų įrankių pasaulį, kuris yra tiesiog galingesnis už kai kurią brangią programinę įrangą, už kurią kažkada mokėjau šimtus dolerių. Tai tarsi atrasti, kad jūsų įprasta virtuvė slepia profesionalaus šefų laboratoriją už slaptos plokštės!
-Pirmą kartą, kai kas nors man parodė naršyklės kūrėjo įrankius (DevTools), praleidau maždaug tris valandas tiesiog spustelėdamas ir sakydamas „PALAU, JIS GALI IR TAI?!“ Tu gali tiesiogiai redaguoti bet kurią svetainę realiu laiku, matyti, kaip greitai viskas įsikrauna, testuoti, kaip tavo svetainė atrodo skirtinguose įrenginiuose, ir netgi derinti JavaScript kaip tikras profesionalas. Tai tiesiog stulbinama!
+Kiekvieną kartą, kai dešiniuoju pelės mygtuku spustelite interneto puslapį ir pasirenkate „Inspect Element“ (Tikrinti elementą), jūs atveriate slaptą kūrėjų įrankių pasaulį, kuris yra tiesiog galingesnis nei kai kurios brangios programos, už kurias anksčiau mokėjau šimtus dolerių. Tai tarsi atrasti, kad jūsų paprasta virtuvė slepia profesionalaus šefų laboratoriją už slapto skydelio!
+Pirmą kartą, kai kas parodė man naršyklės kūrėjo įrankius (DevTools), aš praleidau apie tris valandas tiesiog spustelėdamas ir sakydamas „PALAUKE, AR TAI TIKRAI GALIMA DARYTI?“ Tu gali tiesiogiai redaguoti bet kurią svetainę realiuoju laiku, tiksliai matyti, kaip greitai viskas įsikrauna, testuoti, kaip tavo svetainė atrodo skirtinguose įrenginiuose, ir netgi vykdyti JavaScript derinimą kaip tikras profesionalas. Tai tiesiog stulbinama!
 
 **Štai kodėl naršyklės yra tavo slaptas ginklas:**
 
-Kai kuri savo svetainę ar interneto programą, turi matyti, kaip ji atrodo ir veikia realiame pasaulyje. Naršyklės ne tik rodo tavo darbą, bet ir suteikia išsamų grįžtamąjį ryšį apie našumą, prieinamumą ir galimas problemas.
+Kai kuri svetainę ar žiniatinklio programą, reikia matyti, kaip ji atrodo ir veikia realiame pasaulyje. Naršyklės ne tik rodo tavo kūrinį, bet ir suteikia išsamų grįžtamąjį ryšį apie našumą, prieinamumą ir galimas problemas.
 
 #### Naršyklės kūrėjo įrankiai (DevTools)
 
-Šiuolaikinės naršyklės apima visapusiškas kūrimo programas:
+Šiuolaikinės naršyklės turi išsamias kūrimo priemonių komplektus:
 
-| Įrankio kategorija | Ką jis daro | Pavyzdinė panaudojimo sritis |
-|--------------------|-------------|------------------------------|
-| **Elementų inspektorius** | Peržiūri ir redaguoja HTML/CSS realiu laiku | Koreguoja stilių, kad iš karto matytum rezultatus |
-| **Konsolė** | Rodo klaidų pranešimus ir leidžia testuoti JavaScript | Derina klaidas ir eksperimentuoja su kodu |
-| **Tinklo monitorius** | Stebi, kaip kraunasi resursai | Optimizuoja našumą ir įkėlimo laikus |
-| **Prieinamumo tikrintuvas** | Testuoja įtraukiantį dizainą | Užtikrina, kad svetainė veiktų visiems vartotojams |
-| **Įrenginių simuliatorius** | Leidžia peržiūrėti skirtingo ekrano dydžių vaizdą | Testuoja reaguojantį dizainą be kelių įrenginių |
+| Įrankio kategorija | Ką daro | Pavyzdinė panaudojimo situacija |
+|--------------------|---------|--------------------------------|
+| **Elementų inspektorius** | Tiesiogiai peržiūrėti ir redaguoti HTML/CSS | Koreguoti dizainą, kad matyti akimirksniu pokyčius |
+| **Konsolė** | Rodyti klaidų pranešimus ir testuoti JavaScript | Derinti problemas ir eksperimentuoti su kodu |
+| **Tinklo stebėjimas** | Sekti, kaip įkeliami ištekliai | Optimizuoti veikimą ir įkėlimo laikus |
+| **Prieinamumo tikrinimas** | Testuoti įtraukiantį dizainą | Užtikrinti, kad svetainė veiktų visiems naudotojams |
+| **Įrenginio simuliatorius** | Peržiūrėti skirtingo ekrano dydžio rodinius | Testuoti atsakomąjį dizainą be kelių įrenginių |
 
 #### Rekomenduojamos naršyklės kūrimui
 
-- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** – standartinis DevTools su detalia dokumentacija
-- **[Firefox](https://developer.mozilla.org/docs/Tools)** – puikūs įrankiai CSS Grid ir prieinamumui
-- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** – Chromium pagrindu su Microsoft kūrėjų ištekliais
+- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** - Pramonės standartas su plačia dokumentacija
+- **[Firefox](https://developer.mozilla.org/docs/Tools)** - Puikios CSS Grid ir prieinamumo priemonės
+- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** - Sukurta ant Chromium su Microsoft kūrėjo ištekliais
 
-> ⚠️ **Svarbus testavimo patarimas**: Visada testuok savo svetaines keliose naršyklėse! Tai, kas puikiai veikia Chrome, gali atrodyti kitaip Safari ar Firefox. Profesionalūs kūrėjai testuoja visuose pagrindiniuose naršyklėse, kad užtikrintų nuoseklią naudotojo patirtį.
+> ⚠️ **Svarbi testavimo patarimas:** Visada testuok savo svetaines keliuose naršyklėse! Kas puikiai veikia Chrome, gali atrodyti kitaip Safari ar Firefox. Profesionalūs kūrėjai testuoja visuose pagrindiniuose naršyklėse, kad užtikrintų vienodą naudotojų patirtį.
 
 
 ### Komandų eilutės įrankiai: tavo kelias į kūrėjo supergalias
 
-Gerai, būkime visiškai atviri apie komandų eilutę, nes noriu, kad tai girdėtum iš kažko, kas tikrai supranta. Kai ją pirmą kartą pamačiau – tiesiog tą baisią juodą ekraną su mirksinčiu tekstu – aš tiesiog pagalvojau: „Ne, jokiu būdu! Atrodo kaip iš 1980-ųjų hakerių filmo, ir aš tikrai nesu pakankamai protingas tam!“ 😅
+Gerai, būkime visiškai atviri apie komandų eilutę, nes noriu, kad išgirstum tai iš kažko, kas tikrai supranta. Kai pirmą kartą ją pamačiau – šį baisų juodą ekraną su mirksinčiu tekstu – aš tiesiog pagalvojau: „Ne, visai ne! Tai atrodo kaip kas nors iš 1980-ųjų kibernetinio filmo, ir aš tikrai nepakankamai protingas tam!“ 😅
 
-Bet štai ką būčiau norėjęs, kad kas nors man pasakytų tada, ir ką tau sakau dabar: komandų eilutė nėra baisi – tai kaip tiesioginis pokalbis su tavo kompiuteriu. Pagalvok apie tai kaip skirtumą tarp užsakymo per gražią programėlę su paveikslėliais ir meniu (kas yra miela ir paprasta) ir atėjimo į tavo mėgstamą vietinę restoraną, kur virėjas tiksliai žino, ką tu mėgsti, ir gali sukurti kažką tobulai, tiesiog išgirdęs tavo žodžius „nustebink kažkuo nuostabiu“.
+Bet štai ką norėčiau, kad kas man būtų pasakęs tada, ir ką sakau tau dabar: komandų eilutė nėra baisi – tai tarsi tiesioginis pokalbis su tavo kompiuteriu. Įsivaizduok, kad tai skirtumas tarp maisto užsakymo per elegantišką programėlę su paveikslėliais ir meniu (kas yra patogu ir paprasta) ir įėjimo į mėgstamą vietinį restoraną, kur virėjas tiksliai žino, ką tu mėgsti, ir gali paruošti kažką ypatingo, tik pasakius „ nustebink mane kuo nors įspūdingu.“
 
-Komandų eilutė yra ta vieta, kur kūrėjai jaučiasi kaip tikri burtininkai. Tu įvedi keletą atrodančių magiškais žodžių (gerai, tai tiesiog komandos, bet jos atrodo magiškai!), paspaudi Enter, ir BAM – sukuri visą projekto struktūrą, įdiegia galingus įrankius iš viso pasaulio arba išpublikuoji savo programą internete, kad milijonai žmonių ją pamatytų. Kai tik paragauji šios galios, tai tikrai užklumpa!
+Komandų eilutė yra ten, kur kūrėjai jaučiasi tikrais burtininkais. Tu įvedi kelis stebuklingus žodžius (gerai, tie žodžiai yra komandos, bet jos atrodo stebuklingos!), spaudi enter, ir PAF – sukuri visą projektų struktūrą, įdiegia galingus įrankius iš viso pasaulio arba išleidžia savo aplikaciją internetui, kad milijonai žmonių ją pamatytų. Kai pirmą kartą pajusi šios galios skonį, tai būna tiesiog priklausomybę keliantis!
 
 **Kodėl komandų eilutė taps tavo mėgstamiausiu įrankiu:**
 
-Nors grafinės sąsajos yra puikios daugeliui užduočių, komandų eilutė puikiai tinka automatizavimui, preciziškumui ir greičiui. Daugelis kūrimo įrankių daugiausia veikia per komandų eilutę, o jų efektyvus naudojimas gerokai padidina produktyvumą.
+Nors grafinės sąsajos yra puikios daugeliui užduočių, komandų eilutė išsiskiria automatizavimu, tikslumu ir greičiu. Daugelis kūrimo įrankių veikia daugiausia per komandų eilutę, o mokėjimas jas efektyviai naudoti gali žymiai pagerinti tavo produktyvumą.
 
 ```bash
 # 1 žingsnis: Sukurkite ir pereikite į projekto katalogą
@@ -602,12 +602,12 @@ mkdir my-awesome-website
 cd my-awesome-website
 ```
 
-**Štai ką atlieka šis kodas:**
-- **Sukuria** naują katalogą „my-awesome-website“ tavo projektui
+**Štai ką daro šis kodas:**
+- **Sukuria** naują katalogą pavadinimu „my-awesome-website“ tavo projektui
 - **Pereina** į ką tik sukurtą katalogą, kad pradėtum darbą
 
 ```bash
-# 2 žingsnis: Inicializuokite projektą su package.json
+# 2 žingsnis: Inicijuokite projektą su package.json
 npm init -y
 
 # Įdiekite šiuolaikinius kūrimo įrankius
@@ -615,11 +615,11 @@ npm install --save-dev vite prettier eslint
 npm install --save-dev @eslint/js
 ```
 
-**Žingsnis po žingsnio vyksta štai kas:**
-- **Inicijuoja** naują Node.js projektą su numatytais nustatymais naudojant `npm init -y`
-- **Įdiegia** Vite kaip modernų statybos įrankį greitam plėtojimui ir gamybos statymams
-- **Prideda** Prettier automatinio kodo formatavimo ir ESLint kodo kokybės tikrinimui
-- **Naudoja** `--save-dev` žymeklį, kad pažymėtų juos kaip tik kūrimo priklausomybes
+**Žingsnis po žingsnio, štai kas vyksta:**
+- **Inicializuoja** naują Node.js projektą su numatytomis reikšmėmis naudodamas `npm init -y`
+- **Įdiegia** Vite kaip modernų kūrimo įrankį greitam vystymui ir produkcijos rinkimams
+- **Prideda** Prettier automatinio kodo formatavimo ir ESLint kodo kokybės tikrinimo tikslams
+- **Naudoja** `--save-dev` žymeklį nurodant šias priklausomybes kaip tik vystymo metu reikalingas
 
 ```bash
 # 3 žingsnis: Sukurkite projekto struktūrą ir failus
@@ -631,155 +631,155 @@ npx vite
 ```
 
 **Aukščiau mes:**
-- **Organizavome** savo projektą, sukurdami atskirus aplankus šaltinio kodui ir turiniui
+- **Organizavome** projektą kurdami atskirus aplankus šaltinio kodui ir turiniui
 - **Sugeneravome** bazinį HTML failą su tinkama dokumento struktūra
-- **Paleidome** Vite kūrimo serverį su gyvu perkrovimu ir karštosios modulio pakeitimo funkcija
+- **Paleidome** Vite vystymo serverį su gyvu perkelimu ir karštu modulių keitimu
 
-#### Būtini komandų eilutės įrankiai interneto kūrimui
+#### Būtini komandų eilutės įrankiai žiniatinklio kūrimui
 
-| Įrankis | Paskirtis | Kodėl tau jų reikia |
-|---------|-----------|--------------------|
-| **[Git](https://git-scm.com/)** | Versijų valdymas | Sekti pakeitimus, bendradarbiauti ir kurti atsargines kopijas |
-| **[Node.js & npm](https://nodejs.org/)** | JavaScript vykdymo aplinka ir paketų valdymas | Vykdyti JavaScript už naršyklių ribų, įdiegti modernius kūrimo įrankius |
-| **[Vite](https://vitejs.dev/)** | Statybos įrankis ir kūrimo serveris | Žaibiškai greitas vystymas su karšto pakeitimo palaikymu |
-| **[ESLint](https://eslint.org/)** | Kodo kokybė | Automatiškai rasti ir ištaisyti JavaScript problemas |
+| Įrankis | Paskirtis | Kodėl jo reikia |
+|---------|-----------|----------------|
+| **[Git](https://git-scm.com/)** | Versijų valdymas | Sekti pakeitimus, bendradarbiauti, kurti atsargines kopijas |
+| **[Node.js & npm](https://nodejs.org/)** | JavaScript vykdymas ir paketų valdymas | Vykdyti JavaScript už naršyklės ribų, įdiegti modernius kūrimo įrankius |
+| **[Vite](https://vitejs.dev/)** | Kūrimo įrankis ir vystymo serveris | Žaibiškai greitas vystymas su karštu modulių perkėlimu |
+| **[ESLint](https://eslint.org/)** | Kodo kokybė | Automatiškai rasti ir taisyti problemas JavaScript kode |
 | **[Prettier](https://prettier.io/)** | Kodo formatavimas | Išlaikyti nuoseklų ir skaitomą kodo formatą |
 
-#### Platformai specifinės galimybės
+#### Specifinės platformos pasirinkimai
 
 **Windows:**
-- **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** – moderni ir funkcijų turinti terminalo programa
-- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 – galinga scenarijų vykdymo aplinka
-- **[Command Prompt](https://docs.microsoft.com/windows-server/administration/windows-commands/?WT.mc_id=academic-77807-sagibbon)** 💻 – tradicinė Windows komandų eilutė
+- **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** - Šiuolaikinis, su daugeliu funkcijų terminalas
+- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 - Galinga skriptų kūrimo aplinka
+- **[Command Prompt](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)** 💻 - Tradicinė Windows komandų eilutė
 
 **macOS:**
-- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 – integruota terminalo programa
-- **[iTerm2](https://iterm2.com/)** – patobulinta terminalo programa su pažangiomis funkcijomis
+- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 - Integruota terminalo programa
+- **[iTerm2](https://iterm2.com/)** - Išplėstinis terminalas su pažangiomis funkcijomis
 
 **Linux:**
-- **[Bash](https://www.gnu.org/software/bash/)** 💻 – standartinė Linux shell aplinka
-- **[KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)** – pažangi terminalo emuliatoriaus programa
+- **[Bash](https://www.gnu.org/software/bash/)** 💻 - Standartinė Linux apvalkalas
+- **[KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)** - Pažangus terminalo emuliatorius
 
 > 💻 = Iš anksto įdiegta operacinėje sistemoje
 
-> 🎯 **Mokymosi kelias**: Pradėk nuo pagrindinių komandų, tokių kaip `cd` (keisti katalogą), `ls` arba `dir` (rodyti failus) ir `mkdir` (sukurti aplanką). Praktikuok su šiuolaikinėmis darbo eigos komandomis, tokiomis kaip `npm install`, `git status` ir `code .` (atidaryti dabartinį katalogą VS Code). Kai įgysi pasitikėjimo, natūraliai išmoksi pažangesnes komandas ir automatizavimo metodus.
+> 🎯 **Mokymosi kelias:** Pradėk nuo pagrindinių komandų, tokių kaip `cd` (pakeisti katalogą), `ls` arba `dir` (peržiūrėti failus) ir `mkdir` (sukurti katalogą). Praktikuok modernias darbo komandas, tokias kaip `npm install`, `git status` ir `code .` (atidaryti dabartinį katalogą VS Code). Kai įgisite patirties, natūraliai išmoksite pažangias komandas ir automatizavimo būdus.
 
 
-### Dokumentacija: tavo visada prieinamas mokymosi mentorius
+### Dokumentacija: tavo visada pasiekiama mokymosi mentorė
 
-Gerai, leisk pasidalinti mažyte paslaptimi, kuri padės tau jaustis daug geriau, būnant pradedančiuoju: net patyrę kūrėjai praleidžia didžiąją dalį savo laiko skaitydami dokumentaciją. Ir tai ne todėl, kad jie nesupranta, ką daro – tai išminties ženklas!
+Gerai, pasidalinsiu mažyte paslaptimi, kuri privers tave jaustis daug geriau, būnant pradedančiuoju: net patyrę kūrėjai praleidžia daug laiko skaitydami dokumentaciją. Ir tai ne todėl, kad jie nežino, ką daro – tai išminties ženklas!
 
-Mąstyk apie dokumentaciją kaip apie prieigą prie kantriausių, žinojančių mokytojų pasaulyje, kurie yra prieinami 24/7. Įstringai naktį 2 val. ryto? Dokumentacija čia, tarsi šiltas virtualus apkabinimas, su būtent reikalingu atsakymu. Nori sužinoti apie kokią naują puikią funkciją, apie kurią visi kalba? Dokumentacija tau padės žingsnis po žingsnio. Nori suprasti, kodėl kažkas veikia taip, kaip veikia? Teisingai supratai – dokumentacija gali paaiškinti taip, kad pagaliau viskas susidėliotų į vietas!
+Įsivaizduok dokumentaciją kaip prieigą prie kantriausių ir išmaniausių mokytojų pasaulyje, kurie yra prieinami 24/7. Užstrigei prie užduoties 2 val. nakties? Dokumentacija šalia su šiltu virtualiu apkabinimu ir būtent tuo atsakymu, kurio reikia. Nori sužinoti apie naują funkciją, apie kurią visi kalba? Dokumentacija tau padės su žingsnis po žingsnio pavyzdžiais. Bandai suprasti, kodėl kažkas veikia būtent taip? Atspėjai – dokumentacija paaiškins tokiu būdu, kad pagaliau viskas taps aišku!
 
-Štai kas visiškai pakeitė mano požiūrį: interneto kūrimo pasaulis labai greitai keičiasi ir niekas (turiu omeny visiškai niekas!) nepamena visko mintinai. Mačiau vyresnius kūrėjus su 15+ metų patirtimi, kurie ieškojo pagrindinės sintaksės, ir žinai ką? Tai nėra gėda – tai yra protinga! Tai ne apie tobulą atmintį, o apie tai, kur rasti patikimus atsakymus greitai ir kaip juos pritaikyti.
+Štai kas visiškai pakeitė mano požiūrį: žiniatinklio kūrimo pasaulis juda labai greitai, ir niekas (turiu omeny visiškai niekas!) nesaugo visko atmintyje. Mačiau vyresnius kūrėjus su 15+ metų patirtimi ieškančius bazinės sintaksės ir žinai ką? Tai nėra gėda – tai protinga! Tai ne atminties turėjimo klausimas, o žinojimas, kur greitai rasti patikimus atsakymus ir suprasti, kaip juos taikyti.
 
-**Čia vyksta tikras stebuklas:**
+**Štai kur slypi tikrasis stebuklas:**
 
-Profesionalūs kūrėjai daug laiko skiria dokumentacijos skaitymui – ne todėl, kad jie nežino, ką daro, bet todėl, kad interneto kūrimo erdvė keičiasi taip greitai, jog norint būti ūkininku reikia nuolatinio mokymosi. Puiki dokumentacija padeda suprasti ne tik *kaip* naudoti kažką, bet ir *kodėl* bei *kada* tai naudoti.
+Profesionalūs kūrėjai daug laiko skiria dokumentacijos skaitymui – ne todėl, kad nežino, ką daro, bet todėl, kad žiniatinklio kūrimo aplinka besikeičia greitai ir norint būti aktualiu, reikia nuolatinio mokymosi. Puiki dokumentacija padeda suprasti ne tik *kaip* naudoti ką nors, bet ir *kodėl* bei *kada* tai daryti.
 
-#### Būtini dokumentacijos ištekliai
+#### Būtinų dokumentacijos šaltinių sąrašas
 
 **[Mozilla Developer Network (MDN)](https://developer.mozilla.org/docs/Web)**
-- Aukso standartas interneto technologijų dokumentacijai
+- Aukso standartas žiniatinklio technologijų dokumentacijoje
 - Išsamios gairės HTML, CSS ir JavaScript
-- Įtraukiama informacija apie naršyklių suderinamumą
-- Praktiniai pavyzdžiai ir interaktyvios demonstracijos
+- Apima naršyklių suderinamumo informaciją
+- Pateikia praktinius pavyzdžius ir interaktyvius demonstravimus
 
 **[Web.dev](https://web.dev)** (Google)
-- Modernios interneto kūrimo geriausios praktikos
-- Našumo optimizavimo gairės
+- Modernios žiniatinklio kūrimo gerosios praktikos gairės
+- Veikimo optimizavimo patarimai
 - Prieinamumo ir įtraukaus dizaino principai
-- Atvejų studijos iš realių projektų
+- Atvejo studijos iš realių projektų
 
 **[Microsoft Developer Documentation](https://docs.microsoft.com/microsoft-edge/#microsoft-edge-for-developers)**
 - Edge naršyklės kūrimo ištekliai
-- Pažangių interneto programų gairės
-- Daugiaplatformio kūrimo įžvalgos
+- Progresyviųjų žiniatinklio programų gairės
+- Kryžminės platformos kūrimo įžvalgos
 
 **[Frontend Masters Learning Paths](https://frontendmasters.com/learn/)**
 - Struktūruoti mokymosi kursai
 - Vaizdo pamokos iš pramonės ekspertų
-- Praktinės programavimo užduotys
+- Praktinės kodavimo užduotys
 
-> 📚 **Mokymosi strategija**: Nesisek memorizuoti dokumentacijos – vietoj to išmok naudotis ja efektyviai. Įsidėk žymes dažnai naudojamoms nuorodoms ir praktikuok paieškos funkcijas, kad greitai surastum konkrečią informaciją.
+> 📚 **Mokymosi patarimas:** Nereikia mokytis dokumentacijos mintinai – verčiau išmok mokytis ją efektyviai naršyti. Užsirašyk dažnai naudojamus šaltinius ir praktikuok paieškas, kad greitai rastum reikiamą informaciją.
 
-### 🔧 **Įrankių valdos patikra: kas tau skamba?**
+### 🔧 **Įrankių meistriškumo patikra: kas tau patinka?**
 
-**Pasižvalgyk ir pagalvok:**
-- Kurį įrankį labiausiai norėtum išbandyti pirmiausia? (Teisingo ar neteisingo atsakymo nėra!)
-- Ar komandų eilutė vis dar atrodo bauginanti, ar jau esi smalsus ją išmokti?
-- Ar gali įsivaizduoti, kaip naudosi naršyklės DevTools, kad pažvelgtum už savo mėgstamiausių svetainių uždangalo?
+**Skirk akimirką pagalvoti:**
+- Kurį įrankį norėtum išbandyti pirmiausia? (Teisingo atsakymo nėra!)
+- Ar komandų eilutė vis dar kelia nerimą, ar jau esi smalsus ją išbandyti?
+- Ar įsivaizduoji naudoti naršyklės DevTools, kad pažvelgtum už tavo mėgstamų svetainių uždangalo?
 
 ```mermaid
-pie title "Programuotojo laikas praleistas su įrankiais"
+pie title "Programuotojo laikas su įrankiais"
     "Kodo redaktorius" : 40
     "Naršyklės testavimas" : 25
     "Komandinė eilutė" : 15
     "Dokumentacijos skaitymas" : 15
     "Derinimas" : 5
 ```
-> **Smagus pastebėjimas**: Dauguma kūrėjų apie 40 % savo laiko praleidžia kodo redaktoriuje, bet pastebi, kiek laiko skiriama testavimui, mokymuisi ir problemų sprendimui. Programavimas nėra tik kodų rašymas – tai patirčių kūrimas!
+> **Smagus faktas:** Dauguma kūrėjų apie 40 % savo laiko praleidžia kodo redaktoriuje, bet pastebėk, kiek daug laiko praleidžiama testuojant, mokantis ir sprendžiant problemas. Programavimas nėra vien tik kodų rašymas – tai patirčių kūrimas!
 
-✅ **Maitinantis apmąstymams**: Štai įdomus klausimas – kaip manai, kuo įrankiai tinkami svetainių kurimui (kūrimas) skiriasi nuo įrankių tinkamų jų dizainui? Tai kaip skirtumas tarp architekto, kuris kuria gražų namą, ir rangovo, kuris jį stato. Abu yra svarbūs, bet jiems reikia skirtingų įrankių rinkinų! Tokia mąstysena padės geriau suprasti, kaip gimsta svetainės.
+✅ **Mintims pamąstyti:** Štai įdomus klausimas – kaip manai, kuo skiriasi įrankiai, skirti kurti svetaines (vystymui), nuo įrankių, skirtų jų dizainui? Tai tarsi skirtumas tarp architekto, kuris suprojektuoja gražų namą, ir rangovo, kuris jį pastato. Abu svarbūs, bet reikia skirtingų įrankių! Tokie apmąstymai padės geriau suprasti, kaip svetainės „gimsta.“
 
-## GitHub Copilot Agent užduotis 🚀
+## GitHub Copilot agento iššūkis 🚀
 
-Naudok Agent režimą, kad įvykdytum šią užduotį:
+Naudok Agent režimą, kad įvykdytum šį iššūkį:
 
-**Aprašymas:** Ištirk šiuolaikinio kodo redaktoriaus ar IDE funkcijas ir parodyk, kaip jos gali pagerinti tavo darbo eigą kaip interneto kūrėjo.
+**Aprašymas:** Išnagrinėk šiuolaikinio kodo redaktoriaus ar IDE funkcijas ir parodyk, kaip jos gali pagerinti tavo darbą kaip žiniatinklio kūrėjo.
 
-**Užduotis:** Pasirink kodo redaktorių ar IDE (pavyzdžiui, Visual Studio Code, WebStorm ar debesimis pagrįstą IDE). Išvardink tris funkcijas ar plėtinius, kurie padeda efektyviau rašyti, derinti ar prižiūrėti kodą. Kiekvienam trumpai paaiškink, kaip tai pagerina tavo darbo eigą.
+**Užklausa:** Pasirink kodo redaktorių arba IDE (pvz., Visual Studio Code, WebStorm ar debesų pagrindu veikiantį IDE). Išvardink tris funkcijas arba plėtinius, kurie padeda efektyviau rašyti, derinti ar palaikyti kodą. Kiekvienam trumpai paaiškink, kaip tai pagerina tavo darbą.
 
 ---
 
 ## 🚀 Iššūkis
 
-**Na, detektyve, pasiruošęs pirmajam bylai?**
+**Gerai, detektyve, ar pasiruošęs savo pirmai bylai?**
 
-Dabar, kai turi šį puikų pagrindą, laukia nuotykis, padėsiantis pamatyti, kaip nuostabiai įvairus ir įdomus programavimo pasaulis išties yra. Ir klausyk – čia dar ne apie kodo rašymą, taigi jokio spaudimo! Pagalvok apie save kaip apie programavimo kalbų detektyvą tavo pirmajame įdomiame atvejyje!
+Kadangi turi šį puikų pagrindą, turiu nuotykį, kuris padės tau pamatyti, kaip iš tiesų įvairus ir įdomus yra programavimo pasaulis. Ir klausyk – čia dar ne apie kodą, tai nelabai dėl to jaudinkis! Įsivaizduok, kad esi programavimo kalbų detektyvas savo pirmai įdomiai bylai!
 
 **Tavo misija, jei sutinki ją priimti:**
-1. **Tapk kalbų tyrinėtoju**: Pasirink tris programavimo kalbas iš visiškai skirtingų pasaulių – gal vieną, kuri kuria svetaines, kitą, kuri kuria mobiliąsias programėles, ir dar vieną – kuri apdoroja mokslinius duomenis. Surask pavyzdžių, kaip kiekviena kalba atlieka tą patį paprastą uždavinį. Pažadu, tu būsi visiškai nustebęs, kiek skirtingai tai gali atrodyti vykdant visiškai tą patį veiksmą!
+1. **Tapsk kalbų tyrinėtoju:** Pasirink tris programavimo kalbas iš visiškai skirtingų pasaulių – gal vieną, skirtą svetainių kūrimui, kitą, kuri sukuria mobiliąsias programėles, ir dar vieną, skirtą moksliniams duomenų apdorojimams. Surask tą patį paprastą uždavinį, parašytą kiekviena kalba. Pažadu, būsi nustebęs, kaip skirtingai jos gali atrodyti, nors daro tą patį!
 
-2. **Atskleisk jų kilmės istorijas**: Kas daro kiekvieną kalbą ypatingą? Štai smagus faktas – kiekviena programavimo kalba buvo sukurta todėl, kad kažkas pagalvojo: „Žinai ką? Privalo būti geresnis būdas spręsti šią konkrečią problemą.“ Ar gali atspėti, kokios tai problemos? Kai kurios istorijos yra išties intriguojančios!
+2. **Išsiaiškink jų kilmės istorijas:** Kas kiekvieną kalbą padaro ypatinga? Štai įdomybė – kiekviena programavimo kalba atsirado, nes kažkas pagalvojo: „Žinai ką? Privalo būti geresnis būdas išspręsti šią konkrečią problemą.“ Ar sugebėsi atskleisti, kokios tos problemos buvo? Kai kurios istorijos yra tikrai žavios!
 
-3. **Susipažink su bendruomenėmis**: Pažiūrėk, kaip draugiškos ir aistringos yra kiekvienos kalbos bendruomenės. Kai kurios turi milijonus kūrėjų, dalijasi žiniomis ir padeda vieni kitiems, kitos yra mažesnės, bet labai glaudžiai susijusios ir palaikančios. Tau patiks pamatyti, kokios skirtingos yra šių bendruomenių asmenybės!
+3. **Susipažink su bendruomenėmis:** Pažiūrėk, kaip svetingos ir aistringos yra kiekvienos kalbos bendruomenės. Kai kurios jų turi milijonus kūrėjų dalijasi žiniomis ir padeda vieni kitiems, kitos yra mažesnės bet labai glaudžios ir palaikančios. Tau tikrai patiks matyti šių bendruomenių skirtingas „asmenybes“!
 
-4. **Sek savo intuicija**: Kuri kalba tau dabar atrodo lengviausiai prieinama? Nesijaudink dėl „tobulo“ pasirinkimo – klausyk savo jausmų! Tikrai nėra teisingo ar neteisingo atsakymo, o vėliau visada galėsi tyrinėti kitas.
+4. **Sek savo intuicija:** Kuri kalba tau šiuo metu atrodo patraukliausia? Nesispausk dėl „tobulo“ pasirinkimo – tiesiog klausyk savo instinktų! Čia nėra neteisingo atsakymo, o vėliau visada gali išbandyti kitas.
 
-**Papildomas detektyvo darbas**: Pažiūrėk, ar gali sužinoti, kokios didžiausios svetainės ar programėlės sukurtos kiekviena kalba. Galiu garantuoti, kad būsi nustebęs sužinojęs, kas palaiko Instagram, Netflix ar tą mobiliąją žaidimo programėlę, kurios negali nustoti žaisti!
+**Papildomas detektyvinis darbas:** Pažiūrėk, ar gali sužinoti, kokios pagrindinės svetainės ar aplikacijos yra sukurtos kiekviena kalba. Garantuoju, kad būsi nustebęs sužinojęs, kas palaiko Instagram, Netflix ar tą mobilią žaidimo programėlę, nuo kurios negali atitraukti akių!
 
-> 💡 **Atmink**: Nekuri šiandien savęs eksperto bet kurioje iš šių kalbų. Tu tiesiog susipažįsti su apylinkėmis prieš nuspręsdamas, kur nori įsikurti. Skirk laiko, linksminkis ir leisk savo smalsumui vedžioti!
+> 💡 **Prisimink:** Šiandien nesieki tapti ekspertu nė vienoje kalboje. Tiesiog susipažįsti su kaimynyste prieš priimdamas sprendimą, kur įsikurti. Skirk laiko, mėgaukis procesu ir leisk smalsumui tave vesti!
 
 ## Švęskime tai, ką atradai!
 
-Dieve mano, šiandien įsisavinai tiek nuostabios informacijos! Esu nuoširdžiai susidomėjęs, kiek šios įdomios kelionės su tavimi liko. Ir prisimink – čia nėra testo, kur reikia visko atlikti tobulai. Tai labiau šventė visų tų įdomybių, kurias sužinojai apie šį įdomų pasaulį, į kurį tu jau ruošiesi panerti!
+Oho, šiandien sužinojai tiek daug nuostabios informacijos! Iš tiesų džiaugiuosi matydamas, kiek šio nuostabaus kelio sugebėjai įsisavinti. Ir prisimink – tai nėra testas, kurį reikia išlaikyti tobulai. Tai greičiau šventė visų tų šaunių dalykų, kuriuos išmokai apie šį žavų pasaulį, kuriame esi pasiruošęs panirti!
 
-[Atlik baigiamąjį testą](https://ff-quizzes.netlify.app/web/)
+[Padaryk testą po pamokos](https://ff-quizzes.netlify.app/web/)
+
 ## Apžvalga ir savarankiškas mokymasis
 
-**Skirk savo laiką tyrinėjimui ir linksminkis!**
+**Skirk laiko tyrinėti ir smagiai praleisk laiką!**
+Šiandien nuėjai ilgą kelią, ir tai yra priežastis didžiuotis! Dabar ateina smagi dalis – tyrinėti temas, kurios pažadino tavo smalsumą. Atmink, tai nėra namų darbai – tai nuotykis!
 
-Šiandien padarei daug pažangos, ir tai yra ką parodyti! Dabar ateina smagi dalis – tyrinėti temas, kurios sužadino tavo susidomėjimą. Prisimink, tai nėra namų darbai – tai nuotykis!
+**Gilinkis į tai, kas tave džiugina:**
 
-**Pasinerk giliau į tai, kas tave žavi:**
+**Praktikuokis su programavimo kalbomis:**
+- Aplankyk oficialias 2-3 kalbų svetaines, kurios patraukė tavo dėmesį. Kiekviena iš jų turi savo charakterį ir istoriją!
+- Išbandyk kai kurias internetines kodavimo platformas, tokias kaip [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/) arba [Replit](https://replit.com/). Nebijok eksperimentuoti – nieko nesugadinsi!
+- Paskaityk apie tavo mėgstamos kalbos atsiradimą. Rimtai, kai kurios jų kilmės istorijos yra labai įdomios ir padės suprasti, kodėl kalbos veikia būtent taip, kaip veikia.
 
-**Įgyk praktikos su programavimo kalbomis:**
-- Aplankyk oficialias 2-3 kalbų svetaines, kurios patraukė tavo dėmesį. Kiekviena turi savo charakterį ir istoriją!
-- Išbandyk kai kurias internetines kodavimo aikšteles, kaip [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/) ar [Replit](https://replit.com/). Nebijok eksperimentuoti – nieko nesugadinsi!
-- Paskaityk apie tai, kaip atsirado tavo mėgstama kalba. Rimtai, kai kurios šių atsiradimo istorijų yra labai įdomios ir padės suprasti, kodėl kalbos veikia būtent taip.
-
-**Prisijaukink naujus įrankius:**
-- Jei dar nesate, atsisiųsk Visual Studio Code – jis nemokamas ir tau labai patiks!
-- Paskirk kelias minutes paieškai Extensions rinkoje. Tai tarsi programėlių parduotuvė tavo kodo redaktoriui!
-- Atidaryk naršyklės kūrėjo įrankius (Developer Tools) ir tiesiog spustelėk čia ir ten. Nesijaudink, jei visko nesupranti – tiesiog susipažink su tuo, kas ten yra.
+**Prisipažink su savo naujais įrankiais:**
+- Atsisiųsk Visual Studio Code, jei dar to nepadarei – jis yra nemokamas ir tau tikrai patiks!
+- Skirk keletą minučių naršydamas Extensions parduotuvę. Tai lyg programėlių parduotuvė tavo kodo redaktoriui!
+- Atidaryk naršyklės kūrėjų įrankius ir tiesiog paspaudinėk visur. Nesijaudink, jei visko nesuprasi – tiesiog susipažink su tuo, kas ten yra.
 
 **Prisijunk prie bendruomenės:**
-- Sek keletą programuotojų bendruomenių [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/) arba [GitHub](https://github.com/). Programavimo bendruomenė labai draugiška naujokams!
-- Žiūrėk pradedantiesiems skirtus kodavimo video „YouTube“. Yra daug puikių kūrėjų, kurie puikiai supranta, ką reiškia pradėti.
-- Apsvarstyk galimybę prisijungti prie vietinių susitikimų ar internetinių bendruomenių. Tik pasitikėk manimi – programuotojai mėgsta padėti naujokams!
+- Sek keletą programuotojų bendruomenių [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/) arba [GitHub](https://github.com/). Programuotojų bendruomenė yra labai draugiška naujokams!
+- Žiūrėk pradedantiesiems skirtus kodavimo vaizdo įrašus YouTube. Yra daug puikių kūrėjų, kurie prisimena, kaip tai buvo pradėti.
+- Apsvarstyk galimybę prisijungti prie vietinių susitikimų ar internetinių bendruomenių. Patikėk, programuotojai mėgsta padėti naujokams!
 
-> 🎯 **Klausyk, štai ką noriu, kad atsimintum**: Nėra lūkestis tapti programavimo žinovu per naktį! Šiuo metu tu tiesiog susipažįsti su nuostabiu nauju pasauliu, kuriame tu būsi. Skirk laiko, mėgaukis kelione ir prisimink – kiekvienas programuotojas, kurį žavi, kartą sėdėjo tiksliai ten, kur ir tu dabar, susijaudinęs ir galbūt šiek tiek sutrikęs. Tai visiškai normalu ir reiškia, kad esi teisingame kelyje!
+> 🎯 **Klausyk, ką nori, kad prisimintum**: Nėra tikslo tapti programavimo žinovu per naktį! Šiuo metu tu tiesiog susipažįsti su nuostabiu nauju pasauliu, kuriame greitai tapsi. Skirk laiko, mėgaukis kelione ir prisimink – kiekvienas programuotojas, kurį gerbi, kažkada sėdėjo būtent ten, kur sėdi dabar, jausdamasis susijaudinęs ir gal šiek tiek priblokštas. Tai visiškai normalu ir reiškia, kad eini tinkamu keliu!
 
 
 
@@ -787,70 +787,70 @@ Dieve mano, šiandien įsisavinai tiek nuostabios informacijos! Esu nuoširdžia
 
 [Reading the Docs](assignment.md)
 
-> 💡 **Mažas paskatinimas tavo užduočiai**: Norėčiau pamatyti, kaip tyrinėji kelis įrankius, kurių dar neapėmėme! Praleisk redaktorius, naršykles ir komandų eilutės įrankius, apie kuriuos jau kalbėjome – yra visas nuostabus vystymo įrankių visatas, kurios laukia būti atrastomis. Ieškok tų, kurie yra aktyviai palaikomi ir turi gyvybingas, draugiškas bendruomenes (tokie paprastai turi geriausius mokomuosius ir daugiausiai palaikančių žmonių, kai neišvengiamai užstrigi ir ieškai pagalbos).
+> 💡 **Šiek tiek paskatinimo tavo užduočiai**: Labai norėčiau pamatyti, kaip tyrinėsi kai kuriuos įrankius, apie kuriuos dar nekalbėjome! Praleisk redaktorius, naršykles ir komandų eilutės įrankius, apie kuriuos jau kalbėjome – ten yra visas nuostabus ir stebinantis platus kūrimo įrankių pasaulis, kuris laukia, kol jį atrasi. Ieškok tokių, kurie yra aktyviai prižiūrimi ir turi gyvybingas, draugiškas bendruomenes (tokie paprastai turi geriausias pamokas ir palaikančius žmones, kai reikės pagalbos).
 
 ---
 
-## 🚀 Tavo programavimo kelionės laiko juosta
+## 🚀 Tavo programavimo kelionės laiko planas
 
 ### ⚡ **Ką gali padaryti per artimiausias 5 minutes**
 - [ ] Užsirašyk 2-3 programavimo kalbų svetaines, kurios patraukė tavo dėmesį
-- [ ] Jei dar nesate, atsisiųsk Visual Studio Code
-- [ ] Atidaryk naršyklės kūrėjo įrankius (F12) ir naršyk bet kurią svetainę paspaudinėdamas
-- [ ] Prisijunk prie vienos programuotojų bendruomenės (Dev.to, Reddit r/webdev ar Stack Overflow)
+- [ ] Atsisiųsk Visual Studio Code, jei dar to nepadarei
+- [ ] Atidaryk naršyklės Developer Tools (F12) ir paspaudinėk bet kurioje svetainėje
+- [ ] Prisijunk prie vienos programuotojų bendruomenės (Dev.to, Reddit r/webdev arba Stack Overflow)
 
 ### ⏰ **Ką gali nuveikti šią valandą**
-- [ ] Užbaik pamokos testo klausimus ir apmąstyk savo atsakymus
-- [ ] Įsidiek VS Code su GitHub Copilot plėtiniu
-- [ ] Išbandyk „Hello World“ pavyzdį 2 skirtingose programavimo kalbose internete
-- [ ] Pažiūrėk „Vienos dienos programuotojo gyvenime“ video „YouTube“
-- [ ] Pradėk savo programavimo kalbos detektyvo darbą (pagal iššūkį)
+- [ ] Atlik pamokos testą ir apmąstyk atsakymus
+- [ ] Įdiek VS Code su GitHub Copilot plėtiniu
+- [ ] Išbandyk „Hello World“ pavyzdį 2 skirtingose programavimo kalbose internetu
+- [ ] Pažiūrėk vaizdo įrašą „Diena programuotojo gyvenime“ YouTube
+- [ ] Pradėk tyrinėti savo pasirinktų kalbų istoriją (pagal iššūkį)
 
-### 📅 **Savaitės trukmės nuotykis**
-- [ ] Įvykdyk užduotį ir išbandyk 3 naujus vystymo įrankius
+### 📅 **Tavo savaitės nuotykis**
+- [ ] Atlik užduotį ir išbandyk 3 naujus kūrimo įrankius
 - [ ] Sek 5 programuotojus arba programavimo paskyras socialiniuose tinkluose
-- [ ] Pamėgink sukurti ką nors mažytį CodePen ar Replit (net ir „Hello, [Tavo Vardas]!“)
-- [ ] Perskaityk vieną programuotojo tinklaraščio įrašą apie kieno nors programavimo kelią
-- [ ] Prisijunk prie virtualaus susitikimo arba pažiūrėk programuotojų paskaitą
-- [ ] Pradėk mokytis pasirinktos kalbos su internetiniais mokymais
+- [ ] Pabandyk sukurti kažką mažo CodePen ar Replit (net jei tai tik „Sveikas, [Tavo Vardas]!“)
+- [ ] Perskaityk vieną programuotojo tinklaraščio įrašą apie jo kelią į programavimą
+- [ ] Prisijunk prie virtualaus susitikimo arba pažiūrėk programavimo kalbą
+- [ ] Pradėk mokytis savo pasirinktos kalbos su internetinėmis pamokomis
 
-### 🗓️ **Mėnesio trukmės pokyčiai**
-- [ ] Sukurk pirmąją mažą programėlę (net paprastas tinklapis tinka!)
-- [ ] Prisidėk prie atviro kodo projekto (pradėk nuo dokumentacijos pataisymų)
-- [ ] Mentoruok ką nors, kas tik pradeda programavimo kelią
-- [ ] Sukurk savo programuotojo portfelio svetainę
+### 🗓️ **Tavo mėnesio pokyčiai**
+- [ ] Sukurk pirmą mažą projektą (net paprastas internetinis puslapis tinka!)
+- [ ] Prisidėk prie atvirojo kodo projekto (pradėk nuo dokumentacijos taisymų)
+- [ ] Mentoruok tą, kuris tik pradeda programavimo kelią
+- [ ] Sukurk savo programuotojo portfolio svetainę
 - [ ] Užmegzk ryšius su vietinėmis programuotojų bendruomenėmis ar studijų grupėmis
-- [ ] Pradėk planuoti savo kitą mokymosi etapą
+- [ ] Pradėk planuoti kitą savo mokymosi tikslą
 
-### 🎯 **Galutinis apmąstymų tikrinimas**
+### 🎯 **Galutiniai apmąstymai**
 
-**Prieš judėdamas toliau, skirk laiko pasidžiaugti:**
+**Prieš judėdamas toliau, skirk minutėlę šventimui:**
 - Kas šiandien programavime tave labiausiai sužavėjo?
-- Kurį įrankį ar sąvoką nori tyrinėti pirmą?
-- Kaip jautiesi pradėdamas šią programavimo kelionę?
-- Kokį klausimą norėtum dabar užduoti programuotojui?
+- Kurį įrankį arba koncepciją nori tyrinėti pirma?
+- Kaip jaučies pradėdamas šią programavimo kelionę?
+- Kokią vieną klausimą norėtum dabar užduoti programuotojui?
 
 ```mermaid
 journey
-    title Jūsų pasitikėjimo savimi kūrimo kelionė
+    title Jūsų Pasitikėjimo Savimi Kūrimo Kelionė
     section Šiandien
-      Curious: 3: You
-      Overwhelmed: 4: You
-      Excited: 5: You
-    section Šią savaitę
-      Exploring: 4: You
-      Learning: 5: You
-      Connecting: 4: You
-    section Kitą mėnesį
-      Building: 5: You
-      Confident: 5: You
-      Helping Others: 5: You
+      Smalsus: 3: You
+      Prislėgtas: 4: You
+      Susijaudinęs: 5: You
+    section Ši Savaitė
+      Tyrinėja: 4: You
+      Mokosi: 5: You
+      Prisijungia: 4: You
+    section Kitas Mėnuo
+      Kuria: 5: You
+      Pasitikintis: 5: You
+      Padeda Kitiems: 5: You
 ```
-> 🌟 **Prisimink**: Kiekvienas ekspertas kažkada buvo pradedantysis. Kiekvienas vyresnysis programuotojas kažkada jautėsi lygiai taip pat kaip tu dabar – susijaudinęs, galbūt šiek tiek sutrikęs ir tikrai smalsus dėl galimybių. Tu esi nuostabioje kompanijoje, ir ši kelionė bus nepakartojama. Sveikas atvykęs į nuostabų programavimo pasaulį! 🎉
+> 🌟 **Prisimink**: Kiekvienas ekspertas kažkada buvo pradedantysis. Kiekvienas vyresnysis programuotojas buvo būtent toks, kaip esi dabar – susijaudinęs, gal kiek priblokštas, bet tikrai smalsus, ką galima pasiekti. Tu esi nuostabioje kompanijoje, ir ši kelionė bus nepaprasta. Sveikas atvykęs į nuostabųjį programavimo pasaulį! 🎉
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Atsakomybės apribojimas**:
-Šis dokumentas buvo išverstas naudojant dirbtinio intelekto vertimo paslaugą [Co-op Translator](https://github.com/Azure/co-op-translator). Nors siekiame tikslumo, atkreipkite dėmesį, kad automatiniai vertimai gali turėti klaidų ar netikslumų. Pirminis dokumentas gimtąja kalba turi būti laikomas autoritetingu šaltiniu. Svarbiai informacijai rekomenduojama naudoti profesionalų žmogaus vertimą. Mes neatsakome už bet kokius nesusipratimus ar klaidingus aiškinimus, kilusius dėl šio vertimo naudojimo.
+**Atsakomybės apribojimas**:  
+Šis dokumentas buvo išverstas naudojant dirbtinio intelekto vertimo paslaugą [Co-op Translator](https://github.com/Azure/co-op-translator). Nors siekiame tikslumo, atkreipkite dėmesį, kad automatizuoti vertimai gali turėti klaidų arba netikslumų. Originalus dokumentas jo gimtąja kalba turėtų būti laikomas autoritetingu šaltiniu. Kritinei informacijai rekomenduojamas profesionalus žmogaus vertimas. Mes neatsakome už jokius nesusipratimus ar neteisingus aiškinimus, kilusius naudojantis šiuo vertimu.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

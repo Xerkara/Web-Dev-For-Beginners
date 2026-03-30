@@ -2,36 +2,36 @@
 
 ## Projektin yleiskuvaus
 
-Tämä on opetuksellinen opetussuunnitelmarepositorio, joka on tarkoitettu web-kehityksen perusteiden opettamiseen aloittelijoille. Opetussuunnitelma on kattava 12 viikon kurssi, jonka ovat kehittäneet Microsoft Cloud Advocates, ja se sisältää 24 käytännön oppituntia, jotka kattavat JavaScriptin, CSS:n ja HTML:n.
+Tämä on opetussisältövarasto, joka on tarkoitettu verkkokehityksen perusteiden opettamiseen aloittelijoille. Opetussuunnitelma on kattava 12 viikon kurssi, jonka ovat kehittäneet Microsoft Cloud Advocates, ja se sisältää 24 käytännönläheistä oppituntia JavaScriptistä, CSS:stä ja HTML:stä.
 
 ### Keskeiset osat
 
-- **Opetussisältö**: 24 rakenteellista oppituntia projektipohjaisissa moduuleissa
+- **Opetussisältö**: 24 rakenteellista oppituntia, jotka on järjestetty projektipohjaisiksi moduuleiksi
 - **Käytännön projektit**: Terrarium, Typing Game, Browser Extension, Space Game, Banking App, Code Editor ja AI Chat Assistant
-- **Interaktiiviset tietovisat**: 48 tietovisaa, joissa on 3 kysymystä (ennen ja jälkeen oppitunnin arvioinnit)
-- **Monikielinen tuki**: Automaattiset käännökset yli 50 kielelle GitHub Actionsin kautta
-- **Teknologiat**: HTML, CSS, JavaScript, Vue.js 3, Vite, Node.js, Express, Python (tekoälyprojekteissa)
+- **Interaktiiviset monivalintakyselyt**: 48 kyselyä, joissa on 3 kysymystä jokaisessa (ennen ja jälkeen oppitunnin arvioinnit)
+- **Monikielinen tuki**: Automaattiset käännökset yli 50 kielelle GitHub Actionsin avulla
+- **Teknologiat**: HTML, CSS, JavaScript, Vue.js 3, Vite, Node.js, Express, Python (tekoälyprojekteihin)
 
 ### Arkkitehtuuri
 
-- Opetuksellinen arkisto oppituntipohjaisella rakenteella
+- Opetussisältövarasto, jossa on oppituntirakenne
 - Jokainen oppituntikansio sisältää README-tiedoston, koodiesimerkkejä ja ratkaisuja
-- Itsenäiset projektit omissa hakemistoissaan (quiz-app, eri oppituntiprojektit)
-- Käännösjärjestelmä GitHub Actionsin (co-op-translator) avulla
-- Dokumentaatio tarjotaan Docsifylla ja se on saatavilla myös PDF:nä
+- Erilliset projektit omissa hakemistoissaan (quiz-app, eri oppituntiprojektit)
+- Käännösjärjestelmä käyttäen GitHub Actionsia (co-op-translator)
+- Dokumentaatio tarjolla Docsifylla ja PDF-muodossa
 
-## Asennuskomennot
+## Asennuskäskyt
 
-Tämä arkisto on ensisijaisesti tarkoitettu opetussisällön kulutukseen. Työskennellessäsi tiettyjen projektien kanssa:
+Tämä varasto on ensisijaisesti tarkoitettu opetussisällön kuluttamiseen. Työskenneltäessä tietyissä projekteissa:
 
-### Pääarkiston asennus
+### Päävaraston asennus
 
 ```bash
 git clone https://github.com/microsoft/Web-Dev-For-Beginners.git
 cd Web-Dev-For-Beginners
 ```
 
-### Quiz-sovelluksen asennus (Vue 3 + Vite)
+### Quiz App -asennus (Vue 3 + Vite)
 
 ```bash
 cd quiz-app
@@ -41,7 +41,7 @@ npm run build      # Rakenna tuotantoon
 npm run lint       # Suorita ESLint
 ```
 
-### Pankkiprojektin API (Node.js + Express)
+### Bank Project API (Node.js + Express)
 
 ```bash
 cd 7-bank-project/api
@@ -56,7 +56,7 @@ npm run format     # Muotoile Prettierilla
 ```bash
 cd 5-browser-extension/solution
 npm install
-# Noudata selaimen erityisiä laajennuksen latausohjeita
+# Noudata selaimelle spesifisiä laajennuksen latausohjeita
 ```
 
 ### Space Game -projektit
@@ -64,10 +64,10 @@ npm install
 ```bash
 cd 6-space-game/solution
 npm install
-# Avaa index.html selaimessa tai käytä Live Serveriä
+# Avaa index.html selaimessa tai käytä Live Server -laajennusta
 ```
 
-### Chat-projekti (Python backend)
+### Chat-projekti (Python Backend)
 
 ```bash
 cd 9-chat-project/solution/backend/python
@@ -76,124 +76,124 @@ pip install openai
 python api.py
 ```
 
-## Kehitysprosessi
+## Kehitysprosessin työkulku
 
-### Sisällön tekijöille
+### Sisällöntuottajille
 
-1. **Forkkaa arkisto** GitHub-tilillesi
-2. **Kloonaa forkki** paikallisesti
+1. **Luo haarukka** varastosta GitHub-tilillesi
+2. **Kloonaa haarukkasi** paikallisesti
 3. **Luo uusi haara** muutoksillesi
 4. Tee muutoksia oppituntisisältöön tai koodiesimerkkeihin
-5. Testaa koodimuutokset asiaankuuluvissa projektihakemistoissa
-6. Lähetä pull requestit ohjeiden mukaisesti
+5. Testaa kaikki koodimuutokset asiaankuuluvissa projektihakemistoissa
+6. Lähetä pull-pyyntöjä noudattaen kontribuutiokäytäntöjä
 
 ### Oppijoille
 
-1. Forkkaa tai kloonaa arkisto
-2. Siirry oppituntihakemistoihin peräkkäin
+1. Luo haarukka tai kloonaa varasto
+2. Siirry oppituntihakemistoihin järjestyksessä
 3. Lue jokaisen oppitunnin README-tiedostot
-4. Täytä oppituntia edeltävät tietovisat osoitteessa https://ff-quizzes.netlify.app/web/
-5. Työskentele koodiesimerkkien parissa oppituntikansioissa
-6. Suorita tehtävät ja haasteet
-7. Tee oppituntia seuraavat tietovisat
+4. Tee ennen oppituntia tehtävät monivalintakyselyt osoitteessa https://ff-quizzes.netlify.app/web/
+5. Työstä koodiesimerkkejä oppituntikansioissa
+6. Tee tehtäviä ja haasteita
+7. Tee oppitunnin jälkeiset monivalintakyselyt
 
 ### Live-kehitys
 
 - **Dokumentaatio**: Suorita `docsify serve` juurihakemistossa (portti 3000)
-- **Quiz-sovellus**: Suorita `npm run dev` quiz-app-hakemistossa
-- **Projektit**: Käytä VS Code Live Server -laajennusta HTML-projekteissa
+- **Quiz App**: Suorita `npm run dev` quiz-app-hakemistossa
+- **Projektit**: Käytä VS Code Live Server -laajennusta HTML-projekteille
 - **API-projektit**: Suorita `npm start` vastaavissa API-hakemistoissa
 
-## Testausohjeet
+## Testiohjeet
 
-### Quiz-sovelluksen testaus
+### Quiz App -testaus
 
 ```bash
 cd quiz-app
-npm run lint       # Tarkista koodityyliongelmat
+npm run lint       # Tarkista koodityylin ongelmat
 npm run build      # Varmista, että käännös onnistuu
 ```
 
-### Pankki-API:n testaus
+### Bank API -testaus
 
 ```bash
 cd 7-bank-project/api
-npm run lint       # Tarkista koodityyliongelmat
-node server.js     # Varmista, että palvelin käynnistyy virheittä
+npm run lint       # Tarkista koodityylin ongelmat
+node server.js     # Varmista, että palvelin käynnistyy ilman virheitä
 ```
 
-### Yleinen testausmenetelmä
+### Yleinen testauslähestymistapa
 
-- Tämä on opetuksellinen arkisto ilman kattavia automatisoituja testejä
+- Tämä on opetussisältövarasto ilman kattavia automatisoituja testejä
 - Manuaalinen testaus keskittyy:
-  - Koodiesimerkkien virheettömään suorittamiseen
+  - Koodiesimerkkien toimivuuteen ilman virheitä
   - Dokumentaation linkkien toimivuuteen
-  - Projektikäännösten onnistumiseen
-  - Esimerkkien noudattavan parhaita käytäntöjä
+  - Projektien build-prosessien onnistumiseen
+  - Esimerkkien parhaiden käytäntöjen noudattamiseen
 
-### Ennen lähettämistä tehtävät tarkistukset
+### Tarkistukset ennen lähettämistä
 
 - Suorita `npm run lint` hakemistoissa, joissa on package.json
-- Varmista markdown-linkkien pätevyys
-- Testaa koodiesimerkit selaimessa tai Node.js:ssä
+- Varmista, että markdown-linkit ovat kelvollisia
+- Testaa koodiesimerkkejä selaimessa tai Node.js:ssä
 - Tarkista, että käännökset säilyttävät rakenteen
 
 ## Koodityyliohjeet
 
 ### JavaScript
 
-- Käytä modernia ES6+ syntaksia
-- Noudata projektien antamia ESLint-asetuksia
-- Käytä merkityksellisiä muuttuja- ja funktioiden nimiä opetuksen selkeyden vuoksi
+- Käytä modernia ES6+ -syntaksia
+- Noudata projektien standardoituja ESLint-configeja
+- Käytä merkityksellisiä muuttuja- ja funktioiden nimiä opetuksellisuuden vuoksi
 - Lisää kommentteja, jotka selittävät käsitteitä oppijoille
-- Muotoile Prettierillä, missä konfiguroitu
+- Muotoile Prettierillä, jos se on määritetty
 
 ### HTML/CSS
 
 - Semanttiset HTML5-elementit
 - Responsiivisen suunnittelun periaatteet
-- Selkeät luokkien nimikäytännöt
+- Selkeät luokkien nimeämiskäytännöt
 - Kommentit, jotka selittävät CSS-tekniikoita oppijoille
 
 ### Python
 
-- PEP 8 -tyyliohjeet
+- PEP 8 -tyyliohjeiden noudattaminen
 - Selkeät, opetukselliset koodiesimerkit
-- Tyyppivihjeet, jos hyödyllisiä oppimisen kannalta
+- Tyyppivihjeet, joissa ne auttavat oppimisessa
 
 ### Markdown-dokumentaatio
 
 - Selkeä otsikkohierarkia
-- Koodilohkot kielimäärittelyillä
+- Koodilohkot, joissa kielimääritys
 - Linkit lisäresursseihin
-- Kuvakaappaukset ja kuvat `images/` hakemistoissa
-- Kuvien alt-tekstit saavutettavuutta varten
+- Kuvakaappaukset ja kuvat `images/`-kansioissa
+- Kuvien alt-teksti saavutettavuuden vuoksi
 
-### Tiedostojen järjestely
+### Tiedostojen järjestäminen
 
 - Oppitunnit numeroitu peräkkäin (1-getting-started-lessons, 2-js-basics jne.)
-- Jokaisella projektilla on `solution/` ja usein `start/` tai `your-work/` hakemistot
-- Kuvat tallennettu oppituntikohtaisiin `images/` kansioihin
-- Käännökset sijaitsevat `translations/{language-code}/` rakenteessa
+- Jokaisella projektilla on `solution/` ja usein myös `start/` tai `your-work/` -kansiot
+- Kuvat säilytetään oppituntikohtaisissa `images/`-kansioissa
+- Käännökset hakemistossa `translations/{language-code}/`
 
-## Kokoaminen ja julkaisu
+## Rakennus ja julkaisu
 
-### Quiz-sovelluksen julkaisu (Azure Static Web Apps)
+### Quiz App -julkaisu (Azure Static Web Apps)
 
 Quiz-app on konfiguroitu Azure Static Web Apps -julkaisua varten:
 
 ```bash
 cd quiz-app
 npm run build      # Luo dist/-kansion
-# Ottaa käyttöön GitHub Actions -työnkulun kautta siirron yhteydessä main-haaraan
+# Ottaa käyttöön GitHub Actions -työnkulun kautta, kun push tapahtuu päähaaraan
 ```
 
-Azure Static Web Apps -konfiguraatio:
+Azure Static Web Appsin konfigurointi:
 - **Sovelluksen sijainti**: `/quiz-app`
-- **Tulosteen sijainti**: `dist`
+- **Tulossijainti**: `dist`
 - **Työnkulku**: `.github/workflows/azure-static-web-apps-ashy-river-0debb7803.yml`
 
-### Dokumentaation PDF:n luonti
+### Dokumentaation PDF:ksi generointi
 
 ```bash
 npm install                    # Asenna docsify-to-pdf
@@ -204,77 +204,77 @@ npm run convert               # Luo PDF docsista
 
 ```bash
 npm install -g docsify-cli    # Asenna Docsify globaalisti
-docsify serve                 # Tarjoa palvelu localhost:3000:ssa
+docsify serve                 # Palvele osoitteessa localhost:3000
 ```
 
-### Projektikohtaiset rakentamiset
+### Projektikohtaiset build-prosessit
 
-Jokaisella projektihakemistolla voi olla oma rakennusprosessi:
-- Vue-projektit: `npm run build` luo tuotantopaketteja
-- Staattiset projektit: Ei rakennusvaihetta, palvele tiedostot suoraan
+Jokaisella projektihakemistolla voi olla oma build-prosessinsa:
+- Vue-projektit: `npm run build` tuottaa tuotantopaketteja
+- Staattiset projektit: Ei build-vaihetta, tiedostot tarjotaan suoraan
 
-## Pull request -ohjeet
+## Pull-pyyntöjen ohjeet
 
 ### Otsikkomuoto
 
-Käytä selkeitä, kuvaavia otsikoita, jotka kertovat muutoksen alueen:
+Käytä selkeitä, kuvaavia otsikoita, jotka kertovat muutosten alueen:
 - `[Quiz-app] Lisää uusi tietovisa oppitunnille X`
 - `[Lesson-3] Korjaa kirjoitusvirhe terrarium-projektissa`
 - `[Translation] Lisää espanjankielinen käännös oppitunnille 5`
 - `[Docs] Päivitä asennusohjeet`
 
-### Vaadittavat tarkistukset
+### Vaaditut tarkistukset
 
 Ennen PR:n lähettämistä:
 
 1. **Koodin laatu**:
-   - Suorita `npm run lint` vaikutuksille joutuvissa hakemistoissa
-   - Korjaa kaikki lint-virheet ja -varoitukset
+   - Suorita `npm run lint` asiaankuuluvissa projektihakemistoissa
+   - Korjaa kaikki lint-virheet ja varoitukset
 
-2. **Rakennuksen varmistus**:
-   - Suorita `npm run build` jos sovellettavissa
-   - Varmista ettei rakennusvirheitä ilmene
+2. **Buildin varmistus**:
+   - Suorita `npm run build`, jos sovellettavissa
+   - Varmista, ettei build-virheitä ilmene
 
 3. **Linkkien tarkistus**:
    - Testaa kaikki markdown-linkit
-   - Varmista kuvaviitteiden toimivuus
+   - Varmista, että kuvalinkit toimivat
 
-4. **Sisällön tarkastus**:
+4. **Sisällön tarkistus**:
    - Tarkista oikeinkirjoitus ja kielioppi
-   - Varmista koodiesimerkkien oikeellisuus ja opetuksellisuus
+   - Varmista, että koodiesimerkit ovat oikein ja opetuksellisia
    - Tarkista, että käännökset säilyttävät alkuperäisen merkityksen
 
-### Osallistumisvaatimukset
+### Panostusvaatimukset
 
-- Hyväksy Microsoft CLA (automaattinen tarkistus ensimmäisessä PR:ssa)
-- Noudata [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
-- Katso yksityiskohtaiset ohjeet [CONTRIBUTING.md](./CONTRIBUTING.md) tiedostosta
-- Viittaa issue-numeroihin PR-kuvauksessa, jos sovellettavissa
+- Hyväksy Microsoft CLA (automaattinen tarkistus ensimmäisessä PR:ssä)
+- Noudata [Microsoftin avoimen lähdekoodin käytösohjeita](https://opensource.microsoft.com/codeofconduct/)
+- Katso [CONTRIBUTING.md](./CONTRIBUTING.md) yksityiskohtia varten
+- Viittaa ongelmanumeroihin PR-kuvauksessa tarvittaessa
 
 ### Tarkastusprosessi
 
-- PR:t tarkastetaan ylläpitäjien ja yhteisön toimesta
-- Opetuksellinen selkeys on prioriteetti
-- Koodiesimerkkien tulee noudattaa nykyisiä parhaita käytäntöjä
-- Käännökset tarkastetaan tarkkuudesta ja kulttuurillisesta sopivuudesta
+- PR:t tarkistetaan ylläpitäjien ja yhteisön toimesta
+- Opetuksellisuus on etusijalla
+- Koodiesimerkkien tulee noudattaa nykyaikaisia parhaita käytäntöjä
+- Käännökset tarkistetaan tarkkuuden ja kulttuurisen sopivuuden mukaan
 
 ## Käännösjärjestelmä
 
 ### Automaattinen käännös
 
-- Käyttää GitHub Actionsia co-op-translator -työnkulun kanssa
+- Käyttää GitHub Actionsia co-op-translator-työnkululla
 - Kääntää automaattisesti yli 50 kielelle
-- Lähdetiedostot ovat pääkansioissa
-- Käännetyt tiedostot ovat `translations/{language-code}/` hakemistoissa
+- Lähdetiedostot pääkansioissa
+- Käännetyt tiedostot hakemistossa `translations/{language-code}/`
 
-### Käsin tehtävät käännösten parannukset
+### Käsin tehdyt parannukset käännöksiin
 
-1. Etsi tiedosto `translations/{language-code}/` hakemistosta
-2. Tee parannuksia säilyttäen rakenne
-3. Varmista, että koodiesimerkit toimivat edelleen
-4. Testaa mahdolliset lokalisoidut tietovisasisällöt
+1. Etsi tiedosto kansiosta `translations/{language-code}/`
+2. Tee parannukset säilyttäen rakenne
+3. Varmista, että koodiesimerkit säilyvät toimivina
+4. Testaa mahdolliset paikallistetut tietovisaosiot
 
-### Käännösten metatiedot
+### Käännöksen metatiedot
 
 Käännetyt tiedostot sisältävät metatietojen otsikon:
 ```markdown
@@ -289,120 +289,120 @@ CO_OP_TRANSLATOR_METADATA:
 -->
 ```
 
-## Virheenkorjaus ja vianetsintä
+## Virheiden etsintä ja vianmääritys
 
-### Yleisimmät ongelmat
+### Yleiset ongelmat
 
-**Quiz-sovellus ei käynnisty**:
-- Tarkista Node.js:n versio (v14+ suositeltava)
+**Quiz-app ei käynnisty**:
+- Tarkista Node.js-versio (v14+ suositeltu)
 - Poista `node_modules` ja `package-lock.json`, suorita `npm install` uudelleen
-- Tarkista, etteivät portit ole varattu (oletus: Vite käyttää porttia 5173)
+- Tarkista porttikonfliktit (oletuksena: Vite käyttää porttia 5173)
 
 **API-palvelin ei käynnisty**:
-- Varmista, että Node.js versio on vähintään (node >=10)
+- Varmista, että Node.js-versio täyttää minimivaatimuksen (node >=10)
 - Tarkista, onko portti jo käytössä
-- Varmista, että kaikki riippuvuudet on asennettu `npm install` komennolla
+- Varmista, että kaikki riippuvuudet on asennettu komennolla `npm install`
 
 **Selaimen laajennus ei lataudu**:
 - Varmista, että manifest.json on oikein muotoiltu
 - Tarkista selaimen konsolista virheet
-- Noudata selaimesta riippuvia asennusohjeita laajennukselle
+- Noudata selainkohtaisia laajennuksen asennusohjeita
 
-**Python chat-projektin ongelmat**:
+**Python-chat-projektin ongelmat**:
 - Varmista, että OpenAI-paketti on asennettu: `pip install openai`
-- Varmista, että GITHUB_TOKEN -ympäristömuuttuja on asetettu
+- Tarkista, että GITHUB_TOKEN-ympäristömuuttuja on asetettu
 - Tarkista GitHub Models -käyttöoikeudet
 
 **Docsify ei tarjoa dokumentaatiota**:
-- Asenna docsify-cli globaalisti: `npm install -g docsify-cli`
-- Suorita reposta juurihakemistosta
-- Varmista, että `docs/_sidebar.md` tiedosto on olemassa
+- Asenna docsify-cli globaaliin käyttöön: `npm install -g docsify-cli`
+- Suorita varaston juuressa
+- Varmista, että tiedosto `docs/_sidebar.md` on olemassa
 
 ### Kehitysympäristön vinkit
 
-- Käytä VS Codea Live Server -laajennuksella HTML-projekteissa
-- Asenna ESLint ja Prettier -laajennukset yhdenmukaiseen muotoiluun
-- Käytä selaimen DevToolsia JavaScriptin virheenkorjaukseen
-- Vue-projekteissa asenna Vue DevTools -selaimen laajennus
+- Käytä VS Codea ja Live Server -laajennusta HTML-projekteissa
+- Asenna ESLint- ja Prettier-laajennukset yhtenäisyyden vuoksi
+- Käytä selaimen DevTools-työkaluja JavaScriptin vianetsintään
+- Vue-projekteissa asenna Vue DevTools -selainlaajennus
 
-### Suorituskyvyn huomioita
+### Suorituskykyyn liittyvät seikat
 
-- Suuri määrä käännettyjä tiedostoja (yli 50 kieltä) tekee kokonaishakkereista suuria
-- Käytä kevyttä kloonausta, jos työskentelet vain sisällön kanssa: `git clone --depth 1`
-- Poissulje käännökset hauista, kun työskentelet englanninkielisen sisällön parissa
-- Rakennusprosessit voivat olla hitaita ensimmäisellä kerralla (npm install, Vite build)
+- Suuri määrä käännettyjä tiedostoja (50+ kieltä) tekee kopioinneista isoja
+- Käytä matalatasoista kloonausta, jos työskentelet vain sisällön parissa: `git clone --depth 1`
+- Sulje pois käännökset hauista, kun työskentelet englanninkielisen sisällön kanssa
+- Build-prosessit saattavat olla hitaita ensimmäisellä suorituskerralla (npm install, Vite build)
 
 ## Turvallisuusnäkökohdat
 
 ### Ympäristömuuttujat
 
-- API-avaimia ei tulisi koskaan sitoa arkistoon
-- Käytä `.env`-tiedostoja (jo sisällytetty `.gitignore`-tiedostoon)
-- Dokumentoi tarvittavat ympäristömuuttujat projektien READMEihin
+- API-avaimia ei koskaan saa sitoa varastoon
+- Käytä `.env`-tiedostoja (jo kuuluvat `.gitignoreen`)
+- Dokumentoi vaaditut ympäristömuuttujat projektin README-tiedostoissa
 
 ### Python-projektit
 
 - Käytä virtuaaliympäristöjä: `python -m venv venv`
-- Pidä riippuvuudet ajan tasalla
-- GitHub-tokeneilla tulisi olla vain tarvittavat vähimmäisoikeudet
+- Pidä riippuvuudet ajantasalla
+- GitHub-tokenien käyttöoikeuksien tulee olla vähimmäisvaatimusten mukaisia
 
-### GitHub Models -käyttö
+### GitHub Modelsin käyttö
 
-- Henkilökohtaiset käyttöoikeustokenit (PAT) vaaditaan GitHub Models -käyttöön
-- Tokeneita tulee säilyttää ympäristömuuttujina
-- Älä koskaan sido tokeneita tai tunnuksia arkistoon
+- Henkilökohtaiset käyttöoikeustokenit (PAT) vaaditaan GitHub Models -pääsyyn
+- Säilytä tokenit ympäristömuuttujissa
+- Älä koskaan tallenna tokeneita tai tunnuksia julkisesti
 
-## Lisätiedot
+## Lisähuomiot
 
 ### Kohdeyleisö
 
-- Täysin aloittelijat web-kehityksessä
+- Täysin aloittelijat verkkokehityksessä
 - Opiskelijat ja itseopiskelijat
 - Opettajat, jotka käyttävät opetussuunnitelmaa luokkahuoneissa
-- Sisältö on suunniteltu saavutettavaksi ja taitojen asteittaiseen kehittämiseen
+- Sisältö suunniteltu saavutettavaksi ja asteittain taitoja kehittäväksi
 
 ### Opetuksellinen filosofia
 
-- Projektipohjainen oppimisen lähestymistapa
-- Säännölliset tietovisat tiedon tarkistamiseksi
-- Käytännön koodausharjoitukset
-- Todellisen maailman sovellusesimerkit
-- Perusteiden painotus ennen kehyksiä
+- Projektipohjainen oppiminen
+- Säännölliset tiedon tarkistukset (kyselyt)
+- Käytännön koodiharjoitukset
+- Todellisten sovellusesimerkkien hyödyntäminen
+- Painotus perusasioissa ennen frameworkkeja
 
-### Arkiston ylläpito
+### Varaston ylläpito
 
-- Aktiivinen oppijoiden ja osallistujien yhteisö
-- Säännölliset päivitykset riippuvuuksiin ja sisältöön
-- Ongelmatilanteet ja keskustelut ylläpitäjien valvonnassa
-- Käännöspäivitykset automatisoitu GitHub Actionsin avulla
+- Aktiivinen oppijoiden ja kontribuenttien yhteisö
+- Riippuvuuksien ja sisällön säännölliset päivitykset
+- Ongelmien ja keskustelujen seuraaminen ylläpitäjien toimesta
+- Käännösten päivitys automatisoitu GitHub Actionsilla
 
 ### Aiheeseen liittyvät resurssit
 
-- [Microsoft Learn -moduulit](https://docs.microsoft.com/learn/)
+- [Microsoft Learnin moduulit](https://docs.microsoft.com/learn/)
 - [Student Hubin resurssit](https://docs.microsoft.com/learn/student-hub/)
-- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) suositellaan oppijoille
-- Lisäkursseja: Generative AI, Data Science, ML, IoT -opetussuunnitelmia saatavilla
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) suositeltu oppijoille
+- Lisäkurssit: Generatiivinen AI, Data Science, ML, IoT -opetussuunnitelmat saatavilla
 
-### Työskentely yksittäisten projektien kanssa
+### Työskentely tietyissä projekteissa
 
 Yksityiskohtaiset ohjeet yksittäisistä projekteista löytyvät README-tiedostoista:
-- `quiz-app/README.md` - Vue 3 tietovisasovellus
-- `7-bank-project/README.md` - Pankkisovellus autentikoinnilla
+- `quiz-app/README.md` - Vue 3 tietovisaohjelma
+- `7-bank-project/README.md` - Pankkisovellus todennuksella
 - `5-browser-extension/README.md` - Selaimen laajennuksen kehitys
 - `6-space-game/README.md` - Canvas-pohjainen peli
-- `9-chat-project/README.md` - Tekoälyllä toimivan chat-avustajan projekti
+- `9-chat-project/README.md` - AI-chat-avustajaprojekti
 
-### Monorepo-rakenne
+### Monorepon rakenne
 
-Vaikka tämä ei ole perinteinen monorepo, tämä arkisto sisältää useita itsenäisiä projekteja:
-- Jokainen oppitunti on itsenäinen
+Vaikka tämä ei ole perinteinen monorepo, varastossa on useita itsenäisiä projekteja:
+- Jokainen oppitunti on itsenäinen kokonaisuus
 - Projektit eivät jaa riippuvuuksia
 - Työskentele yksittäisten projektien parissa vaikuttamatta muihin
-- Kloonaa koko arkisto saadaksesi koko opetussuunnitelman kokemuksen
+- Kloonaa koko varasto saadaksesi koko opetussuunnitelmakokemuksen
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Vastuuvapauslauseke**:
-Tämä asiakirja on käännetty käyttäen tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, on hyvä huomioida, että automaattiset käännökset saattavat sisältää virheitä tai epätarkkuuksia. Alkuperäistä asiakirjaa sen alkuperäiskielellä tulee pitää auktoritatiivisena lähteenä. Tärkeissä asioissa suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa mistään väärinymmärryksistä tai virhetulkinnoista, jotka johtuvat tämän käännöksen käytöstä.
+**Vastuuvapauslauseke**:  
+Tämä asiakirja on käännetty käyttämällä tekoälypohjaista käännöspalvelua [Co-op Translator](https://github.com/Azure/co-op-translator). Vaikka pyrimme tarkkuuteen, otathan huomioon, että automaattiset käännökset saattavat sisältää virheitä tai epätarkkuuksia. Alkuperäinen asiakirja sen alkuperäiskielisenä versiona tulee pitää auktoritatiivisena lähteenä. Tärkeissä tiedoissa suositellaan ammattimaista ihmiskäännöstä. Emme ole vastuussa tämän käännöksen käytöstä johtuvista väärinymmärryksistä tai tulkinnoista.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

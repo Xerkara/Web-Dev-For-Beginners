@@ -1,12 +1,12 @@
 # Introduction to Programming Languages and Modern Developer Tools
  
-Hey deh, future developer! 👋 Make I yan you wetin dey always give me goosebumps every single day? You dey ready to sabi say programming no be only about computers – e be like say you get actual superpowers to bring your wildest ideas come life!
+Hey deh, future developer! 👋 Make I tell you sometin wey dey give me chills every single day? You dey go discover say programming no be only computer thing – e be like say you get actual superpowers to bring your wildest ideas come life!
 
-You sabi dat moment wen you dey use your favorite app and e just dey work perfectly? Wen you tap one button and something magical happen wey go make you talk "wow, how dem take DO am?" Well, na person just like you – fit be wey dey sit for dem favorite coffee shop for 2 AM with their third espresso – na im write the code wey create that magic. And make I yan you wetin go scatter your brain: by the end of this lesson, you no go only understand how dem take do am, you go dey excited to try am yourself!
+You sabi dat moment wen you dey use your favourite app and everytin just click perfectly? Wen you tap button and sometin magical just happen wey make you talk "wow, how dem DO dat?" Well, one person like you – probably dey their favourite coffee shop for 2 AM dey sip their third espresso – na im write dat code wey create dat magic. And here na wetin go make your mind blow: by the end of dis lesson, you no go only sabi how dem do am, but you go dey itching to try am yourself!
 
-Look, I understand am if programming fit dey scare you now. When I first start, I really believe say you need to be some kind math genius or say you don dey code since you be small pikin. But wetin change my mind completely be say: programming na just like learning how to talk for new language. You go start with "hello" and "thank you," then you go move go ordering coffee, and before you know am, you dey talk serious tori! But for this case, na computer you dey talk to, and honestly? Dem be the most patient padi wey you fit get – dem no dey judge your mistake and dem dey ready to try again anytime!
+Look, I totally understand if programming dey intimidate you now. Wen I first start, I really think say you need to be some kind math genius or dey code since you be five years old. But wetin change how I see am be say: programming na just like learning how to talk for new language. You start with "hello" and "thank you," then you go on order coffee, and before you know am, you dey do deep philosophical talks! But for dis case, you dey talk to computers, and honestly? Dem be the most patient people wey you fit ever talk to – dem no dey judge your mistakes and dem always dey excited to try again!
 
-Today, we go explore the correct tools wey dey make modern web development no be only possible, but e also dey very addictive. I dey talk about the same editors, browsers, and workflows wey developers for Netflix, Spotify, and your favorite indie app studio dey use every single day. And here na the part wey go make you dance with joy: most of these professional-grade, industry-standard tools na totally free!
+Today, we go explore the amazing tools wey dey make modern web development no be only possible, but e dey seriously addictive. I dey talk about the same editors, browsers, and workflows wey developers wey dey Netflix, Spotify, and your favourite indie app studio dey use everyday. And here na the part wey go make you do happy dance: most of these professional-grade, industry-standard tools na free!
 
 ![Intro Programming](../../../../translated_images/pcm/webdev101-programming.d6e3f98e61ac4bff.webp)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
@@ -27,60 +27,60 @@ journey
       Tool Exploration: 5: You
       Community Connection: 5: You
 ```
-## Make We See Wetin You Sabi Before!
+## Make We See Wetin You Don Know Already!
 
-Before we jump enter di fun matter dem, I dey curious – wetin you don sabi about dis programming world? And make you hear me, if you dey look these questions dey think "I no understand anything about any of dis," no wahala at all, e perfect! That one mean say you dey exactly the correct place. Make you think of dis quiz like exercise before workout – we dey just warm up brain muscles!
+Before we jump into the fun stuff, I dey curious – wetin you don sabi about this programming world? And listen, if you dey look these questions dey think "I no sabi anything for this," no wahala, e perfect! E mean say you dey exactly the right place. Think am like you dey stretch before workout – we just dey warm up brain muscles!
 
-[Take the pre-lesson quiz](https://forms.office.com/r/dru4TE0U9n?origin=lprLink)
+[Take the pre-lesson quiz](https://ff-quizzes.netlify.app/web/)
 
 
-## The Adventure We Dey Go Together
+## The Adventure We Wan Go Together
 
-Okay, I dey really happy for wetin we go explore today! Seriously, I wish say I fit see your face wen some of these things go click for your head. Here na the amazing journey we go take together:
+Okay, I really dey excited about wetin we go explore today! Seriously, I wish I fit see your face wen some of these concepts just click. Here na the incredible journey we dey go together:
 
-- **Wetin programming really be (and why e be the coolest thing ever!)** – We go learn how code na the invisible magic wey dey power everything for your side, from that alarm wey sabi say na Monday morning be this, to the algorithm wey beta arrange your Netflix recommendations
-- **Programming languages and their different personalities** – Imagine say you dey waka enter party and everybody get different superpowers and ways to solve problem. That na how programming language world dey be, and you go enjoy to meet dem!
-- **The basic building blocks wey make digital magic happen** – Think am like the best creative LEGO set. Once you sabi how these parts join together, you go realize say you fit build anything way your imagination talk
-- **Professional tools wey go make you feel like person wey get wizard wand** – I no dey exaggerate here – these tools go really make you feel say you get superpowers, and the best part? Na the same ones pros dey use!
+- **Wetin programming really be (and why e be the coolest tin ever!)** – We go discover how code be like invisible magic wey dey power everything wey dey around you, from that alarm wey sabi say na Monday morning to algorithm wey dey choose your Netflix suggestions perfectly
+- **Programming languages and their amazing personalities** – Imagine say you enter party and every person get different superpowers and ways to solve problems. Na so programming language world be, and you go like meet dem!
+- **The fundamental building blocks wey dey make digital magic happen** – Think of dem as ultimate creative LEGO set. Once you sabi how these pieces join together, you go realize say you fit build anything wey your imagination fit dream
+- **Professional tools wey go make you feel like say person give you wizard wand** – I no dey joke here – these tools go really make you feel say you get superpowers, and the best part? Na the same ones pros dey use!
 
-> 💡 **Here na the mata**: No even try memorize everything today! Now now, I just want make you see the excitement about wetin fit happen. The small small details go sure naturally as we dey practice together – na so real learning dey happen!
+> 💡 **Make you sabi**: No even try memorize everything today! Right now, I just want make you feel that spark of excitement about wetin fit happen. The details go stick naturally as we practice together – na so real learning dey happen!
 
-> You fit do this lesson for [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
+> You fit take this lesson on [Microsoft Learn](https://learn.microsoft.com/en-us/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
 
-## So Wetin Exactly *Be* Programming?
+## So Wetin Programming *Really Be*?
 
-Alright, make we tackle the big question: wetin be programming, really?
+Alright, make we tackle this big-big question: wetin programming be, really?
 
-I go tell you story wey totally change how I dey see this matter. Last week, I dey try explain to my mama how to use our new smart TV remote. I catch myself dey talk like "Press the red button, but no be the big red button, na the small red button for left... no, your other left... okay, hold am for two seconds, no be one, no be three..." E sound familiar? 😅
+I go give you one story wey change how I dey think about am. Last week, I dey try explain to my mama how to use our new smart TV remote. I catch myself dey talk things like "Press the red button, but no be the big red button, the small red button for left... no, your other left... okay, now hold am for two seconds, no be one, no be three..." You don see am before? 😅
 
-That na programming! Na art of giving very detailed, step by step instructions to something wey powerful but need make you talk am well well. Except say no be to your mama you dey explain (wey fit ask "which red button?!"), na computer you dey talk to (wey just dey do exactly wetin you talk, even if wetin you talk no be wetin you mean).
+Na programming be that! Na the art of giving very detailed, step-by-step instructions to sometin wey powerful but need everything dey very clear. But instead of talk to your mama (wey fit ask "which red button?"), you dey explain to computer (wey dey do exactly wetin you talk, even if wetin you talk no be wetin you mean).
 
-Make I talk wetin scatter my mind when I first learn this: computers be actually pretty simple for inside. Dem only sabi two things – 1 and 0, wey be basically "yes" and "no" or "on" and "off." Na im e be! But the magic come be say – we no need talk 1 and 0 like say we dey The Matrix. Na so programming languages enter the matter. Dem be like say you get the best translator wey dey take your normal human brain talk and turn am to computer language.
+Wetin blow my mind wen I first learn this na say: computers really simple for their core. Dem only sabi two things – 1 and 0, wey mean "yes" and "no" or "on" and "off." Na im! But the magic part be say – we no need talk with 1s and 0s like say we dey The Matrix. Na programming languages dey come rescue us. Dem be like best translator wey fit take your normal human thoughts turn am to computer language.
 
-And the thing wey still dey give me goosebumps every morning when I wake up be say: everything digital for your life start from person wey just like you, fit dey with pajamas, sip coffee, dey type code for laptop. That Instagram filter wey make you fine? Somebody code am. The recommendation wey bring your new favorite song? Developer build that algorithm. The app wey help you divide dinner bills with your padi dem? Ehn, person talk say "this one dey bother, I fit fix am" and then... dem fix am!
+And na wetin still dey give me chills every morning wen I wake up be this: literally *everything* wey digital for your life start from person like you, probably dey their pajamas with cup of coffee, dey type code for laptop. That Instagram filter wey make you fine? Somebody code am. The recommendation wey lead you to your new favourite song? Developer build that algorithm. The app wey dey help you divide dinner money with friends? Yes, somebody think say "this thing annoying, I fit fix am" and dem fix am!
 
-When you learn programming, you no dey just gain new skill – you join one amazing community of people wey dey solve problem. Dem dey spend dia days dey think, "Wetin if I fit build something wey go make person day better small?" Honestly, e get anything wey sweet pass that?
+When you learn to program, you no just dey pick new skill – you dey join incredible community of problem-solvers wey dey spend their days dey think, "What if I fit build sometin wey fit make somebody day better small?" Honestly, anything pass that cool?
 
-✅ **Fun Fact Hunt**: Here na some beta tins to check when you get free time – who you think na the world’s first computer programmer? I go give you hint: e no fit be who you expect! The story behind this person na fascinating one and e show say programming don always be about creative problem-solving and thinking outside the box.
+✅ **Fun Fact Hunt**: Here na sometin cool to check when you get free time – who you think be world first computer programmer? I go give you hint: no go be who you dey expect! The story behind that person dey fascinating and e show say programming na always about creative problem-solving and thinking outside the box.
 
 ### 🧠 **Check-in Time: How You Dey Feel?**
 
-**Take small time to think:**
-- E make sense to you now say "giving instructions to computers" mean?
-- You fit think of one daily work wey you fit automate with programming?
-- Wetin questions dey your mind about this whole programming matter?
+**Take small time reflect:**
+- E make sense to you to "give instructions to computers" now?
+- Fit you think of daily task wey you want automate with programming?
+- Wetin questions dey bubble for your mind about this whole programming tin?
 
-> **Remember**: E normal if some of the ideas dey confuse you now. Learning programming na like learning new language – e take time make your brain build the pathways. You dey do well!
+> **Remember**: E normal if some concepts go still dey confuse you now. Learning programming na like learning new language – e go take time make your brain build neural pathways. You dey do well!
 
-## Programming Languages Be Like Different Flavors Of Magic
+## Programming Languages Dem Be Like Different Flavors of Magic
 
-Okay, this one go sound funny, but stay with me – programming languages dey like different types of music. Think am: you get jazz wey smooth and free style, rock wey powerful and straight forward, classical wey sophisticated and arranged well, plus hip-hop wey creative and expressive. Each style get dia own vibe, dia own fans wey full passion, and each one perfect for different mood and occasion.
+Okay, this one go sound funny but hold on me – programming languages na like different music styles. Think am: you get jazz wey smooth and improvised, rock wey powerful and straightforward, classical wey elegant and structured, and hip-hop wey creative and expressive. Each style get its own vibe, community of fans, and each one perfect for different moods and occasions.
 
-Programming languages dey work same way! You no go use the same language to build fun mobile game wey you go use to process plenty climate data, just like you no go play death metal for yoga class (well, most yoga classes sef! 😄).
+Programming languages work same way! You no go use same language build fun mobile game wey you go use chop big climate data, just like you no go play death metal for yoga class (well, most yoga classes anyway! 😄).
 
-But wetin dey scatter my mind every time I think about am be say: these languages be like say you get the patientst, smartest interpreter for di world wey sidon gidigba beside you. You fit express your ideas naturally as human, and dem go do all the waka to turn am into 1s and 0s wey computer sabi talk. E be like say you get padi wey fluent for both "human creativity" and "computer logic" – and dem no dey tire, no dey need coffee break, and dem no ever dey judge you if you ask same question two times!
+But wetin always blow my mind every time I think am be say: these languages be like the most patient, clever interpreter in the world dey seat beside you. You fit express your ideas in way wey natural to your human brain, and dem go do all the complex work to translate am to 1s and 0s wey computer dey speak. E be like you get friend wey sabi both "human creativity" and "computer logic" perfectly – and dem no dey tire, no need coffee break, and no go judge you if you ask same question twice!
 
-### Popular Programming Languages and Their Uses
+### Popular Programming Languages and How Dem Dey Use Dem
 
 ```mermaid
 mindmap
@@ -121,33 +121,33 @@ mindmap
         Cloud Services
         Scalable Backend
 ```
-| Language | Best For | Why It's Popular |
+| Language | Best For | Why E Popular |
 |----------|----------|------------------|
-| **JavaScript** | Web development, user interfaces | E dey run for browsers and e dey power interactive websites |
-| **Python** | Data science, automation, AI | Easy to read and sabi, powerful libraries |
-| **Java** | Enterprise applications, Android apps | E no depend on platform, e strong for big big systems |
-| **C#** | Windows applications, game development | E get strong Microsoft ecosystem support |
-| **Go** | Cloud services, backend systems | Fast, simple, e design for modern computing |
+| **JavaScript** | Web development, user interfaces | E dey run for browsers and power interactive websites |
+| **Python** | Data science, automation, AI | Easy to read and learn, powerful libraries |
+| **Java** | Enterprise applications, Android apps | Platform-independent, strong for big systems |
+| **C#** | Windows applications, game development | Strong Microsoft ecosystem support |
+| **Go** | Cloud services, backend systems | Fast, simple, designed for modern computing |
 
 ### High-Level vs. Low-Level Languages
 
-Okay, this one na the concept wey scatter my brain when I first start learning, so I go tell you analogy wey make am clear for me – I hope e help you also!
+Okay, dis one na wetin break my brain wen I first dey learn, so I go share analogy wey make am clear to me – hope e go help you too!
 
-Imagine say you dey visit country wey you no sabi language, and you really need find nearest toilet (everybodi don waka this road, abi? 😅):
+Imagine say you dey visit country wey you no sabi language, and you need find bathroom quick (na all of us don experience am, right? 😅):
 
-- **Low-level programming** na like say you sabi the local dialect well well, so you fit yan the old woman wey dey sell fruit corner this corner wit cultural things, local slang, and inside jokes wey only person wey grow there go understand. E sweet and very efficient... if you fluent! But e go just stress you if na only restroom you dey find.
+- **Low-level programming** na like you learn local dialect well well so you fit talk with grandmother wey dey sell fruit for corner with correct cultural talk, slang and insider jokes wey only person wey grow for there go understand. E impressive and very efficient... if you sabi am well! But e fit overwhelm you if na just bathroom you dey find.
 
-- **High-level programming** na like say you get beta local padi wey understand you well. You fit talk "I really need to find restroom" for plain English, and e go translate everything and carry you go the toilet in way wey your non-local brain go understand.
+- **High-level programming** na like you get correct local friend wey understand you well. You fit talk "I need restroom now" for plain English, and e go translate all the cultural stuff give you directions wey your non-local brain go understand well.
 
-For programming:
-- **Low-level languages** (like Assembly or C) dey allow you talk detailed talk with computer actual hardware, but you must reason like machine, which be... ehn, make we just say e big mental adjustment!
-- **High-level languages** (like JavaScript, Python, or C#) dey let you think like human while dem dey do all the machine talk for back scenes. Plus, dem get communities full of people wey remember when dem be new and dey really ready to help!
+For programming term:
+- **Low-level languages** (like Assembly or C) dey let you talk detailed talk with computer hardware, but you go need think like machine, which be... big brain change!
+- **High-level languages** (like JavaScript, Python, or C#) dey let you think like human while dem do machine talk for back. Plus, dem get friendly communities full of people wey remember how e be to be new and dem really want help!
 
-Guess which one I go tell you make you start with? 😉 High-level languages na like training wheels wey you no even want remove because dem just dey make am better to learn!
+Guess which one I go tell you make you start with? 😉 High-level languages na like training wheels wey you no even want remove because dem make learning enjoyable!
 
 ```mermaid
 flowchart TB
-    A["👤 Human Thought:<br/>'I wan calculate Fibonacci numbers'"] --> B{Choose Language Level}
+    A["👤 Human Tink:<br/>'I wan calculate Fibonacci numbers'"] --> B{Choose Language Level}
     
     B -->|High-Level| C["🌟 JavaScript/Python<br/>Easy to read and write"]
     B -->|Low-Level| D["⚙️ Assembly/C<br/>Direct hardware control"]
@@ -155,7 +155,7 @@ flowchart TB
     C --> E["📝 Write: fibonacci(10)"]
     D --> F["📝 Write: mov r0,#00<br/>sub r0,r0,#01"]
     
-    E --> G["🤖 Computer Understanding:<br/>Translator dey handle complexity"]
+    E --> G["🤖 Computer Understand:<br/>Translator dey handle wahala"]
     F --> G
     
     G --> H["💻 Same Result:<br/>0, 1, 1, 2, 3, 5, 8, 13..."]
@@ -166,16 +166,16 @@ flowchart TB
 ```
 ### Make I Show You Why High-Level Languages Dey More Friendly
 
-Alright, I go show you something wey go show why I fall in love with high-level languages, but first – make you promise me one thing. When you see that first code example, no fear! E suppose look like say e heavy. Na exactly wetin I dey yan be that!
+Alright, I go show you something wey go prove why I love high-level languages, but first – I need you promise me one thing. Wen you see that first code example, no panic! E dey supposed look intimidating. Na so e suppose be!
 
-We go look the same task wey write for two complete different styles. Both go create wetin dem dey call Fibonacci sequence – na beautiful mathematical pattern wey every number na the sum of the two number before am: 0, 1, 1, 2, 3, 5, 8, 13... (Fun fact: you go find this pattern everywhere for nature – like sunflower seed spirals, pine cone shapes, even galaxy way dem form!)
+We go look the same task write for two different styles. Both go create wetin dem call Fibonacci sequence – na beautiful math pattern wey every number na sum of two before am: 0, 1, 1, 2, 3, 5, 8, 13... (Fun fact: you go find this pattern everywhere for nature – sunflower seed spirals, pinecone patterns, even galaxies shape!)
 
-Ready to see di difference? Make we go!
+Ready to see the difference? Make we go!
 
 **High-level language (JavaScript) – Human-friendly:**
 
 ```javascript
-// Step 1: Basic Fibonacci setup na so we go start Fibonacci setup
+// Step 1: Basic Fibonacci setup
 const fibonacciCount = 10;
 let current = 0;
 let next = 1;
@@ -183,32 +183,32 @@ let next = 1;
 console.log('Fibonacci sequence:');
 ```
 
-**Dis code dey do this:**
-- **Declare** constant wey go talk how many Fibonacci number we go generate
-- **Initialize** two variables to track current and next number for sequence
+**Here na wetin dis code dey do:**
+- **Declare** constant to show how many Fibonacci numbers we wan generate
+- **Initialize** two variables to track current and next numbers for sequence
 - **Set up** starting values (0 and 1) wey define Fibonacci pattern
-- **Show** one header message to identify our output
+- **Display** header message to identify our output
 
 ```javascript
-// Step 2: Make di sequence wit loop
+// Step 2: Make de sequence wit one loop
 for (let i = 0; i < fibonacciCount; i++) {
   console.log(`Position ${i + 1}: ${current}`);
   
-  // Calculate di next number for di sequence
+  // Find de next number for inside de sequence
   const sum = current + next;
   current = next;
   next = sum;
 }
 ```
 
-**Make we break down wetin dey happen here:**
-- **Loop** through every position for our sequence using `for` loop
-- **Show** each number with im position using template literal formatting
+**Break down wetin dey happen here:**
+- **Loop** through each position with `for` loop
+- **Display** each number with position using template literals
 - **Calculate** next Fibonacci number by adding current and next values
-- **Update** our tracking variables to move to next number
+- **Update** tracking variables to move to next iteration
 
 ```javascript
-// Step 3: How we dey do am wit new style
+// Step 3: Modern functional approach
 const generateFibonacci = (count) => {
   const sequence = [0, 1];
   
@@ -219,16 +219,16 @@ const generateFibonacci = (count) => {
   return sequence;
 };
 
-// How you go take use am example
+// Usage example
 const fibSequence = generateFibonacci(10);
 console.log(fibSequence);
 ```
 
-**For this one, we:**
-- **Create** reusable function using modern arrow function syntax
-- **Build** array to store complete sequence instead of showing one by one
-- **Use** array indexing to calculate each new number from previous ones
-- **Return** complete sequence to use anyhow for other parts of program
+**For above, we:**
+- **Create** reusable function with modern arrow function style
+- **Build** array to hold whole sequence instead of showing one by one
+- **Use** array index to calculate each new number from old values
+- **Return** whole sequence for flexible use elsewhere in program
 
 **Low-level language (ARM Assembly) – Computer-friendly:**
 
@@ -257,77 +257,77 @@ back add r0,r1
  end
 ```
 
-Notice how JavaScript version read like English instructions, but Assembly version get secret commands wey control computer processor directly. Both do the exact same work, but the high-level language easy for humans to understand, write, and maintain.
+You fit see say JavaScript version read almost like English instructions, while Assembly version get cryptic commands wey directly control computer processor. Both do same task, but high-level language easier for humans to understand, write, and maintain.
 
-**Key difference wey you go notice:**
-- **Readability**: JavaScript dey use names like `fibonacciCount` wey clear, but Assembly dey use codes like `r0`, `r1`
+**Key differences wey you fit notice:**
+- **Readability**: JavaScript dey use descriptive names like `fibonacciCount` but Assembly dey use cryptic labels like `r0`, `r1`
 - **Comments**: High-level languages dey encourage explanatory comments wey dey make code self-documenting
 - **Structure**: JavaScript logical flow dey match how humans dey think about problems step-by-step
 - **Maintenance**: Updating the JavaScript version for different requirements easy and clear
 
-✅ **About the Fibonacci sequence**: Dis absolutely beautiful number pattern (where each number equals di sum of di two before am: 0, 1, 1, 2, 3, 5, 8...) dey show up literally *everywhere* for nature! You go find am for sunflower spirals, pinecone patterns, di way nautilus shells dey curve, and even for how tree branches grow. E dey pretty mind-blowing how math and code fit help us understand and recreate di patterns wey nature dey use to create beauty!
+✅ **About the Fibonacci sequence**: Dis absolutely beautiful number pattern (wey every number na di sum of di two wey dey front am: 0, 1, 1, 2, 3, 5, 8...) dey show everywhere for nature! You go find am for sunflower spirals, pinecone patterns, how nautilus shells con curve, and even how tree branches dey grow. E dey really mind-blowing how math and code fit help us understand and recreate di patterns wey nature dey use to create beauty!
 
 
-## The Building Blocks That Make the Magic Happen
+## The Building Blocks Weh Make Di Magic Happen
 
-Alright, now wey you don see how programming languages dey act, make we break down di fundamental pieces wey dey make up literally every program wey dem don write. Think of these as di essential ingredients for your favorite recipe – once you sabi wetin each one dey do, you go fit read and write code for almost any language!
+Alright, now wey you don see how programming languages dey work for action, make we break down di basic parts wey dey make up every program wey dem ever write. Think of dem like di essential ingredients for your favorite recipe – once you sabi wetin each one dey do, you go fit read and write code for almost any language!
 
-Dis na like learning di grammar of programming. Remember for school when you learn about nouns, verbs, and how to put sentences together? Programming get him own version of grammar, and honestly, e dey way more logical and forgiving pass English grammar! 😄
+Dis one be like learning di grammar of programming. You remember for school when you learn about nouns, verbs, and how to put sentences together? Programming get im own grammar, and honestly, e dey more logical and easy pass English grammar! 😄
 
-### Statements: The Step-by-Step Instructions
+### Statements: Di Step-by-Step Instructions
 
-Make we start with **statements** – dem be like individual sentences wey you dey yarn with your computer. Each statement dey tell di computer to do one specific thing, just like giving directions: "Turn left here," "Stop for di red light," "Park for that spot."
+Make we start with **statements** – dem be like individual sentences wey you dey use talk to your computer. Each statement dey tell the computer to do one particular thing, like to give directions: "Turn left here," "Stop for di red light," "Park for that spot."
 
-Wetin I like about statements na how dem dey readable most times. Check dis out:
+Wetin I like about statements na how readable dem dey be normally. Check this one out:
 
 ```javascript
-// Simple talk wey dey do one kain work only
+// Simple talk dem wey dey do one tin only
 const userName = "Alex";                    
 console.log("Hello, world!");              
 const sum = 5 + 3;                         
 ```
 
-**Dis na wetin dis code dey do:**
+**Na wetin dis code dey do:**
 - **Declare** one constant variable to store user name
-- **Display** greeting message for di console output
-- **Calculate** and store di result of one mathematical operation
+- **Display** greeting message for console output
+- **Calculate** and store result of one mathematical operation
 
 ```javascript
-// Di talk dem wey dey interact wit web pages
+// Stetments wey dey interact wit web pages
 document.title = "My Awesome Website";      
 document.body.style.backgroundColor = "lightblue";
 ```
 
-**Step by step, dis na wetin dey happen:**
-- **Modify** di webpage title wey dey appear for di browser tab
-- **Change** di background color of di whole page body
+**Step by step, na wetin dey happen:**
+- **Modify** webpage title wey dey appear for browser tab
+- **Change** background color for di whole page body
 
-### Variables: Your Program's Memory System
+### Variables: Your Program Memory System
 
-Okay, **variables** be one of my absolute favorite concepts to teach because dem dey just like things you dey use everyday!
+Okay, **variables** na one of my favorite concepts to teach because dem dey so much like tins wey you dey use every day!
 
-Think about your phone contact list for one second. You no dey memorize everybody phone numbers – you dey save "Mom," "Best Friend," or "Pizza Place Wey Dey Deliver Till 2 AM" and your phone dey remember di actual numbers. Variables dey work like dat! Dem be like labeled containers where your program fit store info and retrieve am later with one name wey make sense.
+Think about your phone contact list small. You no dey memorize everybody phone number – you save "Mom," "Best Friend," or "Pizza Place Weh De Deliver Till 2 AM" and your phone go remember di actual numbers. Variables dey work exactly like dat! Dem be like containers with label wey your program fit put information and collect am later with name wey dey make sense.
 
-Wetin make am really cool: variables fit change as your program dey run (na why dem call am "variable" – you see wetin dem do there?). Just like how you fit update dat pizza place contact if you find better one, variables fit dey updated as your program learn new info or as situation change!
+Wetin dey really cool be say: variables fit change as your program dey run (dat na why dem call am "variable" – you see wetin dem do?). Just like how you fit update pizza place contact when you find better one, variables fit update as your program learn new tins or as things change!
 
-Make I show you how simple e fit be:
+Make I show you how simple and beautiful dis one fit be:
 
 ```javascript
-// Step 1: Di creating basic variables
+// Step 1: Dem dey create basic variables
 const siteName = "Weather Dashboard";        
 let currentWeather = "sunny";               
 let temperature = 75;                       
 let isRaining = false;                      
 ```
 
-**Make you understand dis concepts:**
-- **Store** values wey no go change for `const` variables (like site name)
-- **Use** `let` for values wey fit change during your program
+**Understanding these concepts:**
+- **Store** unchanging values for `const` variables (like site name)
+- **Use** `let` for values wey fit change for your program
 - **Assign** different data types: strings (text), numbers, and booleans (true/false)
 - **Choose** descriptive names wey explain wetin each variable get inside
 
 ```javascript
-// Step 2: Dey wok wit objects to group tings wey relate togeda
+// Step 2: Wok wit objek dem to group di related data
 const weatherData = {                       
   location: "San Francisco",
   humidity: 65,
@@ -335,13 +335,13 @@ const weatherData = {
 };
 ```
 
-**For di above, we:**
-- **Create** one object to group related weather information
-- **Organize** plenty pieces of data under one variable name
-- **Use** key-value pairs to label each info clearly
+**For di code up top, we:**
+- **Created** one object to group related weather information together
+- **Organized** many pieces of data under one variable name
+- **Used** key-value pairs to label each piece of information well well
 
 ```javascript
-// Step 3: Di way wey you go take use an update di variables
+// Step 3: Di way wey you go use and update variables
 console.log(`${siteName}: Today is ${currentWeather} and ${temperature}°F`);
 console.log(`Wind speed: ${weatherData.windSpeed} mph`);
 
@@ -351,31 +351,31 @@ temperature = 68;
 ```
 
 **Make we understand each part:**
-- **Display** info with template literals using `${}` syntax
-- **Access** object properties with dot notation (`weatherData.windSpeed`)
+- **Display** info using template literals wey get `${}` syntax
+- **Access** object properties using dot notation (`weatherData.windSpeed`)
 - **Update** variables wey dem declare with `let` to show changing conditions
-- **Combine** multiple variables to create meaningful messages
+- **Combine** many variables to create meaningful messages
 
 ```javascript
-// Step 4: Modern destructuring make di code clean well well
+// Step 4: Modern destructuring to make code beta and clean
 const { location, humidity } = weatherData; 
 console.log(`${location} humidity: ${humidity}%`);
 ```
 
 **Wetin you need sabi:**
-- **Extract** specific properties from objects with destructuring assignment
+- **Extract** specific properties from objects using destructuring assignment
 - **Create** new variables automatically wey get same names as object keys
 - **Simplify** code by avoiding repetitive dot notation
 
-### Control Flow: Teaching Your Program to Think
+### Control Flow: Teach Your Program How To Think
 
-Okay, na here programming go dey mind-blowing! **Control flow** na teaching your program how to make smart decisions, just like how you dey do every day without even think.
+Okay, dis na where programming go really blow your mind! **Control flow** na to teach your program how to make smart decisions, just like how you dey do every day without even dey think well.
 
-Imagine dis: this morning you for do something like "If e dey rain, I go carry umbrella. If e cold, I go wear jacket. If I late, I go skip breakfast and grab coffee on di way." Your brain naturally dey follow dis if-then logic many times every day!
+Imagine dis: dis morning you probably do something like "If e dey rain, I go carry umbrella. If e cold, I go wear jacket. If I late, I go skip breakfast and grab coffee sef." Your brain dey naturally follow this if-then logic plenty times every day!
 
-Dis na wetin dey make programs dey feel intelligent and alive, no be only to follow boring, predictable script. Dem fit look situation, reason wetin dey happen, and respond well well. E be like giving your program brain wey fit adapt and make choices!
+Na dis one dey make programs look smart and alive, no be like say dem dey just follow boring, predictable script. Dem fit actually look situation, check wetin dey happen, and respond well. E just be like you give your program brain wey fit adapt and choose!
 
-You want see how dis work nicely? Make I show you:
+You wan see how beautiful dis work? Make I show you:
 
 ```javascript
 // Step 1: Simple if-else ting dem
@@ -389,14 +389,14 @@ if (userAge >= 18) {
 }
 ```
 
-**Dis na wetin dis code dey do:**
-- **Check** if user age reach di voting requirement
-- **Execute** different code blocks based on condition result
-- **Calculate** and display how long before dem fit vote if dem still under 18
-- **Provide** specific, helpful feedback for each case
+**Na wetin dis code dey do:**
+- **Check** if user age meet voting age
+- **Execute** different code blocks based on wetin condition show
+- **Calculate** and show how long e go be before person fit vote if e under 18
+- **Give** specific and helpful feedback for each situation
 
 ```javascript
-// Step 2: Plenty conditions wit logical operators
+// Step 2: Plenti condition wit logical operators
 const userAge = 17;
 const hasPermission = true;
 
@@ -409,11 +409,11 @@ if (userAge >= 18 && hasPermission) {
 }
 ```
 
-**Break down wetin dey happen:**
-- **Combine** multiple conditions with `&&` (and) operator
-- **Create** hierarchy of conditions with `else if` for many scenarios
+**Break down wetin happen here:**
+- **Combine** many conditions with `&&` (and) operator
+- **Create** hierarchy of conditions using `else if` for many scenarios
 - **Handle** all possible cases with final `else` statement
-- **Provide** clear and actionable feedback for each different situation
+- **Give** clear and actionable feedback for all different situations
 
 ```javascript
 // Step 3: Short condition wit ternary operator
@@ -424,10 +424,10 @@ console.log(`Status: ${votingStatus}`);
 **Wetin you need remember:**
 - **Use** ternary operator (`? :`) for simple two-option conditions
 - **Write** condition first, then `?`, then true result, then `:`, then false result
-- **Apply** dis pattern when you want assign values based on conditions
+- **Apply** dis pattern when you want assign values based on condition
 
 ```javascript
-// Step 4: Dealing wit plenti particular kain cases
+// Step 4: Dey handle plenti spesifik case dem
 const dayOfWeek = "Tuesday";
 
 switch (dayOfWeek) {
@@ -447,43 +447,43 @@ switch (dayOfWeek) {
 }
 ```
 
-**Dis code dey do:**
-- **Match** variable value against multiple specific cases
-- **Group** similar cases together (weekdays vs weekends)
-- **Execute** correct code block when match dey
+**Dis code dey do dis kain tins:**
+- **Match** variable value against many specific cases
+- **Group** similar cases together (weekdays versus weekends)
+- **Execute** correct code block when match show
 - **Include** `default` case to handle unexpected values
-- **Use** `break` statements to prevent code from running to next case
+- **Use** `break` statement to make code no continue go next case
 
-> 💡 **Real-world analogy**: Think of control flow like di world most patient GPS wey dey gimme directions. E go talk "If traffic dey Main Street, take highway instead. If construction block highway, try scenic route." Programs dey use same conditional logic make dem respond smartly to different things and always give user di best experience.
+> 💡 **Real-world analogy**: Think of control flow like di most patient GPS wey dey give directions. E fit talk "If traffic dey Main Street, make you use highway. If construction block highway, try scenic route." Programs dey use same kind conditional logic to respond smartly to different situations and always give users best experience.
 
 ### 🎯 **Concept Check: Building Blocks Mastery**
 
-**Make we see how you dey with fundamentals:**
-- Fit explain difference between variable and statement with your own words?
-- Think of real-world place where you fit use if-then decision (like our voting example)
+**Make we see how you dey do for fundamentals:**
+- You fit explain difference between variable and statement for your own words?
+- Think of real-world case where you go use if-then decision (like our voting example)
 - Wetin one thing about programming logic wey surprise you?
 
 **Quick confidence booster:**
 ```mermaid
 flowchart LR
-    A["📝 Statements<br/>(Instructions dem)"] --> B["📦 Variables<br/>(Storage)"] --> C["🔀 Control Flow<br/>(Decisions)"] --> D["🎉 Working Program!"]
+    A["📝 Stetments<br/>(Instrakshon dem)"] --> B["📦 Vairiables<br/>(Storage)"] --> C["🔀 Kontrol Flow<br/>(Disen dem)"] --> D["🎉 Workin Program!"]
     
     style A fill:#ffeb3b
     style B fill:#4caf50
     style C fill:#2196f3
     style D fill:#ff4081
 ```
-✅ **Wet tin dey come next**: We go enjoy as we dive deeper into these concepts for this incredible journey! Right now, just focus on that excitement about all di amazing possibilities wey dey front of you. Di specific skills and techniques go naturally stick as we practice together – I promise say dis go sweet pass wetin you expect!
+✅ **Wet in dey come next**: We go really enjoy am as we dey go deeper inside dis concepts together! Now, just focus on the excitement about all di amazing tins wey dey front of you. The skills and techniques go naturally stick as we practice together – I promise say dis one go fun pass wetin you fit expect!
 
 ## Tools of the Trade
 
-Okay, na here I dey really excited wey I fit barely contain! 🚀 We go talk about the amazing tools wey go make you feel like say dem don give you di keys to digital spaceship.
+Alright, dis na where I go really excited until I near burst! 🚀 We go yan about di incredible tools wey go make you feel like you hold di keys to one digital spaceship.
 
-You sabi how chef get knives wey balance well well wey feel like part of im hand? Or how musician get guitar wey dey sing the moment dem touch am? Well, developers get our own magical tools, and here na wetin go blow your mind – most of dem dey free!
+You sabi how chef get balanced knives wey feel like part of their hands? Or how musician get one guitar wey dey sing the moment dem hold am? Well, developers get our own version of dis magical tools, and wetin go really surprise you be say most of dem na complete free!
 
-I dey bounce for my chair just dey think about to share this with you because dem don change how we dey build software completely. We dey talk about AI-powered coding assistants wey fit help write your code (I no dey joke!), cloud environments where you fit build complete applications from anywhere with Wi-Fi, and debugging tools so waka deep dem be like X-ray vision for your programs.
+I dey almost jump for joy thinking about sharing dis with you because dem don change how we dey build software completely. We dey talk AI-powered coding assistants wey fit help write your code (I no dey joke o!), cloud environments where you fit build full applications from anywhere wey get Wi-Fi, and debugging tools wey dey so sophisticated dem be like X-ray vision for your programs.
 
-And this one still get me chills: these no be beginner tools wey you go soon comot. Na the exact professional-grade tools wey developers for Google, Netflix, and that indie app studio wey you like dey use now now. You go feel like real pro using them!
+And one kain way wey I still dey shiver be say: these no be "beginner tools" wey you go soon outgrow. These ones na exact professional-grade tools wey Google, Netflix, and that indie app studio wey you love dey use now. You go feel like real pro as you dey use dem!
 
 ```mermaid
 graph TD
@@ -507,93 +507,93 @@ graph TD
 ```
 ### Code Editors and IDEs: Your New Digital Best Friends
 
-Make we talk about code editors – dem go soon become your favorite places to hang out! Think of dem as your personal coding sanctuary where you go spend most of your time crafting and perfecting your digital work.
+Make we yan about code editors – dem go soon become your favorite places to hang out! Think of dem as your personal coding sanctuary where you go spend most time dey craft and improve your digital work.
 
-But dis one dey magical about modern editors: no be only fine text editors. Dem be like having best, most supportive coding mentor sit right beside you 24/7. Dem go catch your typo before you even sabi dem, suggest ways to make you look genius, help you understand every piece of code, and some even fit predict wetin you wan type next and offer to finish your mind!
+But wetin magical about modern editors be say: dem no be just fine text editors. Dem be like di most brilliant, supportive coding mentor wey dey beside you 24/7. Dem go catch your typos before you notice dem, dem go suggest better ways to improve wey go make you look like genius, help you understand wetin every code do, and some fit even predict wetin you wan type next and suggest to complete your thought!
 
-I remember when I first find auto-completion – I feel like I dey live for future. You go start to type, then your editor go talk, "Hey, you dey think about dis function wey go do wetin you need?" E be like say your coding buddy sabi your mind before you talk am!
+I remember when I first find auto-completion – I really feel like say I dey live for future. You start to type something, and your editor go say, "Hey, na dis function you mean wey do exactly wetin you want?" E be like you get mind reader as coding buddy!
 
-**Wetin make these editors so incredible?**
+**Wet make these editors dey so incredible?**
 
-Modern code editors get plenty features wey go boost your work productivity:
+Modern code editors get plenty powerful features wey go boost your productivity:
 
-| Feature | What E Dey Do | Why E Dey Help |
-|---------|--------------|--------------|
-| **Syntax Highlighting** | Dey color different parts of your code | Make code easier to read and spot mistakes |
-| **Auto-completion** | Dey suggest code as you type | Speed coding and reduce typos |
-| **Debugging Tools** | Dey help find and fix errors | Save you many hours of troubleshooting |
+| Feature | What E Dey Do | Why E Help |
+|---------|--------------|------------|
+| **Syntax Highlighting** | Color different parts of your code | Make code easier to read and spot errors |
+| **Auto-completion** | Suggest code as you type | Speed up coding and reduce typos |
+| **Debugging Tools** | Help you find and fix errors | Save you hours of troubleshooting time |
 | **Extensions** | Add special features | Customize your editor for any technology |
-| **AI Assistants** | Suggest code and explanations | Fast learning and better productivity |
+| **AI Assistants** | Suggest code and explain | Make learning and work faster |
 
-> 🎥 **Video Resource**: Want see these tools for action? Check dis [Tools of the Trade video](https://youtube.com/watch?v=69WJeXGBdxg) for full overview.
+> 🎥 **Video Resource**: You wan see these tools for action? Check this [Tools of the Trade video](https://youtube.com/watch?v=69WJeXGBdxg) for full overview.
 
 #### Recommended Editors for Web Development
 
 **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** (Free)
-- Most popular for web developers
+- Di most popular for web developers
 - Excellent extension ecosystem
 - Built-in terminal and Git integration
 - **Must-have extensions**:
-  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - AI-powered code suggestions
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - AI code suggestions
   - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaboration
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Automatic code formatting
-  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Catch typos inside your code
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Catch typos for your code
 
 **[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)** (Paid, free for students)
 - Advanced debugging and testing tools
 - Intelligent code completion
 - Built-in version control
 
-**Cloud-Based IDEs** (Different pricing)
-- [GitHub Codespaces](https://github.com/features/codespaces) - Full VS Code for your browser
+**Cloud-Based IDEs** (Various prices)
+- [GitHub Codespaces](https://github.com/features/codespaces) - Full VS Code inside browser
 - [Replit](https://replit.com/) - Great for learning and sharing code
-- [StackBlitz](https://stackblitz.com/) - Instant, full-stack web development
+- [StackBlitz](https://stackblitz.com/) - Instant full-stack web development
 
-> 💡 **Getting Started Tip**: Start with Visual Studio Code – e free, e dey widely used for industry, and get big community wey dey create helpful tutorials and extensions.
+> 💡 **Getting Started Tip**: Start with Visual Studio Code – e dey free, many people dey use am, and e get big community wey dey create tutorials and extensions.
 
 
 ### Web Browsers: Your Secret Development Laboratory
 
-Okay, get ready to get your mind blow! You know how you dey use browsers to scroll social media and watch videos? Well, e turn out say browsers hide incredible secret developer laboratory all dis time, just dey wait make you find am!
+Okay, ready to blow your mind fully! You sabi say you dey use browsers to scroll social media and watch videos? But e turn out say dem don dey hide one incredible secret developer lab all dis time, just waiting for you to find am!
 
-Every time you right-click on webpage and choose "Inspect Element," na so you dey open one hidden world of developer tools wey really powerful pass some expensive software wey I use pay hundreds of dollars for before. E be like say your normal kitchen get professional chef laboratory behind secret panel!
-Di fọs taim pesin show me browser DevTools, ah spent like three awas jus dey click around an dey talk "WAIT, E FIT DO DAT TOO?!" You fit edit any website for real-time, see exactly how fast everytin dey load, test how your site dey look for different devices, an even debug JavaScript like total pro. E really blow mind!
+Every time you right-click for a webpage and choose "Inspect Element," you dey open hidden developer tools world wey really get more power pass some expensive software wey I used to pay hundreds dollars for. E be like say your normal kitchen dey hide professional chef laboratory behind secret panel!
+Di first time wey pesin show me browser DevTools, I spend like three hours just dey click around and dey para "WAIT, E FIT DO DAT TOO?!" You fit literally change any website for real-time, see how e dey load fast fast, test how your site go be for different devices, and even debug JavaScript like pro. E seriously dey blow mind!
 
-**Na why browsers be your secret weapon:**
+**Na why browser na your secret weapon be dis:**
 
-When you dey create website or web application, you go need see how e dey look an behave for real life. Browsers no just show your work, dem dey give you detailed feedback about performance, accessibility, an potential wahala.
+When you dey create website or web application, you need make you see how e go look and behave for real world. Browsers no only dey show your work but e dey give you correct feedback about performance, accessibility, and any wahala wey fit show.
 
 #### Browser Developer Tools (DevTools)
 
-Modern browsers get full development suite:
+Modern browsers get full development tools dem:
 
 | Tool Category | Wetin E Dey Do | Example Use Case |
-|---------------|----------------|------------------|
-| **Element Inspector** | View an edit HTML/CSS for real-time | Change style make you see quick result |
-| **Console** | View error messages an test JavaScript | Debug gbege an try code |
-| **Network Monitor** | Track how resources dey load | Make performance an loading sharp |
-| **Accessibility Checker** | Test for inclusive design | Make sure say your site dey work for everybody |
-| **Device Simulator** | Preview on different screen sizes | Test responsive design without many devices |
+|---------------|----------------|-----------------|
+| **Element Inspector** | View and change HTML/CSS in real-time | Adjust style to see result sharp sharp |
+| **Console** | See error messages and try JavaScript | Debug problems and play with code |
+| **Network Monitor** | Track how resources dey load | Make load time beta and sharp |
+| **Accessibility Checker** | Test to make sure design dey inclusive | Make sure your site fit work for everybody |
+| **Device Simulator** | Preview for different screen sizes | Test responsive design without many devices |
 
-#### Recommended Browsers for Development
+#### Browsers wey I recommend for Development
 
-- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** - Industry-standard DevTools wit full documentation
-- **[Firefox](https://developer.mozilla.org/docs/Tools)** - Beta CSS Grid an accessibility tools
-- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** - Build on Chromium wit Microsoft developer resources
+- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** - Industry-standard DevTools with many documentation
+- **[Firefox](https://developer.mozilla.org/docs/Tools)** - Beta CSS Grid and accessibility tools
+- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** - Based on Chromium with Microsoft developer resources
 
-> ⚠️ **Important Testing Tip**: Always test your websites inside multiple browsers! Wetin work well for Chrome fit look different for Safari or Firefox. Professional developers dey test for all major browsers so user experience go dey consistent.
+> ⚠️ **Important Testing Tip**: Always test your websites inside different browsers! Wetin work well for Chrome fit waka different for Safari or Firefox. Pro developers test their work for all main browsers to make sure user experience dey consistent.
 
 ### Command Line Tools: Your Gateway to Developer Superpowers
 
-Okay, mek we dey real here about command line, because I want make you hear from person wey understand am well well. When I first see am – just dis scary black screen with blinking text – I really think, "Nope, no way! E be like witchcraft from 1980s hacker movie, and I no smart reach dat level!" 😅
+Okay, make we yarn tori honest about command line, because I wan make you hear am from person wey sabi. The first time wey I see am – na just black scary screen wey dey blink text – I dey think, "No way, no way! Dis one big scary movie kind thing from 1980s hacker film, and I no be that kind person for this!" 😅
 
-But na wetin I wish person don tell me back then an wat I dey tell you now be: command line no dey scary – e be like direct talk with your computer. E be like differenc between ordering food from fancy app wit picture an menu (wey sweet an easy) versus enter your local restaurant where chef sabi wetin you like an fit make correct food when you just say "surprise me with something great."
+But wetin I wish pesin talk to me that time, and which I dey tell you now be say: command line no scary – na like you dey talk directly to your computer. Think am like the difference between ordering food with nice app wey get pictures and menu (easy ehn) versus waka go your favorite local restaurant where chef sabi wetin you like and fit cook better food just based on the words "surprise me."
 
-Command line na where developers go feel like real wizards. You just type few magic words (okay na commands, but e dey feel magic!), press enter, an BOOM – you don create whole project structure, install strong tools from anywhere, or deploy your app to internet for millions people to see. When you get first taste of dat power, e be like chain wey no fit break!
+Command line na where developers dey feel like real wizards. You go type some magical words (no be magic, na command, but e dey feel like magic!), press enter, and BOOM – you don create whole project box, install strong tools from all over, or deploy your app to internet for millions to see. Once you taste that power, e go sweet you die!
 
-**Why command line go be your best tool:**
+**Why command line go be your favorite tool:**
 
-Even though GUI dey good for many tasks, command line dey excel for automation, precision, an speed. Plenty dev tools dey work mainly with command line interface, an learning how to use dem well fit boost your productivity no be small.
+Even though GUI tools good for many things, command line sharp for automation, precision, and speed. Plenty development tools mainly dey work through command line, and if you sabi use am well, e fit boost your productivity well well.
 
 ```bash
 # Step 1: Make and waka go project folder
@@ -601,9 +601,9 @@ mkdir my-awesome-website
 cd my-awesome-website
 ```
 
-**Dis code dey do:**
-- **Create** one new directory wey dem call "my-awesome-website" for your project
-- **Navigate** inside dat new directory to start work
+**Wetin dis code dey do:**
+- **Create** new folder wey dem call "my-awesome-website" for your project
+- **Navigate** enter new folder to start work
 
 ```bash
 # Step 2: Start di project wit package.json
@@ -614,14 +614,14 @@ npm install --save-dev vite prettier eslint
 npm install --save-dev @eslint/js
 ```
 
-**Step by step, dis na wetin dey happen:**
+**Step by step, wetin dey happen:**
 - **Initialize** new Node.js project with default settings using `npm init -y`
-- **Install** Vite as modern build tool for fast development and production build
-- **Add** Prettier for automatic code formatting an ESLint for code quality check
-- **Use** `--save-dev` flag to mark these as development-only dependencies
+- **Install** Vite as modern build tool for fast development and production builds
+- **Add** Prettier for automatic code formatting and ESLint for code quality check
+- **Use** `--save-dev` flag to mark dem as only development dependencies
 
 ```bash
-# Step 3: Build di project structure and files
+# Step 3: Make di project structure and files
 mkdir src assets
 echo '<!DOCTYPE html><html><head><title>My Site</title></head><body><h1>Hello World</h1></body></html>' > index.html
 
@@ -630,30 +630,30 @@ npx vite
 ```
 
 **For above, we don:**
-- **Organize** our project by creating separate folders for source code an assets
-- **Generate** basic HTML file wit correct document structure
-- **Start** Vite development server for live reload an hot module replacement
+- **Organize** our project by making separate folders for source code and assets
+- **Generate** simple HTML file with correct document structure
+- **Start** Vite development server for live reload and hot module replacement
 
 #### Essential Command Line Tools for Web Development
 
 | Tool | Purpose | Why You Need Am |
 |------|---------|-----------------|
-| **[Git](https://git-scm.com/)** | Version control | Track changes, collaborate an backup work |
+| **[Git](https://git-scm.com/)** | Version control | Track changes, work with others, backup your work |
 | **[Node.js & npm](https://nodejs.org/)** | JavaScript runtime & package management | Run JavaScript outside browser, install modern dev tools |
-| **[Vite](https://vitejs.dev/)** | Build tool & dev server | Fast development wit hot module replacement |
-| **[ESLint](https://eslint.org/)** | Code quality | Automatically find an fix problems for your JavaScript |
-| **[Prettier](https://prettier.io/)** | Code formatting | Keep code consistent an easy to read |
+| **[Vite](https://vitejs.dev/)** | Build tool & dev server | Fast development with hot module replacement |
+| **[ESLint](https://eslint.org/)** | Code quality | Find and fix JavaScript issues automatically |
+| **[Prettier](https://prettier.io/)** | Code formatting | Make sure your code consistent and readable |
 
 #### Platform-Specific Options
 
 **Windows:**
-- **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** - Modern, feature-rich terminal
-- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 - Powerful scripting environment
-- **[Command Prompt](https://docs.microsoft.com/windows-server/administration/windows-commands/?WT.mc_id=academic-77807-sagibbon)** 💻 - Traditional Windows command line
+- **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** - Modern terminal with many features
+- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 - Strong scripting environment
+- **[Command Prompt](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)** 💻 - Old school Windows command line
 
 **macOS:**
-- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 - Built-in terminal app
-- **[iTerm2](https://iterm2.com/)** - Enhanced terminal wit advanced features
+- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 - Inbuilt terminal app
+- **[iTerm2](https://iterm2.com/)** - Better terminal with advanced features
 
 **Linux:**
 - **[Bash](https://www.gnu.org/software/bash/)** 💻 - Standard Linux shell
@@ -661,52 +661,52 @@ npx vite
 
 > 💻 = Pre-installed for operating system
 
-> 🎯 **Learning Path**: Start wit basic commands like `cd` (change directory), `ls` or `dir` (list files), an `mkdir` (create folder). Practice wit modern workflow commands like `npm install`, `git status`, an `code .` (opens current directory in VS Code). As you dey comfortable, you go naturally learn advanced commands an automation techniques.
+> 🎯 **Learning Path**: Start with basics like `cd` (change directory), `ls` or `dir` (list files), and `mkdir` (make folder). Try modern workflow commands like `npm install`, `git status`, and `code .` (open current folder on VS Code). As you go, you go naturally sabi advanced commands and automation.
 
 ### Documentation: Your Always-Available Learning Mentor
 
-Okay, mek I share small secret wey go make you feel better about being beginner: even the most experienced developers spend plenty time dey read documentation. An no be because dem no sabi wetin dem dey do – e mean say dem dey wise!
+Okay, make I share small secret wey go make you feel beta as beginner: even the best developers spend plenty time dey read documentation. E no be because dem no sabi, na because e be like wisdom!
 
-Think documentation like you get access to world most patient, knowledgeable teacher wey dey available 24/7. You jam gbege for 2 AM? Documentation dey give you warm virtual hug an exactly di answer wey you need. You want learn about beta new thing wey everybody dey talk? Documentation get your back wit step-by-step example. You dey try sabi why something dey work like dat? You don guess am – documentation ready to explain am so e go clear finally!
+Think documentation na teachers wey get plenty patience, sabi well, and dem dey 24/7. You get wahala 2 AM? Documentation go dey there like warm hug and answer wey correct. You wan learn new feature wey everybody dey talk about? Documentation go show you step by step example. You wan understand why something dey work the way e be? Documentation ready to explain am make e clear.
 
-Here na wetin change my mind: web development world dey move sharp sharp, an nobody (I mean nobody!) fit remember everything. I don watch senior devs with 15+ years experience dey look basic syntax, and you know? E no shame – na smart thing be dat! E no mean say memory perfect; na to sabi where to find correct answer fast an understand how to apply am.
+One thing wey change how I take see am be say: web development movement dey fast well, and nobody go dey remember everything. I don see senior developers wey get 15+ years experience still dey check basic syntax, and e no shame. E no be about perfect memory; na about sabi where you go find correct answer fast and how to take apply am.
 
-**Na here di real magic dey:**
+**Here na where real magic dey happen:**
 
-Professional developers spend big part of their time dey read documentation – no be because dem no sabi, but because web development landscape dey change fast so dem need dey learn continuously. Great documentation go help you understand not just *how* to use somtin, but *why* an *when* to use am.
+Pro developers spend big part of their time dey read documentation – no be because dem no sabi, but because web development changes so fast, you gats dey learn continuously. Great documentation go help you understand not just *how* but *why* and *when* to use something.
 
 #### Essential Documentation Resources
 
-**[Mozilla Developer Network (MDN)](https://developer.mozilla.org/docs/Web)**
-- Gold standard for web technology documentation
-- Comprehensive guides for HTML, CSS an JavaScript
-- Browser compatibility info inside
-- Get practical examples an interactive demos
+**[Mozilla Developer Network (MDN)](https://developer.mozilla.org/docs/Web)**  
+- Di gold standard for web tech documentation  
+- Full guide for HTML, CSS, and JavaScript  
+- Get browser compatibility info  
+- Get practical examples and interactive demos  
 
-**[Web.dev](https://web.dev)** (by Google)
-- Modern web development best practices
-- Performance optimization guides
-- Accessibility an inclusive design principles
-- Case studies from real projects
+**[Web.dev](https://web.dev)** (by Google)  
+- Modern web dev best practices  
+- Performance optimization guides  
+- Accessibility and inclusive design rules  
+- Case studies from real projects  
 
-**[Microsoft Developer Documentation](https://docs.microsoft.com/microsoft-edge/#microsoft-edge-for-developers)**
-- Edge browser development resources
-- Progressive Web App guides
-- Cross-platform dev insights
+**[Microsoft Developer Documentation](https://docs.microsoft.com/microsoft-edge/#microsoft-edge-for-developers)**  
+- Edge browser dev resources  
+- Progressive Web App guides  
+- Cross-platform dev insight  
 
-**[Frontend Masters Learning Paths](https://frontendmasters.com/learn/)**
-- Structured learning curricula
-- Video courses from industry experts
-- Hands-on coding exercises
+**[Frontend Masters Learning Paths](https://frontendmasters.com/learn/)**  
+- Structured learning programs  
+- Video courses from pros  
+- Hands-on coding exercises  
 
-> 📚 **Study Strategy**: No try memorize documentation – better learn how to navigate am well. Bookmark references you use dey-time to time an practice to find info fast with search.
+> 📚 **Study Strategy**: No try memorize documentation – instead, learn how to waka inside am well. Bookmark common references and practice how to use search to find info fast.
 
-### 🔧 **Tool Mastery Check: Wetin Dey Resonate With You?**
+### 🔧 **Tool Mastery Check: Wetin You Feel?**
 
-**Take small time to think:**
-- Which tool you dey excited to try first? (No wrong answer!)
-- Command line still dey scare you or you get curiosity about am?
-- You go fit use browser DevTools to peek behind curtain for your favorite websites?
+**Think small:**  
+- Which tool you dey eager to try first? (No wrong answer!)  
+- Command line still dey scary, or you dey curious?  
+- Fit imagine using browser DevTools to see wetin dey happen for your favorite websites?
 
 ```mermaid
 pie title "How Developer Dey Spend Time Wit Tools"
@@ -715,69 +715,69 @@ pie title "How Developer Dey Spend Time Wit Tools"
     "Command Line" : 15
     "Reading Docs" : 15
     "Debugging" : 5
-```
-> **Fun insight**: Majority developers spend about 40% of their time for their code editor, but observe how much time dey go for testing, learning, an problem-solving. Programming no be only to write code – na to create experience!
+```  
+> **Fun insight**: Most developers spend about 40% of their time for code editor, but see how much time dem spend for testing, learning, and problem-solving. Programming no just about writing code – na about creating experience!
 
-✅ **Food for thought**: Think about dis – how tools for building websites (development) dey different from tools for designing how dem go look (design)? E be like differenc between architect wey design beautiful house an contractor wey build am. Both important, but need different tools! Dis kind thinking go help you see bigger picture of how websites dem come alive.
+✅ **Food for thought**: Think about how tools for building websites (development) fit different from tools for designing how e go look (design)? Na like difference between architect wey design beta house and contractor wey build am. Both important but dem get different toolbox! This kind thinking go help you see better picture of how websites dey come to life.
 
 ## GitHub Copilot Agent Challenge 🚀
 
-Use Agent mode complete dis challenge:
+Use Agent mode to complete the challenge below:
 
-**Description:** Explore features of modern code editor or IDE an show how e fit improve your workflow as web developer.
+**Description:** Explore features of modern code editor or IDE and show how e fit improve your workflow as web developer.
 
-**Prompt:** Choose code editor or IDE (like Visual Studio Code, WebStorm, or cloud-based IDE). List three features or extensions wey help you write, debug, or maintain code fast. For each, give short explanation how e benefit your workflow.
+**Prompt:** Choose code editor or IDE (like Visual Studio Code, WebStorm, or cloud IDE). List three features or extensions wey help you write, debug, or maintain code well. Give short explanation how each one help your workflow.
 
 ---
 
 ## 🚀 Challenge
 
-**Alright detective, you ready for your first case?**
+**Okay detective, ready for your first case?**
 
-Now wey you get this solid foundation, I get adventure wey go help you see how diverse an fascinating programming world be. And listen – no be to write code yet, so no pressure! Think of yourself as programming language detective on your first exciting case!
+Now wey you don get this solid foundation, I get adventure wey go show you how programming world sweet and different. And no worry – no need write code yet! Think yourself as programming language detective for your first exciting case!
 
-**Your mission, if you accept am:**
-1. **Become language explorer**: Pick three programming languages wey from different worlds – maybe one for building websites, one for mobile apps, an one for crunching scientific data. Find example of same simple task written for every language. I promise you go shock how different dem go look but e still do same tins!
+**Your mission, if you accept:**
+1. **Become language explorer**: Pick three programming languages from different places – maybe one wey build websites, one wey build mobile apps, and one wey dey crunch data for scientists. Find sample same simple task for all 3 languages. I promise you go shocked how different dem be even though dem do same thing!
 
-2. **Discover dem origin story**: Wetin make each language special? One cool fact – every programming language come because pesin believe “I think sey beta way dey solve dis kind problem.” Fit you know wetin those problems be? Some story dey really interesting!
+2. **Uncover origin stories**: Wetin make each language special? Every language come because pesin think, "Make I solve this problem better." Try find out what problems dem solve. Some stories sweet die!
 
-3. **Meet the communities**: Check how friendly an passionate each language community be. Some get millions dev dey share knowledge an help each other, others small but tight an supportive. You go enjoy see dem different personalities!
+3. **Meet communities**: Check how welcoming and passionate each language community be. Some get millions of devs wey share knowledge and help each other, some small but tight and supportive. You go enjoy their different style.
 
-4. **Follow your gut feeling**: Which language you feel more comfortable wit? No stress to pick perfect one – just listen to your heart! No wrong answer here, you fit explore more later.
+4. **Follow your gut feeling**: Which language you feel easiest now? No stress for perfect choice – just listen your heart! No wrong answer, you fit always explore another later.
 
-**Bonus detective work**: Try find out which big websites or apps dem build with each language. I garranty sey you go shock to sabi wetin power Instagram, Netflix, or that mobile game wey you no fit stop to play!
+**Bonus detective work**: Find major website or app wey each language power. You go shock find out wetin make Instagram, Netflix or that mobile game you no fit stop to dey play!
 
-> 💡 **Remember**: You no dey try become expert for any language today. You just dey sabi neighborhood before you choose where you want build. Take your time, enjoy am, an follow your curiosity!
+> 💡 **Remember**: No try be expert today. You just dey find your way around before you settle. Take your time, enjoy am, and let curiosity guide you!
 
-## Make We Celebrate Wetin You Don Learn!
+## Make We Celebrate Wetin You Don Learnt!
 
-Holy moly, you don absorb plenty correct info today! I happy to see how much of this journey don stick for your head. And remember – no be test wey you must get everything correct. Na celebration of all the beta tins you don learn about dis beautiful world you dey prepare to enter!
+Wow! You don gather plenty beta info today! I happy to see how much for this amazing journey don stick with you. And remember – no be test make you get everything perfect. Na celebration of all di cool things wey you don learn about this fascinating world wey you dey ready enter!
 
 [Take the post-lesson quiz](https://ff-quizzes.netlify.app/web/)
+
 ## Review & Self Study
 
-**Take your time to explore and have fun with it!**
+**Take your time explore and enjoy am!**
+You don cover plenty ground today, and dat na sometin wey you suppose dey proud of! Now na di fun part dey come – to explore di topics wey spark your curiosity. Make you remember, dis no be homework – na adventure!
 
-You don cover beta tins today, and dat one na beta tins to dey proud of! Now na di fun part – to explore di tins wey catch your mind. Make you remember, dis no be homework – na adventure!
+**Dive deeper into wetin dey excite you:**
 
-**Dive deeper into what excites you:**
+**Get hands-on wit programming languages:**
+- Visit di official websites of 2-3 languages wey catch your eye. Each one get dia own personality and story!
+- Try some online coding playgrounds like [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), or [Replit](https://replit.com/). No fear to experiment – you no fit spoil anything!
+- Read about how your favorite language come be. Seriously, some of these origin stories dey fascinating and e go help you understand why languages dey work di way dem dey.
 
-**Make you try di programming languages:**
-- Visit di official websites of 2-3 languages wey catch your eye. Each get im own character and story!
-- Try some online coding playgrounds like [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), or [Replit](https://replit.com/). No fear to try – you no fit spoil anything!
-- Read how your favorite language take start. True true, some origin stories beta well well and e go help you understand why languages dey work like dat.
-
-**Make you sabi di new tools:**
-- Download Visual Studio Code if you never download – e free and you go like am!
-- Spend small time to waka inside di Extensions marketplace. E bi like app store for your code editor!
-- Open your browser Developer Tools and just dey click around. No worry to sabi everything – just dey familiar with wetin dey.
+**Get comfortable wit your new tools:**
+- Download Visual Studio Code if you never do am – e free and you go love am!
+- Spend small time dey browse di Extensions marketplace. E be like app store for your code editor!
+- Open your browser Developer Tools and just dey click around. No worry about understanding everything – just try get familiar wit wetin dey dia.
 
 **Join di community:**
-- Follow some developer communities for [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/), or [GitHub](https://github.com/). Di programming community dey very friendly to new people!
-- Watch beginner coding videos for YouTube. Plenty beta creators wey sabi how e be to just start.
-- Think about to join local meetups or online communities. Believe me, developers love to help new pipo!
+- Follow some developer communities for [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/), or [GitHub](https://github.com/). Di programming community dey very welcoming to newcomers!
+- Watch some beginner-friendly coding videos for YouTube. Plenty better creators dey wey still sabi di feeling when dem just dey start.
+- Consider to join local meetups or online communities. Trust me, developers like to help people wey dey start!
 
-> 🎯 **Listen, na wetin I want you to remember be dis**: No expect to become coding wizard overnight! Now, you just dey know dis amazing new world wey you about enter. Take your time, enjoy di journey, and remember – every developer wey you sabi dey admire, dem bin dey your same place before, excited and maybe small confuse. E normal, and e mean say you dey do well! 
+> 🎯 **Listen, na wetin I want make you remember be dis**: No be say you go become coding wizard overnight! Right now, na just to dey learn about this amazing new world wey you dey enter. Take your time, enjoy di journey, and no forget – every single developer wey you admire bin once dey where you dey now, dey feel excited and maybe small scared. Na normal thing, and e mean say you dey do am correct!
 
 
 
@@ -785,57 +785,57 @@ You don cover beta tins today, and dat one na beta tins to dey proud of! Now na 
 
 [Reading the Docs](assignment.md)
 
-> 💡 **Small push for your assignment**: I go like see you explore some tools we never talk before! No look editors, browsers, and command line tools wey we don yam – plenty beta development tools dey wey you fit discover. Find ones wey dey actively maintained and get strong, helpful communities (dem get best tutorials and most supportive pipo when you jam problem and need help).
+> 💡 **Small push for your assignment**: I go like see you explore some tools we never talk about yet! No use di editors, browsers, and command line tools wey we don yan before – plenty beta development tools dey wey dey wait make you find dem. Look for ones wey dem dey maintain well and get strong, helpful communities (dem dey usually get the best tutorials and most supportive people when you block and need help).
 
 ---
 
 ## 🚀 Your Programming Journey Timeline
 
-### ⚡ **Wetin you fit do for next 5 minutes**
+### ⚡ **Wetn You Fit Do for Next 5 Minutes**
 - [ ] Bookmark 2-3 programming language websites wey catch your eye
-- [ ] Download Visual Studio Code if you never download
-- [ ] Open your browser DevTools (F12) and just click around any website
+- [ ] Download Visual Studio Code if you never do
+- [ ] Open your browser DevTools (F12) and click around any website
 - [ ] Join one programming community (Dev.to, Reddit r/webdev, or Stack Overflow)
 
-### ⏰ **Wetin you fit complete this hour**
+### ⏰ **Wetn You Fit Do This Hour**
 - [ ] Finish di post-lesson quiz and think about your answers
-- [ ] Set up VS Code with di GitHub Copilot extension
-- [ ] Try "Hello World" example for 2 different programming languages online
-- [ ] Watch "Day in the Life of a Developer" video for YouTube
+- [ ] Set up VS Code wit di GitHub Copilot extension
+- [ ] Try one "Hello World" example for 2 different programming languages online
+- [ ] Watch one "Day in di Life of a Developer" video for YouTube
 - [ ] Start your programming language detective work (from di challenge)
 
-### 📅 **Your week-long adventure**
+### 📅 **Your Week-Long Adventure**
 - [ ] Finish di assignment and explore 3 new development tools
-- [ ] Follow 5 developers or programming accounts for social media
-- [ ] Try build small tin for CodePen or Replit (even just "Hello, [Your Name]!")
-- [ ] Read one developer blog post about coding journey
-- [ ] Join virtual meetup or watch one programming talk
-- [ ] Start learning your chosen language with online tutorials
+- [ ] Follow 5 developers or programming accounts on social media
+- [ ] Try build small tin for CodePen or Replit (even na just "Hello, [Your Name]!")
+- [ ] Read one developer blog post about how person journey for coding be
+- [ ] Join virtual meetup or watch programming talk
+- [ ] Start to learn your chosen language wit online tutorials
 
-### 🗓️ **Your month-long transformation**
-- [ ] Build your first small project (even simple webpage counts!)
-- [ ] Contribute to open-source project (start with documentation fixes)
-- [ ] Mentor person wey just start their programming journey
+### 🗓️ **Your Month-Long Transformation**
+- [ ] Build your first small project (even simple webpage count!)
+- [ ] Contribute to open-source project (start wit documentation fixes)
+- [ ] Mentor person wey just dey start their programming journey
 - [ ] Create your developer portfolio website
-- [ ] Connect with local developer communities or study groups
-- [ ] Start to plan your next learning milestone
+- [ ] Connect wit local developer communities or study groups
+- [ ] Plan your next learning milestone
 
-### 🎯 **Final reflection check-in**
+### 🎯 **Final Reflection Check-in**
 
-**Before you move on, celebrate small:**  
-- Wetin be one thing about programming wey excited you today?  
-- Which tool or concept you want explore first?  
-- How you feel about starting dis programming journey?  
-- Wetin be one question you go like ask developer now?
+**Before you move on, take small time celebrate:**
+- Wetin be one tin about programming wey excite you today?
+- Which tool or concept you wan explore first?
+- How you feel about starting this programming journey?
+- Wetin be one question you go like ask developer right now?
 
 ```mermaid
 journey
     title Your Confidence Building Journey
-    section Today
+    section Tode
       Curious: 3: You
       Overwhelmed: 4: You
       Excited: 5: You
-    section This Week
+    section Dis Week
       Exploring: 4: You
       Learning: 5: You
       Connecting: 4: You
@@ -843,12 +843,12 @@ journey
       Building: 5: You
       Confident: 5: You
       Helping Others: 5: You
-```  
-> 🌟 **Remember**: Every expert bin be beginner once. Every senior developer bin feel just like you dey feel now – excited, maybe small confuse, and sure about wetin fit happen. You dey beta company, and dis journey go sweet well well. Welcome to di wonderful world of programming! 🎉
+```
+> 🌟 **Remember**: Every expert bin once be beginner. Every senior developer once feel exactly how you dey feel now – excited, maybe small overwhelmed, and definitely curious about wetin fit possible. You dey better company, and dis journey go sweet well well. Welcome to di wonderful world of programming! 🎉
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Disclaimer**:
-Dis document don get AI translation from [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we try make e correct, abeg sabi say automated translation fit get mistake or no proper. Di original document for dia language na di correct one to trust. If na serious information, better make professional human person translate am. We no gree take responsibility if person no understand well or if person miss the meaning because of dis translation.
+**Disclaimer**:  
+Dis document don translate wit AI translation service wey dem dey call [Co-op Translator](https://github.com/Azure/co-op-translator). Even though we dey try make am correct, abeg sabi say automated translations fit get errors or wahala inside. Di original document wey e original language na di correct original source. If na serious information, e better make person wey sabi translate am human do am. We no go hold ourselves responsible for any misunderstanding or wrong meaning wey fit happen from using dis translation.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->

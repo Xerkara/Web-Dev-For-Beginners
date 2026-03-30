@@ -1,156 +1,156 @@
-# Utangulizi wa Lugha za Programu na Vifaa vya Kisasa vya Mwaendelezaji
+# Utangulizi wa Lugha za Kuprogramu na Zana za Kisasa za Waendelezaji
 
-Hujambo, mtaalamu wa kesho! 👋 Naweza kukuambia kitu kinachoniletea baridi kila siku? Unakaribia kugundua kuwa programu siyo tu kuhusu kompyuta – ni kuhusu kuwa na nguvu za kichawi kuleta mawazo yako shupavu katika maisha!
+Hujambo, muendelezaji wa baadaye! 👋 Naweza kukuambia kitu kinachonifanya nipige baridi kila siku? Utagundua kuwa programu siyo tu kuhusu kompyuta – ni kuwa na nguvu za kweli za kuleta mawazo yako mabaya kuwa halisi!
 
-Unajua wakati unapotumia programu unayopenda na kila kitu kinakwenda vizuri? Unapobofya kitufe na kitu cha kichawi kinatokea kinachokufanya useme "wow, walifanyaje hivyo?" Naam, mtu kama wewe – labda amekaa kwenye kahawa anayopenda saa 2 asubuhi akiwa na espresso ya tatu – aliandika msimbo uliosababisha kichawi hicho. Na hapa ndipo utakapoanguka kustaajabishwa: mwishoni mwa somo hili, hutagundua tu jinsi walivyofanya, bali utataka pia kujaribu wewe mwenyewe!
+Unajua wakati huo unapotumia programu yako unayopenda na kila kitu kinafanya kazi kwa kila njia? Unapogusa kitufe na kitu cha ajabu kinatokea na unasema "wow, walifanyaje hivyo?" Naam, mtu kama wewe – labda ameketi kwenye kahawa yake ya kawaida saa 2 kamili usiku akiwa na espresso ya tatu – ndiye aliyeandika msimbo huo ulioleta uchawi huo. Na hapa ndipo utakavyoshangaa: mwishoni mwa somo hili, hautaelewa tu jinsi walivyofanya, bali utajisikia kujaribu mwenyewe!
 
-Tazama, naelewa kabisa kama programu inakuletea hofu sasa hivi. Nilipoanza, nilifikiri unatakiwa uwe genius wa hisabati au umekuwa ukifanya programu tangu umekuwa na miaka mitano. Lakini hii ilibadilisha kabisa mtazamo wangu: programu ni sawa na kujifunza kuzungumza katika lugha mpya. Unaanzia na "hello" na "thank you," kisha unaendelea kuagiza kahawa, na ghafla unazungumza mijadala ya mwanafalsafa! Ila katika hili, unazungumza na kompyuta, na kweli? Kompyuta ni washirika wa mazungumzo wenye subira sana – hawakufungii makosa yako laana na daima wanataka kujaribu tena!
+Tazama, ninaelewa kabisa ikiwa programu inakugomea sasa hivi. Nilipoanza, nilidhani unahitaji kuwa mzuri sana kwenye hisabati au umekuwa ukiprograma tangu utakuwa na umri wa miaka mitano. Lakini hapa ndivyo kilinibadilisha kabisa mtazamo wangu: programu ni sawa na kujifunza kuzungumza lugha mpya. Unaanzia na "hello" na "asante," kisha unajifunza kuagiza kahawa, na ghafla unasimulia mijadala ya kina ya kifalsafa! Ila katika kesi hii, unaongea na kompyuta, na ukweli? wao ni washirika wa mazungumzo wenye subira sana – hawatochukia makosa yako na daima wako tayari kujaribu tena!
 
-Leo, tutaangalia zana za ajabu zinazofanya maendeleo ya wavuti wa kisasa siyo tu kuwawezekana, bali kuwa kitu cha kuvutia sana. Ninazungumzia wahariri, vivinjari na njia za kazi sawa na zile zinazotumika na waendelezaji wa Netflix, Spotify, na studio yako ya programu unayopenda kila siku. Na hapa ni sehemu itakayokupeleka kucheza kwa furaha: wengi wa zana hizi za kitaalamu za kiwango cha viwanda ni bure kabisa!
+Leo, tutaangalia zana za ajabu zinazofanya maendeleo ya wavuti ya kisasa si tu uwezekano, bali kuwa uraibu mkubwa. Ninazungumzia wahariri, vivinjari, na mitiririko kazi sawa na wale wanaotumia Netflix, Spotify, na studio ya programu unayopenda kila siku. Na hapa ndipo utakapofurahia: zana nyingi za kitaalamu, za kiwango cha viwanda ni bure kabisa!
 
 ![Intro Programming](../../../../translated_images/sw/webdev101-programming.d6e3f98e61ac4bff.webp)
-> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+> Sketchnote na [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ```mermaid
 journey
     title Safari Yako ya Uandishi wa Programu Leo
     section Gundua
-      Nini Uandishi wa Programu: 5: You
+      Nini Ni Uandishi wa Programu: 5: You
       Lugha za Uandishi wa Programu: 4: You
       Muhtasari wa Vifaa: 5: You
     section Chunguza
       Wahariri wa Msimbo: 4: You
-      Vivinjari na Zana za Waendelezaji: 5: You
+      Vivinjari & Vifaa vya Maendeleo: 5: You
       Mstari wa Amri: 3: You
     section Fanya Mazoezi
-      Mpelelezi wa Lugha: 4: You
-      Uchunguzi wa Vifaa: 5: You
-      Muungano wa Jamii: 5: You
+      Mshuki wa Lugha: 4: You
+      Ugunduzi wa Vifaa: 5: You
+      Muunganisho wa Jamii: 5: You
 ```
-## Tuchunguze Unachojua Tayari!
+## Tuweze Kuona Unachojua Tayari!
 
-Kabla hatujaingia kwenye mambo ya kufurahisha, nina hamu ya kujua – tayari unajua nini kuhusu ulimwengu huu wa programu? Na sikiliza, kama unapoangalia maswali haya ukijiambia "hatuna wazo hata kidogo kuhusu haya," hiyo siyo tu sawa, ni nzuri kabisa! Hiyo ina maana uko mahali pale pa kuanzia. Fikiria hii kama kufanya mazoezi kabla ya mazoezi halisi – tunaandaa misuli ya ubongo!
+Kabla hatujaingia kwenye mambo ya kufurahisha, nina shauku – unajua nini tayari kuhusu dunia hii ya programu? Na sikiliza, ikiwa unatazama maswali haya ukiwa unadhani "sijui kabisa chochote kuhusu hili," hiyo si tu sawa, ni kamilifu! Hii ina maana uko mahali sahihi kabisa. Fikiria mtihani wa awali kama unavyofanya mazoezi kabla ya mazoezi makali – tunapowasha misuli ya ubongo tu!
 
-[Chukua mtihani wa kabla ya somo](https://forms.office.com/r/dru4TE0U9n?origin=lprLink)
+[Chukua jaribio la kabla ya somo](https://ff-quizzes.netlify.app/web/)
 
 
-## Safari Tunayoanza Pamoja
+## Safari Tunayojiandaa Kuingia Pamoja
 
-Sawa, nina furaha sana kuhusu kile tutakachokigundua leo! Kwa kweli, ningependa kuona uso wako unavyotabasamu wakati baadhi ya dhana hizi zitakapoeleweka. Haya ni mambo makuu tunayoyachunguza pamoja:
+Sawa, nina furaha sana kuhusu tunachotaka kugundua leo! Kweli, natamani ningekuona uso wako unaposikia baadhi ya dhana hizi zikitokea. Hapa ni safari ya ajabu tunayochukua pamoja:
 
-- **Programu ni nini hasa (na kwa nini ni jambo la kuvutia zaidi!)** – Tutagundua jinsi msimbo ni nguvu ya kichawi isiyoonekana inayotawaliya kila kitu kinachokuzunguka, kutoka saa yako ya kengele inayojua ni Jumatatu asubuhi hadi algorithm inayoakili mapendekezo yako ya Netflix
-- **Lugha za programu na utu wao wa ajabu** – Fikiria unaingia kwenye sherehe ambapo kila mtu ana nguvu tofauti na njia za kutatua matatizo. Dunia ya lugha za programu ni kama hivyo, na utapenda kuwakutana nao!
-- **Misingi ya msingi inayosababisha uchawi wa kidijitali kutokea** – Fikiria hivi kama seti ya LEGO bora kabisa ya ubunifu. Ukijua jinsi vipande hivi vinavyolingana, utaona unaweza kujenga chochote kinachotokana na mawazo yako
-- **Zana za kitaalamu zitakazokufanya uhisi kama umepata fimbo ya mchawi** – Sio kujaa mbwembwe hapa – zana hizi zitakufanya uhisi kama una nguvu za kichawi, na sehemu nzuri? Ni zile zile zinazotumika na wataalamu!
+- **Programu ni nini hasa (na kwa nini ni jambo la kupendeza sana!)** – Tutagundua jinsi msimbo ni uchawi usioonekana unaounga mkono kila kitu kinachokuzunguka, kuanzia kengele inayojua ni Jumatatu asubuhi hadi algorithm inayochagua mapendekezo yako ya Netflix kwa usahihi
+- **Lugha za programu na tabia zao za ajabu** – Fikiria umeenda kwenye sherehe ambapo kila mtu ana nguvu za kipekee na njia mbalimbali za kutatua matatizo. Hivyo ndivyo ulimwengu wa lugha za programu ulivyo, na utapenda kuwakuta!
+- **Viwango vya msingi vinavyofanya uchawi wa kidijitali kutokea** – Fikiria hivi kama seti ya mwisho ya LEGO za ubunifu. Ukijua jinsi vipande hivi vinavyoungana, utatambua unaweza kujenga chochote ambacho mawazo yako yanaufikiria
+- **Zana za kitaalamu zitakazokufanya uhisi umepokea fimbo ya mchawi** – Sioni ni kufuata hadithi hapa – zana hizi zitakufanya uhisi kama una nguvu za ajabu kabisa, na sehemu nzuri? Ndio zile zile zinazotumiwa na wataalamu!
 
-> 💡 **Hili ni jambo:** Usijaribu kumbuka yote leo! Sasa hivi, nataka ujisikie msisimko wa kile kinachowezekana. Maelezo yatajifunza kwa asili tukiwa tunazoezana – ndiyo jinsi mafunzo halisi yanavyotokea!
+> 💡 **Hili ni jambo:** Usifikirie hata kidogo kujaribu kukumbuka kila kitu leo! Sasa hivi, ninataka tu uhisi msisimko kuhusu kile kinachowezekana. Maelezo yatakaa kiurahisi tunapozoeza pamoja – ndivyo kujifunza kweli kunavyotokea!
 
-> Unaweza kuchukua somo hili kwenye [Microsoft Learn](https://docs.microsoft.com/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
+> Unaweza kuchukua somo hili kwenye [Microsoft Learn](https://learn.microsoft.com/en-us/learn/modules/web-development-101/introduction-programming/?WT.mc_id=academic-77807-sagibbon)!
 
-## Hivyo Basi, Programu Ni Nini Kweli?
+## Basi Programu Ni Nini *Kwa Hakika*?
 
-Sawa, tujiandae kukabiliana na swali la pesa milioni: programu ni nini, kweli?
+Sawa, twendea swali la mamilioni: programu ni nini, kweli?
 
-Nitakuambia hadithi iliyobadilisha kabisa mtazamo wangu kuhusu hili. Wiki iliyopita, nilijaribu kumweleza mama yangu jinsi ya kutumia kidhibiti TV yetu mpya smart. Nilijikuta nikisema vitu kama "Bonyeza kitufe cheupe, lakini si kitufe kikubwa cheupe, ni kidogo upande wa kushoto... hapana, upande mwingine wa kushoto... sawa, sasa shikilia kwa sekunde mbili, si moja, si tatu..." Inajulikana? 😅
+Nitakupa hadithi iliyobadilisha kabisa mtazamo wangu. Wiki iliyopita, nilijaribu kuelezea mama yangu jinsi ya kutumia udhibiti mpya wa televisheni smart yetu. Nilijikuta nikisema vitu kama "Bonyeza kitufe chekundu, lakini sio kitufe kikubwa chekundu, ni kitufe kidogo chekundu kilicho upande wa kushoto... hapana, upande wako mwingine wa kushoto... sawa, sasa shikilia kwa sekunde mbili, sio moja, sio tatu..." Hili linajulikana? 😅
 
-Hiyo ndiyo programu! Ni sanaa ya kutoa maagizo ya kina, hatua kwa hatua kwa kitu chenye nguvu lakini kinahitaji kila kitu kieleweke vizuri. Badala ya kumweleza mama yako (anaweza kuuliza "kitufe cheupe kipi?!"), unamweleza kompyuta (inafanya tu kile unachosema, hata kama hicho siyo ile ulichomaanisha).
+Hiyo ndio programu! Ni sanaa ya kutoa maelekezo ya kina, hatua kwa hatua kwa kitu chenye nguvu lakini kinahitaji kila kitu kielezwe kwa usahihi kabisa. Badala ya kuelezea kwa mama yako (ambaye anaweza kuuliza "kitufe gani chekundu?!"), unamweleza kompyuta (ambayo hufanya kile unachosema, hata kama kile ulichosema si kile ulicho maana).
 
-Hili lilenishangaza nilipolijifunza kwanza: kompyuta ni rahisi hasa ndani yake. Zinachambua vitu viwili tu – 1 na 0, ambayo ni sawa na "ndiyo" na "hapana" au "zima" na "zimewashwa". Hiyo tu! Lakini hapa ndipo kina kichawi kinapoanza – hatuhitaji kuzungumza kwa 1 na 0 kama tunavyofanya katika The Matrix. Hapo ndipo **lugha za programu** zinapokuja kuokoa hali. Ni kama kuwa na mkalimani bora duniani anayechukua mawazo yako ya kawaida ya binadamu na kuyatafsiri kwa lugha ya kompyuta.
+Hili lilinivunja akili nilipolijifunza kwanza: kompyuta hizo ni rahisi sana msingi wake. Hufaulu kuelewa vitu viwili tu – 1 na 0, ambavyo kwa kawaida ni "ndio" na "hapana" au "zim" na "zim" kuzimwa. Hivyo ndivyo! Lakini hapa ndipo uchawi unapoanza – hatuhitaji kuzungumza kwa 1 na 0 kama tunavyoona kwenye The Matrix. Hapo ndipo **lugha za programu** zinapokuja kuokoa. Ni kama kuwa na mtafsiri bora duniani anayechukua mawazo yako ya kawaida ya kibinadamu na kuyatafsiri kwa lugha ya kompyuta.
 
-Na hili linanilia baridi kila asubuhi ninapoamka: kila kitu kidijitali katika maisha yako kilianzishwa na mtu kama wewe, labda amekaa mavazi ya kulala na kikombe cha kahawa, akiandika msimbo kwenye kompyuta yake ndogo. Filteri ya Instagram inayokufanya uonekane mzuri? Mtu aliandika msimbo huo. Mapendekezo yaliyokupeleka kwenye wimbo wako mpya mpendwa? Mtaalamu alijenga algorithm hiyo. Programu inayokusaidia kugawanya bili za chakula na marafiki? Vilevile, mtu aliyedhani "hili linanichosha, nitaweza kulitatua" na kisha... wakafanya!
+Na hapa ni hali inayonifanya nipige baridi kila asubuhi nikiamka: kila kitu kidijitali katika maisha yako kilianzia mtu kama wewe, labda akiwa na pyjamas na kikombe cha kahawa, akiandika msimbo kwenye kompyuta yao mpakato. Chuja la Instagram linalokufanya uonekane mzuri? Mtu aliandika msimbo huo. Mapendekezo yaliyokupeleka kwenye wimbo wako mpya ulioupenda? Mtaalamu alimjenga algorithm hiyo. Programu inayokusaidia kugawanya miongozo ya chakula na marafiki? Naam, mtu alifikiri "hii ni ya kuchosha, ninaweza kuirekebisha" kisha… alifanya hivyo!
 
-Unapojifunza programu, hauchagui tu ujuzi mpya – unajiunga na jamii hii ya ajabu ya watu wanaotafuta kutatua matatizo walioko siku nzima wakijiuliza, "Je, naweza kujenga kitu kitakachofanya mtu afurahie kidogo zaidi?" Kwa kweli, kuna jambo lolote la kuvutia zaidi kuliko hilo?
+Ukiprograma, haujapokea tu ujuzi mpya – unakuwa sehemu ya jamii hii ya ajabu ya watatuaji matatizo wanaotumia siku zao kufikiria, "Je, naweza kujenga kitu kinachomfanya mtu afurahie kidogo?" Kweli, kuna jambo lolote zuri zaidi?
 
-✅ **Tamasha la Habari za Kufurahisha:** Hapa kuna kitu kizuri cha kutafiti unachopata muda – unafikiri ni nani alianza kuandika programu ya kompyuta duniani? Nitakupa dalili: labda si mtu unayemsubiria! Hadithi ya mtu huyu ni ya kusisimua sana na inaonyesha kuwa programu daima imekuwa kuhusu ubunifu wa kutatua matatizo na kufikiria nje ya kawaida.
+✅ **Mbio ya Takwimu:** Hili ni jambo la kupendeza kuangalia wakati una nafasi – una dhana nani aliyekuwa mprogramu wa kompyuta wa kwanza duniani? Nitakupa kidokezo: huenda si mtu unayemsubiria! Hadithi nyuma ya mtu huyu ni ya kuvutia sana na inaonyesha kuwa programu imekuwa juu ya kutatua matatizo kwa ubunifu tangu zamani.
 
-### 🧠 **Wakati wa Kukagua: Unaonaje?**
+### 🧠 **Wakati wa Kuangalia: Unajisikia Vipi?**
 
-**Chukua muda kutafakari:**
-- Je, wazo la "kutoa maagizo kwa kompyuta" linaeleweka kwako sasa?
-- Unaweza kufikiria kazi ya kila siku unayotaka kuiboresha kwa programu?
-- Maswali yapi yanakutokea kuhusu jambo hili zima la programu?
+**Chukua sehemu kidogo kujiuliza:**
+- Je, wazo la "kutoa maelekezo kwa kompyuta" linaeleweka kwako sasa?
+- Unaweza kufikiria kazi ya kila siku ungependa kuizindua kwa programu?
+- Maswali gani yanayozuka moyoni mwako kuhusu programu hii yote?
 
-> **Kumbuka:** Ni kawaida kabisa kama baadhi ya dhana zinakuletea msukosuko sasa. Kujifunza programu ni sawa na kujifunza lugha mpya – inahitaji muda kwa ubongo wako kujenga njia za neva. Unaendelea vizuri sana!
+> **Kumbuka:** Ni kawaida kabisa kama baadhi ya dhana zinaonekana kuchanganya sasa hivi. Kujifunza programu ni kama kujifunza lugha mpya – huchukua muda kwa ubongo wako kuunda njia mpya za akili. Unaendelea vizuri!
 
-## Lugha za Programu Zimefananishwa na Ladha Tofauti za Uchawi
+## Lugha za Programu Ni Kama Ladha Mbalimbali za Uchawi
 
-Sawa, hili litawasikika la ajabu, lakini uko pamoja nami – lugha za programu ni kama aina tofauti za muziki. Fikiria: una jazz, ambayo ni laini na ya kubembeleza, rock yenye nguvu na ya moja kwa moja, classical nzuri na yenye muundo, na hip-hop ya ubunifu na ya kueleza hisia. Kila mtindo una vibe yake, jamii yake ya mashabiki, na kila mmoja ni mzuri kwa hali tofauti na hafla.
+Sawa, hili linaweza kusikika ajabu, lakini endelea na mimi – lugha za programu ni kama mitindo tofauti ya muziki. Fikiria: una jazz, ambayo ni laini na ya kusisimua, rock yenye nguvu na rahisi, classical isiyolazimika na ya kimuundo, na hip-hop yenye ubunifu na maelezo. Kila mtindo una mtazamo wake, jamii yake ya mashabiki mashabiki wa dhati, na kila mmoja ni mzuri kwa hisia na matukio tofauti.
 
-Lugha za programu zinafanya kazi sawa! Hutaweka lugha moja kujenga mchezo wa simu wa kufurahisha unavyotumia kusindika data kubwa za hali ya hewa, kama vile hautakacheza death metal katika darasa la yoga (labda si katika darasa zote za yoga! 😄).
+Lugha za programu hufanya kazi kwa njia ile ile! Husingetumia lugha ile ile kujenga mchezo wa simu unayofurahia na ile unayotumia kuchakata data kubwa ya hali ya hewa, sawa kama huwezi kucheza death metal kwenye darasa la yoga (labda kwa darasa chache la yoga! 😄).
 
-Lakini hii kila mara inanishangaza: lugha hizi ni kama kuwa na mfasiri mwerevu na mwenye subira zaidi duniani anakakaa kando yako. Unaweza kueleza mawazo yako kwa njia inayofaa ubongo wako wa binadamu, nao wanashughulikia kazi ngumu sana ya kutafsiri maneno hayo kuwa 1 na 0 ambao kompyuta husema. Ni kama kukaa na rafiki anayezungumza vizuri sana "ubunifu wa binadamu" na "mantiki ya kompyuta" – na hawachoki, hawahitaji mapumziko ya kahawa, wala hawakufungii maswali mara mbili!
+Lakini hapa ni hali inayonivunja akili kila nikifikiria: lugha hizi ni kama kuwa na mfasiri mwenye subira, mzuri kabisa ulimwenguni ameketi karibu nawe. Unaweza kuelezea mawazo yako kwa njia inayohisi kwa ubongo wako wa kibinadamu, na wao hufanya kazi zote ngumu za kutafsiri hayo kuwa 1 na 0 ambazo kompyuta husema. Ni kama marafiki ambaye anaweza vizuri kabisa kuzungumza "ubunifu wa kibinadamu" na "mantiki ya kompyuta" – na hawachoki, hawahitaji mapumziko ya kahawa, na hawakuchukii kwa kuuliza swali mara mbili!
 
 ### Lugha Maarufu za Programu na Matumizi Yao
 
 ```mermaid
 mindmap
-  root((Lugha za Kuprogramu))
-    Web Development
+  root((Lugha za Programu))
+    Maendeleo ya Wavuti
       JavaScript
         Uchawi wa Mbele
-        Tovuti Zinazoshirikiana
+        Tovuti Zinazoshirikisha
       TypeScript
         JavaScript + Aina
-        Programu za Shirika
+        Maombi ya Biashara
     Data & AI
       Python
-        Sayansi ya Takwimu
+        Sayansi ya Data
         Kujifunza kwa Mashine
-        Uendeshaji wa Kiotomatiki
+        Uendeshaji wa Otomati
       R
         Takwimu
         Utafiti
-    Mobile Apps
+    Programu za Simu
       Java
         Android
-        Shirika
+        Biashara
       Swift
         iOS
         Mfumo wa Apple
       Kotlin
-        Android ya Kisasa
-        Mtandao wa Majukwaa Mbalimbali
-    Systems & Performance
+        Android wa Kisasa
+        Njia Moja kwa Majukwaa Mengi
+    Mifumo & Utendaji
       C++
         Michezo
         Utendaji Muhimu
       Rust
         Usalama wa Kumbukumbu
-        Uandishi wa Mfumo
+        Uprogramu wa Mifumo
       Go
         Huduma za Wingu
-        Sehemu ya Nyuma Inayozidi Kukua
+        Backend Inayoweza Kupanuka
 ```
 | Lugha | Bora Kwa | Kwa Nini Inapendwa |
 |----------|----------|------------------|
-| **JavaScript** | Maendeleo ya mtandao, matumizi ya mtumiaji | Inaendesha kwenye vivinjari na inaua websites zinazojibu |
-| **Python** | Sayansi ya data, otomatiki, AI | Rahisi kusoma na kujifunza, maktaba zenye nguvu |
-| **Java** | Programu za biashara, apps za Android | Haina utegemezi kwa jukwaa, imara kwa mifumo mikubwa |
-| **C#** | Programu za Windows, maendeleo ya michezo | Msaada mkubwa kutoka ekosistimu ya Microsoft |
-| **Go** | Huduma za wingu, mifumo ya nyuma | Haraka, rahisi, imetengenezwa kwa kompyuta za kisasa |
+| **JavaScript** | Maendeleo ya wavuti, kiolesura cha mtumiaji | Inaendesha kwenye vivinjari na inawezesha tovuti za mwingiliano |
+| **Python** | Sayansi ya data, otomatiki, AI | Rahisi kusoma na kujifunza, maktaba yenye nguvu |
+| **Java** | Programu za mashirika, programu za Android | Haina tegemezi ya jukwaa, imara kwa mifumo mikubwa |
+| **C#** | Programu za Windows, maendeleo ya michezo | Msaada imara wa mfumo wa Microsoft |
+| **Go** | Huduma za wingu, mifumo ya nyuma | Haraka, rahisi, iliyoundwa kwa kompyuta za kisasa |
 
-### Lugha za Ngazi ya Juu vs. Ngazi ya Chini
+### Lugha za Kidokezo cha Juu dhidi ya Kidokezo cha Chini
 
-Sawa, hili lilikuwa dhana iliyonifanya nifikirie sana nikiwa namjifunza, kwa hiyo nitakushirikisha mfano uliomsababisha nifahamu – na natumai pia utakupatia mwanga!
+Sawa, hili lilikuwa dhana iliyonivunja akili nilipoanza kujifunza, kwa hivyo nitashiriki mfano ulioupelekea kueleweka – na natumai itakusaidia pia!
 
-Fikiria unasafiri nchi ambako husemi lugha yao, na unahitaji kwa dharura kupata choo kilicho karibu (sote tumesonga hivyo, sivyo? 😅):
+Fikiria unatembelea nchi ambako huwezi kusema lugha yao, na unahitaji sana kupata choo kilicho karibu (sote tumekuwa hapo, sivyo? 😅):
 
-- **Programu za ngazi ya chini** ni sawa na kujifunza lahaja za eneo hadi uweze kuzungumza na bibi anayeuza matunda kona akitumia mafumbo ya kitamaduni, mžio wa mtaa, na vichekesho vya ndani ambavyo mtu aliyekulia hapo ndie atakayafahamu. Ni ya kushangaza na yenye ufanisi sana... ikiwa uko mzuri katika hiyo! Lakini ni mzito unapojaribu tu kupata choo.
+- **Programu za kidokezo cha chini** ni kama kujifunza lahaja ya eneo hadi uweze kuzungumza na bibi anayefuza matunda kwenye kona ukiwa unatumia marejeleo ya kitamaduni, lugha ya mtaa, na vichekesho vya ndani ambavyo mtu aliyelelewa hapo tu anavyoweza kuelewa. Mzuri sana na wa ufanisi mkubwa... ikiwa unazungumza lugha hiyo! Lakini ni changamoto kubwa unapojaribu tu kupata choo.
 
-- **Programu za ngazi ya juu** ni kama kuwa na rafiki mzuri wa huko anayekuelewa. Unaweza kusema "Nahitaji kabisa kupata choo" kwa Kingereza rahisi, nao wanashughulikia tafsiri zote za kitamaduni na kukupa maelekezo yanayofaa ubongo wako usiojua lugha.
+- **Programu za kidokezo cha juu** ni kama kuwa na rafiki mzuri wa eneo anayekuelewa kabisa. Unaweza kusema "Nahitaji kabisa kupata choo" kwa Kiingereza rahisi, naye atatafsiri kitamaduni na kukuongoza kwa njia inayofaa ubongo wako usio wa eneo hilo.
 
-Katika lugha ya programu:
-- **Lugha za ngazi ya chini** (kama Assembly au C) zinakuwezesha kuzungumza kwa maelezo kwa vifaa halisi vya kompyuta, lakini unatakiwa ufikirie kama mashine, ambacho... ni mabadiliko makubwa ya mawazo!
-- **Lugha za ngazi ya juu** (kama JavaScript, Python, au C#) zinakuwezesha kufikiria kama binadamu wakati zinashughulikia lugha ya mashine nyuma. Zaidi ya hayo, zina jamii za watu wanaokukaribisha kwa ukarimu waliokumbuka jinsi ilivyokuwa kuwa mpya na wana hamu kweli ya kusaidia!
+Kwa maneno ya programu:
+- **Lugha za kidokezo cha chini** (kama Assembly au C) zinakuruhusu kuzungumza kwa kina na vifaa halisi vya kompyuta, lakini unahitaji kufikiria kama mashine, ambayo ni... sawa, ni mabadiliko makubwa ya akili!
+- **Lugha za kidokezo cha juu** (kama JavaScript, Python, au C#) zinakuruhusu kufikiria kama binadamu wakati zinashughulikia lugha ya mashine nyuma ya pazia. Zaidi ya hayo, zina jamii za kupokea watu wazowote zilizojaa watu wanaokumbuka jinsi ilivyokuwa kuanza na wana hamu ya kusaidia kweli kabisa!
 
-Vipi unadhani nitakushauri uanze na zipi? 😉 Lugha za ngazi ya juu ni kama magurudumu ya mafunzo ambayo hutaki kuondoa kamwe kwa sababu zinafanya uzoefu kuwa mzuri zaidi!
+Unadhani nitapendekeza kuanzia zipi? 😉 Lugha za kidokezo cha juu ni kama magurudumu ya mazoezi ambayo hutaki kuwazima kamwe kwa sababu hufanya kila kitu kufurahisha zaidi!
 
 ```mermaid
 flowchart TB
-    A["👤 Mawazo ya Binadamu:<br/>'Nataka kuhesabu nambari za Fibonacci'"] --> B{Chagua Kiwango cha Lugha}
+    A["👤 Mawazo ya Binadamu:<br/>'Ninataka kuhesabu nambari za Fibonacci'"] --> B{Chagua Kiwango cha Lugha}
     
-    B -->|High-Level| C["🌟 JavaScript/Python<br/>Rahisi kusoma na kuandika"]
-    B -->|Low-Level| D["⚙️ Assembly/C<br/>Udhibiti wa moja kwa moja wa vifaa"]
+    B -->|Kiwango cha Juu| C["🌟 JavaScript/Python<br/>Rahisi kusoma na kuandika"]
+    B -->|Kiwango cha Chini| D["⚙️ Assembly/C<br/>Udhibiti wa moja kwa moja wa vifaa"]
     
     C --> E["📝 Andika: fibonacci(10)"]
     D --> F["📝 Andika: mov r0,#00<br/>sub r0,r0,#01"]
@@ -164,18 +164,18 @@ flowchart TB
     style D fill:#fff3e0
     style H fill:#e8f5e8
 ```
-### Niruhusu Nikuonyeshe Kwa Nini Lugha za Ngazi ya Juu ni Marafiki Zaidi
+### Niruhusu Nikuonyeshe Kwa Nini Lugha za Kidokezo cha Juu Ni Rafiki Zaidi
 
-Sawa, nitakuonyesha kitu kinachoelezea vizuri kwa nini nilipenda lugha za ngazi ya juu, lakini kwanza – nataka uahidi kitu. Unapoona mfano wa kwanza wa msimbo, usitoke hofu! Inapaswa kuonekana kama inavunja moyo kidogo. Hilo ndilo ninalolielezea!
+Sawa, nitakuonyesha kitu kinachoonyesha kwa ubora kwa nini nilivutiwa na lugha za kidokezo cha juu, lakini kwanza – nahitaji uahidi jambo moja. Ukiona mfano wa kwanza wa msimbo, usitishiwe! Ni kusudi kuonekana ngumu. Hilo ndilo jambo ninanolieleza!
 
-Tutatazama kazi sawa ikifanywa kwa mitindo miwili tofauti kabisa. Zote mbili zinaunda kile kinachoitwa mfuatano wa Fibonacci – ni mfano mzuri wa hisabati ambapo kila namba ni jumla ya zilizo mbili kabla yake: 0, 1, 1, 2, 3, 5, 8, 13... (Habari ya kufurahisha: utaona mfano huu katika asili kila mahali – mizunguko ya mbegu za sunflower, michoro ya magovu, hata namna magalaxi zinavyojengwa!)
+Tutaangalia kazi ile ile kwa mtindo mbili tofauti kabisa. Zote mbili zinaunda mfululizo uitwao Fibonacci – ni mfululizo mzuri wa hisabati ambapo kila namba ni jumla ya mbili zilizo nyuma yake: 0, 1, 1, 2, 3, 5, 8, 13... (Taarifa za kufurahisha: utapata muundo huu kila mahali asili – spiral za mbegu za sunflower, mifumo ya mapipa ya pinecone, hata jinsi galaksi zinavyojengwa!)
 
-Tayari kuona tofauti? Twende!
+Una tayari kuona tofauti? Twende!
 
-**Lugha ya ngazi ya juu (JavaScript) – Rafiki wa binadamu:**
+**Lugha ya kidokezo cha juu (JavaScript) – Rafiki kwa binadamu:**
 
 ```javascript
-// Hatua ya 1: Mpangilio wa msingi wa Fibonacci
+// Hatua 1: Muundo wa msingi wa Fibonacci
 const fibonacciCount = 10;
 let current = 0;
 let next = 1;
@@ -183,14 +183,14 @@ let next = 1;
 console.log('Fibonacci sequence:');
 ```
 
-**Hiki nifanyacho msimbo huu:**
-- **Tangaza** thabiti kuainisha ni namba ngapi za Fibonacci tunazotaka kuunda
-- **Anzisha** vigezo viwili kufuatilia namba ya sasa na inayofuata katika mfuatano
-- **Weka** thamani za mwanzo (0 na 1) zinazofafanua muundo wa Fibonacci
-- **Onyesha** ujumbe wa kichwa ili kutambua matokeo yetu
+**Hili ndilo msimbo huu unafanya:**
+- **Tangaza** thibitisho la kuonyesha ni nambari ngapi za Fibonacci tunazitaka kuzalisha
+- **Anza** variables mbili kufuatilia nambari ya sasa na inayofuata katika mfululizo
+- **Weka** nilipoanzia (0 na 1) zinazobainisha muundo wa Fibonacci
+- **Onyesha** jumbe ya kichwa kufafanua matokeo yetu
 
 ```javascript
-// Hatua ya 2: Tengeneza mlolongo kwa kutumia mduara
+// Hatua ya 2: Tengeneza mlolongo kwa kutumia mzunguko
 for (let i = 0; i < fibonacciCount; i++) {
   console.log(`Position ${i + 1}: ${current}`);
   
@@ -201,14 +201,14 @@ for (let i = 0; i < fibonacciCount; i++) {
 }
 ```
 
-**Kuvunja kile kinachotokea hapa:**
-- **Rudi** kwa kila nafasi katika mfuatano kwa kutumia `for` loop
-- **Onyesha** kila namba na nafasi yake kwa kutumia muundo wa template literal
-- **Hesabu** namba inayofuata ya Fibonacci kwa kuongeza namba ya sasa na inayofuata
-- **Sasa** bora vigezo vyetu kufuata mchakato mwingine
+**Kuvunja kinachotokea hapa:**
+- **Rudia** kila nafasi kwenye mfululizo kwa kutumia `for` loop
+- **Onyesha** kila namba na nafasi yake kwa kutumia mtindo wa template literal
+- **Hesabu** nambari inayofuata ya Fibonacci kwa kuongeza thamani ya sasa na inayofuata
+- **Sasisha** variables zetu kufuatilia mzunguko unaofuata
 
 ```javascript
-// Hatua ya 3: Mbinu ya kisasa ya kazi
+// Hatua 3: Njia ya kisasa ya utendaji
 const generateFibonacci = (count) => {
   const sequence = [0, 1];
   
@@ -224,13 +224,13 @@ const fibSequence = generateFibonacci(10);
 console.log(fibSequence);
 ```
 
-**Hapo juu, tume:**
-- **Tengeneza** kazi inayoweza kutumika tena kwa kutumia sintaksia ya mishale ya kisasa
-- **Jenga** orodha kuhifadhi mfuatano wote badala ya kuonyesha namba moja baada ya nyingine
-- **Tumia** kuorodheshwa kwa orodha kufanikisha hesabu za namba mpya kutoka kwa thamani zilizopita
-- **Rudisha** mfuatano kamili kwa matumizi tofauti sehemu nyingine kwenye programu yetu
+**Hapa juu tumefanya:**
+- **Tengeneza** kazi inayoweza kutumika tena kwa kutumia muundo wa arrow function wa kisasa
+- **Jenga** safu kuhifadhi mfululizo kamili badala ya kuonyesha mmoja mmoja
+- **Tumia** index ya safu kuhesabu kila namba mpya kutoka thamani za awali
+- **Rudisha** mfululizo kamili kwa matumizi rahisi sehemu nyingine za programu yetu
 
-**Lugha ya ngazi ya chini (ARM Assembly) – Rafiki wa kompyuta:**
+**Lugha ya kidokezo cha chini (ARM Assembly) – Rafiki kwa kompyuta:**
 
 ```assembly
  area ascen,code,readonly
@@ -257,63 +257,62 @@ back add r0,r1
  end
 ```
 
-Angalia jinsi toleo la JavaScript linavyosoma karibuni kama maagizo ya Kiingereza, huku toleo la Assembly likitumika amri za fumbo zinazosimamia processor ya kompyuta moja kwa moja. Zote zimefanya kazi ile ile, lakini lugha ya ngazi ya juu ni rahisi kwa wanadamu kuelewa, kuandika, na kudumisha.
+Tazama jinsi toleo la JavaScript linasomeka karibu na maagizo ya Kiingereza, wakati toleo la Assembly linatumia amri za fumbo zinazodhibiti kiatomati processor ya kompyuta. Zote mbili zinatimiza kazi ile ile, lakini lugha ya kidokezo cha juu ni rahisi kwa binadamu kuelewa, kuandika, na kudumisha.
 
-**Tofauti kuu utakazogundua:**
-- **Soma kwa urahisi**: JavaScript inatumia majina ya kuelezea kama `fibonacciCount` wakati Assembly inatumia lebo za fumbo kama `r0`, `r1`
-- **Maoni**: Lugha za ngazi ya juu zinahimiza maoni ya ufafanuzi yanayofanya msimbo uwe na maandishi ya kujieleza peke yake
-- **Muundo**: Mtiririko wa mantiki wa JavaScript unalingana na jinsi binadamu wanavyofikiria matatizo hatua kwa hatua
-- **Matunzo**: Kusasisha toleo la JavaScript kwa mahitaji tofauti ni rahisi na wazi
+**Tofauti kuu utakazoziona:**
+- **Kusomeka kwa urahisi**: JavaScript hutumia majina yanayoeleweka kama `fibonacciCount` wakati Assembly inatumia lebo za fumbo kama `r0`, `r1`
+- **Maoni**: Lugha za ngazi ya juu huchochea maelezo ya maoni ambayo hufanya msimbo uwe na nyaraka za kujieleza
+- **Muundo**: Mtiririko wa mantiki wa JavaScript unaendana na jinsi binadamu wanavyofikiri kuhusu matatizo hatua kwa hatua
+- **Matengenezo**: Kusasisha toleo la JavaScript kwa mahitaji tofauti ni rahisi na wazi
 
-✅ **Kuhusu mfuatano wa Fibonacci**: Muundo huu mzuri kabisa wa nambari (ambapo kila nambari ni jumla ya mbili zilizo mbele yake: 0, 1, 1, 2, 3, 5, 8...) unapatikana kabisa *kila mahali* katika asili! Utauona katika mizunguko ya maua ya jua, mifumo ya mkungu wa maganda ya mfirka, jinsi maganda ya samaki wa baharini yanavyokunja, hata jinsi matawi ya miti yanavyokua. Ni kitu cha kushangaza sana jinsi hisabati na msimbo vinavyotusaidia kuelewa na kuunda tena mifumo ambayo asili hutumia kuonyesha uzuri!
+✅ **Kuhusu mfululizo wa Fibonacci**: Muundo huu wa nambari wa kuvutia sana (ambapo kila nambari ni jumla ya mbili zilizotangulia: 0, 1, 1, 2, 3, 5, 8...) unaonekana hasa *kila mahali* katika asili! Utauona katika mviringo wa maua ya jua, mifumo ya mjusi wa mkanju, jinsi magamba ya nyangumi yanavyozunguka, na hata jinsi matawi ya miti yanavyokua. Inashangaza jinsi hisabati na msimbo vinavyoweza kutusaidia kuelewa na kuunda tena mifano ambayo asili inatumia kuleta uzuri!
 
+## Msingi wa Kujenga Unayefanya Uchawi Kutokee
 
-## Vitu Vinavyounda Uchawi Hufanyika
+Sawa, sasa umeona jinsi lugha za programu zinavyoonekana zinapotekelezwa, basi tukatambue vipengele vya msingi vinavyounda programu zote za hali zote. Fikiria hivi kama viungo muhimu katika mapishi yako unayoyapenda – mara utakapojua kila kimo kinafanya nini, utaweza kusoma na kuandika msimbo kwa karibu kila lugha!
 
-Sawa, sasa umeona jinsi lugha za programu zinavyoonekana zinapotekelezwa, hebu tushambaze vipengele vya msingi vinavyounda kila programu iliyowahi kuandikwa. Fikiria hili kama viungo muhimu katika mapishi yako unayopenda – mara utakapojua kila kimo kinachofanya kazi gani, utaweza kusoma na kuandika msimbo katika karibu lugha yoyote!
+Hii ni kama kujifunza sarufi ya programu. Kumbuka shuleni ulipojifunza kuhusu nomino, vitenzi, na jinsi ya kuunganisha sentensi? Programu zina toleo lao la sarufi, na ukweli ni kwamba ni mantiki zaidi na huruhusu makosa zaidi kuliko sarufi ya Kiingereza! 😄
 
-Hii ni kama kujifunza sarufi ya programu. Kumbuka shuleni ulipojifunza kuhusu nomino, vitenzi, na jinsi ya kutengeneza sentensi? Programu zina toleo la sarufi yao wenyewe, na ukweli ni kwamba ni mantiki zaidi na yenye msamaha kuliko sarufi ya Kiingereza ilivyowahi kuwa! 😄
+### Kauli: Maelekezo Hatua kwa Hatua
 
-### Matamko: Maelekezo Hatua kwa Hatua
+Tuanze na **kauli** – hizi ni kama sentensi tofauti katika mazungumzo na kompyuta yako. Kila kauli inamwambia kompyuta kufanya jambo moja mahususi, kama vile kutoa maelekezo: "Geuka kushoto hapa," "Simama kwenye taa nyekundu," "Paka kwenye sehemu ile."
 
-Tuanze na **matamko** – haya ni kama sentensi katika mazungumzo na kompyuta yako. Kila tamko linaeleza kompyuta kufanya jambo moja maalum, kama kutoa maelekezo: "Geuka kushoto hapa," "Simama kwa taa nyekundu," "Paki kwenye sehemu hiyo."
-
-Ninachopenda kuhusu matamko ni jinsi yanavyosomeka kwa urahisi. Angalia hii:
+Ninachopenda kuhusu kauli ni jinsi zinavyokuwa rahisi kusomeka. Angalia hii:
 
 ```javascript
-// Taarifa za msingi zinazofanya vitendo vya moja kwa moja
+// Matamshi ya msingi yanayofanya vitendo vya moja kwa moja
 const userName = "Alex";                    
 console.log("Hello, world!");              
 const sum = 5 + 3;                         
 ```
 
-**Hivi ndivyo msimbo huu unavyofanya kazi:**
-- **Tangaza** kigezo kisichobadilika kuhifadhi jina la mtumiaji
-- **Onyesha** ujumbe wa salamu kwenye kielekezi cha console
+**Hiki ndicho msimbo huu unafanya:**
+- **Tangaza** kigezo thabiti kuhifadhi jina la mtumiaji
+- **Onyesha** ujumbe wa salamu kwenye sehemu ya matokeo ya console
 - **Hesabu** na uhifadhi matokeo ya operesheni ya hisabati
 
 ```javascript
-// Tamko ambalo linaingiliana na kurasa za wavuti
+// Matamshi yanayoshirikiana na kurasa za wavuti
 document.title = "My Awesome Website";      
 document.body.style.backgroundColor = "lightblue";
 ```
 
-**Hatua kwa hatua, hivi ndivyo vinavyoendelea:**
-- **Badilisha** kichwa cha ukurasa kinachoonekana kwenye kichupo cha kivinjari
+**Hatua kwa hatua, hii ndicho kinachoendelea:**
+- **Badilisha** kichwa cha ukurasa kinachoonekana kwenye sehemu ya kichupo cha kivinjari
 - **Badilisha** rangi ya nyuma ya mwili mzima wa ukurasa
 
 ### Vigezo: Mfumo wa Kumbukumbu wa Programu Yako
 
-Sawa, **vigezo** kwa kweli ni mojawapo ya dhana ninazopenda kufundisha kwa sababu ni kama vitu unavyotumia kila siku!
+Sawa, **vigezo** ni moja ya dhana nadhifu kabisa za kufundisha kwa sababu ni kama vitu unavyotumia kila siku!
 
-Fikiria orodha ya majina kwenye simu yako kwa sekunde. Huwezi kumbuka nambari za kila mtu – badala yake, unahifadhi "Mama," "Rafiki wa karibu," au "Kiwango cha Pizza Kinachowasili Hadi Saa 8 Usiku" na simu yako huhifadhi nambari halisi. Vigezo hufanya kazi kwa njia ile ile! Ni kama vyombo vilivyo na lebo ambavyo programu yako inaweza kuhifadhi taarifa ndani na kuvichukua baadaye kwa kutumia jina linaloeleweka.
+Fikiria orodha ya anwani za simu yako kwa sekunde. Huhifadhi nambari za kila mtu akilini – badala yake unahifadhi "Mama," "Rafiki wa karibu," au "Katikati ya pizza inayofikia hadi saa 8 usiku" na simu yako inahifadhi nambari hizo kwa ajili yako. Vigezo hufanya kazi kwa njia hii hiyo! Ni kama vyombo vyenye lebo ambavyo programu yako inaweza kuhifadhi taarifa na kutoa baadaye kutumia jina linaloeleweka.
 
-Hapa ndiyo jambo la kuvutia: vigezo vinaweza kubadilika programu inapotekelezwa (ndio maana ya jina "variable" – unaona walivyofanya?). Kama unavyoweza kusasisha mawasiliano ya pizzeria ukigundua mahali bora zaidi, vigezo vinaweza kubadilishwa programu inapojifunza au hali zikibadilika!
+Hili ni jambo zuri sana: vigezo vinaweza kubadilika wakati programu yako inapoendesha (ndiyo maana jina "variable" – unaona walivyotumia?). Kama vile unaweza kubadilisha anwani ya pizza ukiwa umegundua mahali bora zaidi, vigezo vinaweza kusasishwa unapoendelea kupata taarifa mpya au hali zinapobadilika!
 
-Hebu nikuonyeshe jinsi hii ni rahisi sana:
+Nikuonyeshe jinsi hii ni rahisi sana:
 
 ```javascript
-// Hatua 1: Kuunda vigezo vya msingi
+// Hatua 1: Kuweka vigezo vya msingi
 const siteName = "Weather Dashboard";        
 let currentWeather = "sunny";               
 let temperature = 75;                       
@@ -323,11 +322,11 @@ let isRaining = false;
 **Kuelewa dhana hizi:**
 - **Hifadhi** thamani zisizobadilika katika vigezo vya `const` (kama jina la tovuti)
 - **Tumia** `let` kwa thamani zinazobadilika katika programu yako
-- **Toa** aina tofauti za data: nyuzi (maneno), nambari, na boolean (kweli/sikuwa kweli)
-- **Chagua** majina ya kueleza yaliyotaja kile kila kigezo kinachohifadhi
+- **Weka** aina tofauti za data: mistari (maneno), nambari, na boolean (kweli/sikhoji)
+- **Chagua** majina yanayoelezea kile kila kigezo kinachohifadhi
 
 ```javascript
-// Hatua ya 2: Kufanya kazi na vitu kuandaa data zinazohusiana
+// Hatua ya 2: Kufanya kazi na vitu kuunganisha data zinazohusiana
 const weatherData = {                       
   location: "San Francisco",
   humidity: 65,
@@ -335,10 +334,10 @@ const weatherData = {
 };
 ```
 
-**Juu ya hapo, tume:**
-- **Tengeneza** kitu ili kuunganisha taarifa za hali ya hewa zinazohusiana
+**Katika mfano huu tume:**
+- **Tengeneza** kipengee cha kuunganisha taarifa za hali ya hewa
 - **Panga** vipande vingi vya data chini ya jina moja la kigezo
-- **Tumia** jozi za funguo na thamani kuweka lebo wazi kwa kila kipande cha taarifa
+- **Tumia** jozi za funguo na thamani kuweka kila sehemu ya taarifa wazi
 
 ```javascript
 // Hatua ya 3: Kutumia na kusasisha vigezo
@@ -350,35 +349,35 @@ currentWeather = "cloudy";
 temperature = 68;                          
 ```
 
-**Hebu tuelewe kila sehemu:**
-- **Onyesha** taarifa kwa kutumia mistari ya kiolezo na sintaksia ya `${}`
-- **Pata** mali za kitu kwa kutumia alama ya doa (`weatherData.windSpeed`)
-- **Sasisha** vigezo vilivyotangazwa kwa `let` kuonyesha hali zinazobadilika
-- **Changanya** vigezo vingi kutengeneza ujumbe wenye maana
+**Tuelewe kila sehemu:**
+- **Onyesha** taarifa kwa kutumia template literals na muundo wa `${}`
+- **Pata** mali za kipengee kwa kutumia alama ya doa (`weatherData.windSpeed`)
+- **Sasisha** vigezo vilivyotangazwa kwa `let` kuonyesha mabadiliko
+- **Changanya** vigezo vingi kuunda ujumbe wenye maana
 
 ```javascript
-// Hatua ya 4: Uvunjaji wa kisasa kwa msimbo safi zaidi
+// Hatua ya 4: Uharibifu wa kisasa kwa msimbo safi zaidi
 const { location, humidity } = weatherData; 
 console.log(`${location} humidity: ${humidity}%`);
 ```
 
 **Unachohitaji kujua:**
-- **Chukua** mali maalum kutoka kwa vitu kwa kutumia mgawanyiko wa ugawaji
-- **Tengeneza** vigezo vipya moja kwa moja kwa majina sawa na funguo za kitu
-- **Rahisisha** msimbo kwa kuepuka kutumia alama ya doa mara kwa mara
+- **Toa** mali maalum kutoka kwa vitu kwa kutumia destructuring assignment
+- **Tengeneza** vigezo vipya kiotomatiki kwa majina sawa na funguo za vitu
+- **Rahisisha** msimbo kwa kuepuka kutumia mara kwa mara alama ya doa
 
-### Mtiririko wa Udhibiti: Kufundisha Programu Yako Kufikiria
+### Mtiririko wa Udhibiti: Kufundisha Programu Yako Kufikiri
 
-Sawa, hapa ndipo programu inapoanza kuwa ya kushangaza kabisa! **Mtiririko wa udhibiti** ni kama kufundisha programu yako jinsi ya kufanya maamuzi bora, kama unavyoyafanya kila siku bila hata kufikiria.
+Sawa, hili ndilo sehemu ambapo programu zinakuwa za kushangaza sana! **Mtiririko wa udhibiti** ni kufundisha programu yako jinsi ya kufanya maamuzi mahiri, kama unavyofanya kila siku bila hata kufikiria.
 
-Fikiria hili: asubuhi hii labda ulipitia kitu kama "Ikiwa mvua inanyesha, nitachukua mwavuli. Ikiwa ni baridi, nitavaa koti. Ikiwa ninachelewa, nitaruka chakula cha asubuhi na kuchukua kahawa njiani." Ubongo wako hufuata mfumo huu wa ikiwa-basi mara nyingi kila siku!
+Fikiria hivi: leo mchana huenda ulikuwa unafuata mtiririko wa "Kama mvua inanyesha, nitanua mwavuli. Kama ni baridi, nitavaa koti. Kama nimeshindwa kufika, nitaacha chakula cha asubuhi na kunywa kahawa njiani." Ubongo wako huenda kufuata mantiki hii ya if-then mara kadhaa kila siku!
 
-Hii ndio inafanya programu kuwa na akili na hai badala ya kufuata tu maandishi ya kawaida na yasiyobadilika. Zinatoa uwezo wa kutathmini hali, kuamua kinachotokea, na kuonyesha majibu yanayofaa. Ni kama kumnyima programu yako ubongo unaoweza kuendana na kufanya uchaguzi!
+Hili ndilo linavyofanya programu kuonekana kuwa na akili na kuishi badala ya kufuata tu skripti za kawaida zisizo za kuburudisha. Zinapitia hali, zinafikiria kinachotokea, na zimetuma majibu yanayotakiwa. Ni kama kumpa programu ubongo unaobadilika na kufanya maamuzi!
 
-Unataka kuona jinsi hii inavyofanya kazi kwa urembo? Hebu nikuonyeshe:
+Unataka kuona jinsi hii inavyofanya kazi kwa ufanisi? Nikuonyeshe:
 
 ```javascript
-// Hatua 1: Mantiki ya msingi ya masharti
+// Hatua 1: Mantiki ya masharti ya msingi
 const userAge = 17;
 
 if (userAge >= 18) {
@@ -389,14 +388,14 @@ if (userAge >= 18) {
 }
 ```
 
-**Hivi ndivyo msimbo huu unavyofanya kazi:**
-- **Angalia** kama umri wa mtumiaji unakidhi sharti la kupiga kura
+**Hili ndilo msimbo huu unafanya:**
+- **Angalia** kama umri wa mtumiaji unakidhi mahitaji ya kupiga kura
 - **Tekeleza** sehemu tofauti za msimbo kulingana na matokeo ya hali
-- **Hesabu** na onyesha muda hadi mtu aweze kupiga kura akihitaji zaidi ya 18
-- **Toa** maoni maalum na ya msaada kwa kila hali
+- **Hesabu** na onyesha muda uliobaki kabla ya kufikia umri wa kupiga kura ikiwa chini ya miaka 18
+- **Toa** maoni mahususi na ya msaada kwa kila hali
 
 ```javascript
-// Hatua ya 2: Masharti mengi na vibonye vya kiakili
+// Hatua ya 2: Masharti mengi kwa kutumia waendeshaji mantiki
 const userAge = 17;
 const hasPermission = true;
 
@@ -409,22 +408,22 @@ if (userAge >= 18 && hasPermission) {
 }
 ```
 
-**Kueleza kinachotokea hapa:**
-- **Changanua** masharti mengi kwa kutumia kiendeshaji `&&` (na)
+**Kuvunja kile kinachotokea hapa:**
+- **Changanya** masharti mengi kwa kutumia operator wa `&&` (na)
 - **Tengeneza** ngazi ya masharti kwa kutumia `else if` kwa matukio mengi
-- **Shughulikia** kesi zote zinazowezekana kwa matamko ya mwisho `else`
-- **Toa** maoni wazi na yanayotekelezeka kwa kila hali tofauti
+- **Shughulikia** kesi zote zinazowezekana kwa kauli ya `else` ya mwisho
+- **Toa** maoni wazi, yanayoweza kuchukuliwa hatua kwa kila hali tofauti
 
 ```javascript
-// Hatua ya 3: Masharti mafupi kwa kutumia mtendaji wa ternary
+// Hatua ya 3: Hali fupi kwa kutumia operator ya ternary
 const votingStatus = userAge >= 18 ? "Can vote" : "Cannot vote yet";
 console.log(`Status: ${votingStatus}`);
 ```
 
 **Unachohitaji kukumbuka:**
-- **Tumia** kiendeshaji cha ternary (`? :`) kwa masharti rahisi yenye chaguo mbili
-- **Andika** hali kwanza, ikifuatiwa na `?`, kisha matokeo ya kweli, kisha `:`, kisha matokeo ya uongo
-- **Tumia** muundo huu wakati unahitaji kugawa thamani kulingana na masharti
+- **Tumia** operator ya ternary (`? :`) kwa masharti rahisi ya chaguzi mbili
+- **Andika** sharti kwanza, ikifuatiwa na `?`, kisha matokeo ya kweli, kisha `:`, halafu matokeo ya uongo
+- **Tumia** muundo huu wakati unahitaji kuweka thamani kulingana na masharti
 
 ```javascript
 // Hatua ya 4: Kushughulikia kesi nyingi maalum
@@ -447,55 +446,55 @@ switch (dayOfWeek) {
 }
 ```
 
-**Msimbo huu unatekeleza yafuatayo:**
-- **Linganya** thamani ya kigezo dhidi ya kesi maalum nyingi
-- **Kusanya** kesi zinazofanana pamoja (siku za wiki dhidi ya wikendi)
-- **Tekeleza** sehemu sahihi ya msimbo pale tukio linapopatikana
-- **Jumlisha** kesi ya `default` kushughulikia thamani zisizotarajiwa
-- **Tumia** matamko ya `break` kuzuia msimbo kuendelea kwenye kesi inayofuata
+**Msimbo huu unafanikisha yafuatayo:**
+- **Linganisho** thamani ya kigezo kwa kesi nyingi maalum
+- **Kusanya** kesi zinazofanana pamoja (siku za kazi dhidi ya wikendi)
+- **Tekeleza** msimbo unaofaa wakati kuna mlingano
+- **Jumuisha** kesi ya `default` kushughulikia thamani zisizotarajiwa
+- **Tumia** kauli za `break` kuzuia msimbo kuendelea hadi kesi inayofuata
 
-> 💡 **Mfano wa ulimwengu halisi**: Fikiria mtiririko wa udhibiti kama GPS mwenye subira zaidi duniani akikuongoza. Inaweza kusema "Ikiwa kuna msongamano barabarani Main Street, chukua njia kuu badala yake. Ikiwa ujenzi unazui njia kuu, jaribu njia ya mandhari." Programu hutumia mantiki kama hii ya masharti kujibu kwa busara hali tofauti na kuwapatia watumiaji uzoefu bora zaidi kila mara.
+> 💡 **Mfano wa maisha halisi**: Fikiria mtiririko wa udhibiti kama GPS yenye uvumilivu mkubwa sana ikikupa maelekezo. Inaweza kusema "Kama kuna foleni Main Street, chukua barabara kuu badala yake. Kama ujenzi unazuia barabara kuu, jaribu njia ya mandhari nzuri." Programu hutumia mantiki hii ya masharti kwa makini kujibu hali tofauti na kila wakati kuwapa watumiaji uzoefu bora zaidi.
 
-### 🎯 **Kukagua Dhana: Ustadi wa Vitu Vinavyojengwa**
+### 🎯 **Kukagua Dhana: Ustadi wa Msingi wa Kujenga**
 
-**Tuwone jinsi unavyoendelea na msingi:**
-- Unaweza kuelezea tofauti kati ya kigezo na tamko kwa maneno yako mwenyewe?
-- Fikiria tukio halisi ambalo ungeweza kutumia uamuzi wa ikiwa-basi (kama mfano wetu wa kupiga kura)
-- Ni jambo gani moja kuhusu mantiki ya programu lililokushtua?
+**Tuweze kuona utendaji wako na misingi:**
+- Je, unaweza kueleza tofauti kati ya kigezo na kauli kwa maneno yako?
+- Fikiria mfano halisi wa maisha ambapo utatumia maamuzi ya if-then (kama mfano wetu wa kupiga kura)
+- Nini kitu kimoja kuhusu mantiki ya programu kilichokushangaza?
 
-**Kudhibiti kujiamini kwa haraka:**
+**Kukuinua kwa haraka:**
 ```mermaid
 flowchart LR
-    A["📝 Taarifa<br/>(Maelekezo)"] --> B["📦 Vigezo<br/>(Hifadhi)"] --> C["🔀 Mtiririko wa Udhibiti<br/>(Maamuzi)"] --> D["🎉 Programu Inayofanya Kazi!"]
+    A["📝 Kauli<br/>(Maelekezo)"] --> B["📦 Vigezo<br/>(Hifadhi)"] --> C["🔀 Mwangalizi wa Mtiririko<br/>(Maamuzi)"] --> D["🎉 Programu Inayofanya Kazi!"]
     
     style A fill:#ffeb3b
     style B fill:#4caf50
     style C fill:#2196f3
     style D fill:#ff4081
 ```
-✅ **Kinachokuja baadaye**: Tutaendelea na furaha kubwa kujifunza dhana hizi kwa kina katika safari hii ya ajabu pamoja! Kwa sasa, zingatia tu kuhisi msisimko kuhusu fursa zote za ajabu zilizo mbele yako. Ujuzi na mbinu maalum zitakwenda kushika asili unapoendelea kutekeleza pamoja nami – naahidi hii itakuwa ya kufurahisha zaidi kuliko unavyoweza kufikiria!
+✅ **Kinacho kuja hivi karibuni**: Tutafurahia sana kuingia kwa undani zaidi katika dhana hizi tunapoendelea katika safari hii ya kushangaza pamoja! Kwa sasa, zingatia hisia ya msisimko kuhusu fursa zote za kushangaza zilizo mbele yako. Ujuzi maalum na mbinu zitakaa akili zako bila shaka tunapozoea pamoja – naahidi hili litakuwa burudani zaidi ya unavyotarajia!
 
 ## Vifaa vya Kazi
 
-Sawa, hapa ndio ninapojawa msisimko usioweza kujificha! 🚀 Tutazungumzia zana za ajabu zitakazokufanya ujisikie kama umepewa funguo za chombo cha anga la kidijitali.
+Sawa, hii ni sehemu ambayo ninapojisikia msisimko mno kwamba siwezi kujiweka kimya! 🚀 Tutaongea kuhusu zana za kushangaza zitakazokuvutia kama vile umepata funguo za meli ya angani ya kidigitali.
 
-Unajua vile mpishi anavyo kuwa na visu vilivyopimwa vyema vinavyofanya kama kweli ni sehemu ya mikono yao? Au mpiga gitaa kuwa na gitaa moja inayopiga nyimbo mara anapoigusa? Sawa, waendelezaji wana toleo lao la zana hizi za kichawi, na hapa ndipo utakaposhtushwa kabisa – nyingi wao ni bure kabisa!
+Unajua jinsi mpishi anavyo na visu vilivyo sawa kabisa vinavyoonekana kama viungo vya mikono yake? Au jinsi mwanamuziki anavyo na gita moja inayopiga wimbo mara anapogusa? Kweli, waendelezaji wana toleo lao la zana za kichawi hizi, na hapa ndilo jipya litakalokuvutia – wengi wao ni bure kabisa!
 
-Mimi hivi sasa ninainuka kiti kwa kufikiria kushiriki hizi kwa sababu zimebadilisha kabisa jinsi tunavyojenga programu. Tunazungumzia msaada wa kuandika msimbo unaotumia AI (sihutaji usemi!), mazingira ya wingu ambapo unaweza kujenga programu nzima mahali popote ulipo na Wi-Fi, na zana za kuondoa hitilafu zenye kufikia kiwango cha kuona kwa sarafu kwa programu zako.
+Nipo hapa nikiwaza kutoa hizi kwako kwa msisimko mkubwa kwa sababu zimebadilisha kabisa jinsi tunavyotengeneza programu. Tunazungumzia wasaidizi wa kuandika msimbo wenye uwezo wa AI (siyo mcheshi!), mazingira ya wingu ya kujenga programu kutoka mahali popote ukiwa na Wi-Fi, na zana za utatuzi wa hitilafu ambazo ni za hali ya juu kiasi kwamba ni kama kuwa na macho ya X-ray kwa programu zako.
 
-Na hapa ndio sehemu inayonipa baridi ya msisimko: hizi si zana za "wanzo" utakazokua nazo. Hizi ni zana sawa za kitaalamu zinazotumiwa sasa hivi na waendelezaji Google, Netflix, na studio ya programu za indie unazopenda. Utajisikia kama mtaalamu sana kuzitumia!
+Na hapa ni sehemu inayonipa vichwa pepesa: hizi si “zana za wanaoanza” ambazo utakazokua nazo. Hizi ni zana za kiwango cha kitaalamu zinazotumika na waendelezaji katika Google, Netflix, na studio hiyo ya app unayopenda sasa hivi. Utaona kama mtaalamu mwenye uzoefu ukizitumia!
 
 ```mermaid
 graph TD
     A["💡 Wazo Lako"] --> B["⌨️ Mhariri wa Msimbo<br/>(VS Code)"] 
-    B --> C["🌐 Zana za Mvumbuzi wa Kivinjari<br/>(Upimaji & Usahihishaji)"]
-    C --> D["⚡ Amri ya Mstari<br/>(Uendeshaji wa Mifumo & Zana)"]
+    B --> C["🌐 Zana za Mendeja wa Kivinjari<br/>(Upimaji & Urekebishaji)"]
+    C --> D["⚡ Mstari wa Amri<br/>(Uendeshaji na Zana)"]
     D --> E["📚 Nyaraka<br/>(Kujifunza & Marejeleo)"]
-    E --> F["🚀 Tovuti Bora!"]
+    E --> F["🚀 Programu ya Ajabu ya Mtandao!"]
     
     B -.-> G["🤖 Msaidizi wa AI<br/>(GitHub Copilot)"]
-    C -.-> H["📱 Upimaji wa Vifaa<br/>(Ubunifu unaolingana)"]
-    D -.-> I["📦 Wasimamizi wa Pakiti<br/>(npm, yarn)"]
+    C -.-> H["📱 Upimaji wa Kifaa<br/>(Ubunifu wa Kujibu)"]
+    D -.-> I["📦 Wasimamizi wa Paket<br/>(npm, yarn)"]
     E -.-> J["👥 Jamii<br/>(Stack Overflow)"]
     
     style A fill:#fff59d
@@ -505,108 +504,107 @@ graph TD
     style I fill:#ffccbc
     style J fill:#e8eaf6
 ```
-### Wahariri wa Msimbo na IDEs: Marafiki Wako Wapya Kidijitali
+### Wahariri wa Msimbo na IDEs: Marafiki Wako wa Kidigitali Wapya
 
-Tuzungumze kuhusu wahariri wa msimbo – hawa kweli wanakaribia kuwa sehemu unayopenda kupita popote! Fikiria ni makazi yako binafsi ya kuandika msimbo ambapo utatumia muda mwingi kutengeneza na kuboresha kazi zako za kidijitali.
+Tuzungumze kuhusu wahariri wa msimbo – hawa ni kiasi kwamba watakuwa mahali pako unayopenda zaidi! Fikiria kama ni mahali pako pa faragha pa kuandika msimbo ambapo utatumia muda mwingi kutengeneza na kuboresha kazi zako za kidigitali.
 
-Lakini hapa ni pepo la kisasa juu ya wahariri: siyo wahariri wa maandishi tu wa kawaida. Ni kama kuwa na mshauri wa programu mwenye akili sana na msaada karibu nawe saa 24/7. Wanakukuta makosa kabla hujayaona, kupendekeza maboresho yanayokufanya uonekane mwerevu, kusaidia kuelewa kila kipande cha msimbo, na baadhi yao hata hupredict ni nini ungeandika kisha hutoa kumalizia mawazo yako!
+Lakini jambo la kichawi kuhusu wahariri wa kisasa: si wahariri wa maandishi tu. Ni kama kuwa na mwalimu mwerevu na mwenye msaada karibu nawe saa 24 kwa siku. Wanakushika makosa kabla hujayagundua, hupendekeza maboresho ambayo hufanya uonekane mwerevu, husaidia kuelewa kila sehemu ya msimbo, na baadhi yao hata hutabiri unachotaka kuandika na kukamilisha mawazo yako!
 
-Nakumbuka nilipogundua auto-completion mara ya kwanza – nilihisi nafanya kazi huko siku zijazo. Unaanza kuandika kitu, na mhariri wako husema, "Hey, ungekuwa unafikiria kuhusu hii function ambayo inafanya hasa unachohitaji?" Ni kama kuwa na mtu asomao mawazo yako kuwa rafiki yako wa kuandika msimbo!
+Nakumbuka nilipoanza kugundua auto-completion – nilihisi kama maisha yangu yalikuwa ya baadaye. Unaandika kitu, na mhariri wako husema, "Hey, ulikuwa unafikiria kuhusu kipengee hiki kinachofanya hasa unachohitaji?" Ni kama kuwa na rafiki anayekusoma mawazo wakati unajiandaa kuandika!
 
-**Nini hufanya wahariri hawa kuwa wa ajabu hivi?**
+**Nini kinachofanya wahariri hawa kuwa wa ajabu?**
 
-Wahariri wa msimbo wa kisasa hutoa vipengele vya kuvutia vilivyobuniwa kuongeza utendaji wako:
+Wahariri wa msimbo wa kisasa hutoa vipengele vya kuvutia vilivyotengenezwa kuongeza tija yako:
 
-| Kipengele | Kazi Yake | Kwanini Inasaidia |
+| Kipengele | Kinachofanya | Kwa Nini Inasaidia |
 |---------|--------------|--------------|
-| **Uangazaji wa Sintaksia** | Rangi sehemu tofauti za msimbo wako | Hufanya msimbo kusomeka kwa urahisi na kugundua makosa |
-| **Auto-completion** | Hupendekeza msimbo unapoandika | Huongeza kasi ya kuandika na hupunguza makosa ya tahajia |
-| **Zana za Kuondoa Hitilafu** | Husaidia kupata na kurekebisha makosa | Huokoa muda mwingi wa kutatua matatizo |
-| **Nyongeza (Extensions)** | Ongeza vipengele maalum | Badilisha mhariri wako kwa teknolojia yoyote |
-| **Msaidizi wa AI** | Hupendekeza msimbo na maelezo | Huongeza kasi ya kujifunza na utendakazi |
+| **Uakisi wa Muundo wa Msimbo** | Rangi tofauti kwa sehemu tofauti za msimbo wako | Hufanya msimbo kusomeka rahisi na kugundua makosa |
+| **Auto-completion** | Hupendekeza msimbo unapoandika | Huongeza kasi ya kuandika msimbo na kupunguza makosa ya tahajia |
+| **Zana za Utatuzi Hitilafu** | Husaidia kupata na kurekebisha makosa | Huokoa saa nyingi za kutatua matatizo |
+| **Miongezo** | Ongeza vipengele maalum | Badilisha mhariri kulingana na teknolojia yoyote |
+| **Msaidizi wa AI** | Pendekeza msimbo na maelezo | Huongeza kasi ya kujifunza na tija |
 
-> 🎥 **Rasilimali ya Video**: Unataka kuona zana hizi zikifanya kazi? Angalia [Video ya Tools of the Trade](https://youtube.com/watch?v=69WJeXGBdxg) kwa muhtasari kamili.
+> 🎥 **Rasilimali ya Video**: Unataka kuona zana hizi zikifanyakazi? Angalia video hii ya [Tools of the Trade](https://youtube.com/watch?v=69WJeXGBdxg) kwa muhtasari kamili.
 
-#### Wahariri Waliopendekezwa kwa Maendeleo ya Mtandao
+#### Wahariri waliopendekezwa kwa Maendeleo ya Wavuti
 
 **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)** (Bure)
-- Maarufu zaidi miongoni mwa waendelezaji wavuti
-- Mfumo bora wa nyongeza
-- Terminal iliyojengwa ndani na ushirikiano wa Git
-- **Nyongeza muhimu:**
-  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - mapendekezo ya msimbo yanayotolewa na AI
-  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - ushirikiano wa wakati halisi
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - upangaji wa msimbo kiotomatiki
-  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - kugundua makosa ya tahajia katika msimbo wako
+- Maarufu sana miongoni mwa waendelezaji wa wavuti
+- Mfumo bora wa miongezo
+- Terminal na ushirikiano wa Git umejumuishwa
+- **Miongezo muhimu:**
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Mapendekezo ya msimbo yanayotokana na AI
+  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Ushirikiano wa wakati halisi
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Uombaji wa msimbo wa moja kwa moja
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Kugundua makosa ya tahajia
 
-**[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)** (Inalipiwa, bure kwa wanafunzi)
-- Zana za hali ya juu za kuondoa hitilafu na upimaji
-- Ukomo wa msimbo wenye akili
-- Udhibiti wa toleo uliojengwa ndani
+**[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)** (Malipo, bure kwa wanafunzi)
+- Zana za juu za utatuzi na upimaji
+- Kukamilisha msimbo kwa akili
+- Udhibiti wa toleo umejumuishwa
 
 **IDEs za Kwenye Wingu** (Bei mbalimbali)
-- [GitHub Codespaces](https://github.com/features/codespaces) - VS Code kamili kupitia kivinjari chako
+- [GitHub Codespaces](https://github.com/features/codespaces) - VS Code kamili kwenye kivinjari chako
 - [Replit](https://replit.com/) - Bora kwa kujifunza na kushiriki msimbo
-- [StackBlitz](https://stackblitz.com/) - Maendeleo ya wavuti ya haraka na kamili
+- [StackBlitz](https://stackblitz.com/) - Maendeleo ya wavuti muendelezo wa haraka
 
-> 💡 **Ushauri wa Kuanzisha**: Anza na Visual Studio Code – ni bure, inatumiwa sana katika sekta, na ina jamii kubwa inayounda mafunzo na nyongeza zinazosaidia.
+> 💡 **Kidokezo cha Kuanza**: Anza na Visual Studio Code – ni bure, hutumika sana katika sekta, na ina jumuiya kubwa inayotengeneza mafunzo na miongezo yenye msaada.
 
+### Vivinjari vya Wavuti: Maabara Yako ya Siri ya Maendeleo
 
-### Vivinjari vya Mtandao: Maabara Yako ya Siri ya Maendeleo
+Sawa, jiandae kufurahia sana! Unajua jinsi ulivyokuwa ukitumia vivinjari kuvinjari mitandao ya kijamii na kuangalia video? Kweli, imebainika wamekuwa wakiweka siri hii ya maabara ya kitaalamu ya maendeleo kwa muda mrefu, wakikusubiri uigundue!
 
-Sawa, jiandae kushtuka kabisa! Unajua vile umekuwa ukitumia vivinjari kugonga mitandao ya kijamii na kutazama video? Sasa, zimekuwa zikificha maabara hii ya siri ya waendelezaji wakati wote, zikikusubiri ugundue!
+Kila mara unapotumia kitufe cha kulia na kuchagua "Inspect Element" kwenye ukurasa wa wavuti, unafungua dunia ya zana za waendelezaji ambazo ni zenye nguvu kuliko baadhi ya programu ghali nilizotumia kununua kwa mamilioni ya pesa. Ni kama kugundua jikoni yako ya kawaida imekuwa ikificha maabara ya mpishi mtaalamu nyuma ya paneli ya siri!
+Mara ya kwanza mtu alinionesha DevTools za kivinjari, nilitumia kama saa tatu nikibonyeza sehemu mbalimbali na kusema "SUBIRI, INAWEZA KUFANYA HIVYO PIA?!" Unaweza kuhariri tovuti yoyote kwa wakati halisi, ukaona haraka kabisa vitu vyote vinavyopakia, kujaribu jinsi tovuti yako inavyoonekana kwenye vifaa tofauti, na hata kutatua matatizo ya JavaScript kama mtaalamu kabisa. Ni jambo linaloshangaza akili kabisa!
 
-Kila mara unabonyeza kitufe cha kulia kwenye ukurasa wa wavuti na kuchagua "Inspekta Kipengele," unafungua dunia iliyofichwa ya zana za waendelezaji ambazo kwa kweli zina nguvu zaidi kuliko programu ghali nilizolipia mamia ya dola zamani. Ni kama kugundua jikoni lako la kawaida lina maabara ya mpishi mtaalamu nyuma ya paneli ya siri!
-Mara ya kwanza mtu alinionyesha browser DevTools, nilitumia kama saa tatu nikibofya hapa na pale na kusema "SAA, INAWEZA KUFANYA HIVYO PIA?!" Unaweza kuhariri tovuti yoyote kwa wakati halisi, kuona haraka kabisa mambo yote yanapotapakaa, kujaribu jinsi tovuti yako inavyoonekana kwenye vifaa tofauti, na hata kutambua makosa ya JavaScript kama mtaalamu kweli. Ni ajabu kabisa!
+**Hapa ndiyo sababu kivinjari ni silaha yako ya siri:**
 
-**Hii ndiyo sababu vivinjari ni silaha yako ya siri:**
+Unapotengeneza tovuti au programu ya wavuti, unahitaji kuona jinsi inavyoonekana na inavyojieleza duniani halisi. Vivinjari haviwezi tu kuonyesha kazi yako bali pia hutoa maoni ya kina kuhusu utendaji, upatikanaji, na matatizo yanayoweza kutokea.
 
-Unapoanzisha tovuti au programu ya wavuti, unahitaji kuona jinsi inavyoonekana na tabia zake katika ulimwengu halisi. Vivinjari havionyeshi tu kazi yako bali pia hutoa maoni ya kina kuhusu utendaji, upatikanaji, na matatizo yanayoweza kutokea.
+#### Zana za Mendelezaji wa Kivinjari (DevTools)
 
-#### Zana za Mwandishi za Vivinjari (DevTools)
+Vivinjari vya kisasa vina zana kamili za maendeleo:
 
-Vivinjari vya kisasa vina seti kamili za maendeleo:
-
-| Kategoria ya Zana | Inafanya Nini | Mfano wa Matumizi |
-|-------------------|--------------|--------------------|
+| Kategoria ya Zana | Inayofanya | Mfano wa Matumizi |
+|-------------------|-------------|-------------------|
 | **Kikagua Kipengele** | Tazama na hariri HTML/CSS kwa wakati halisi | Rekebisha mtindo kuona matokeo mara moja |
-| **Konsoli** | Tazama ujumbe wa makosa na jaribu JavaScript | Tambua matatizo na jaribu msimbo |
-| **Kisimamia Mtandao** | Fuatilia jinsi rasilimali zinavyopakuliwa | Boresha utendaji na muda wa kupakia |
-| **Kikagua Upatikanaji** | Jaribu muundo wa ujumuishaji | Hakikisha tovuti yako inafanyakazi kwa watumiaji wote |
-| **Mfananishi wa Vifaa** | Angalia kwenye saizi tofauti za skrini | Jaribu muundo unaojibu bila vifaa vingi |
+| **Konsoli** | Tazama ujumbe wa makosa na jaribu JavaScript | Tatua matatizo na jaribu msimbo |
+| **Mfuatiliaji Mtandao** | Fuata jinsi rasilimali zinavyopakuliwa | Boresha utendaji na nyakati za upakiaji |
+| **Kikagua Upatikanaji** | Jaribu muundo wenye usawa kwa wote | Hakikisha tovuti yako inafanya kazi kwa watumiaji wote |
+| **Mfano wa Kifaa** | Angalia kwenye ukubwa mbalimbali wa skrini | Jaribu muundo unaobadilika bila vifaa vingi |
 
-#### Vivinjari Vinavyopendekezwa kwa Maendeleo
+#### Vivinjari Vilivyopendekezwa kwa Maendeleo
 
-- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** - DevTools za kiwango cha viwandani zenye nyaraka za kina
+- **[Chrome](https://developers.google.com/web/tools/chrome-devtools/)** - DevTools za kiwango cha tasnia na nyaraka nyingi
 - **[Firefox](https://developer.mozilla.org/docs/Tools)** - Zana bora za CSS Grid na upatikanaji
-- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** - Jengwa juu ya Chromium na rasilimali za waendelezaji wa Microsoft
+- **[Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)** - Imejengwa juu ya Chromium pamoja na rasilimali za maendeleo za Microsoft
 
-> ⚠️ **Kumbuka Muhimu kwa Upimaji**: Daima jaribu tovuti zako kwenye vivinjari vingi! Kile kinachofanya kazi vizuri Chrome kinaweza kuonekana tofauti Safari au Firefox. Waendelezaji wataalamu hujaribu kwenye vivinjari vyote vikubwa kuhakikisha uzoefu wa mtumiaji uko sawa.
+> ⚠️ **Kidokezo Muhimu cha Kupima**: Kila wakati jaribu tovuti zako katika vivinjari vingi! Kile kinachofanya kazi vizuri kwenye Chrome kinaweza kuonekana tofauti kwenye Safari au Firefox. Waendelezaji wataalamu hujaribu katika vivinjari vyote vikuu kuhakikisha uzoefu wa mtumiaji unafanana.
 
-### Zana za Amri: Mlango Wako wa Nguvu za Mwandishi
+### Zana za Mstari wa Amri: Njia Yako ya Kujua Uwezo wa Mendelezaji
 
-Sawa, tufanye kipindi cha uwazi kabisa hapa kuhusu mstari wa amri, kwa maana nataka usikilize kutoka kwa mtu anayeuelewa kweli. Nilipouona mara ya kwanza – ni skrini nyeusi yenye maandishi yanayang'aa – nilifikiri, "Hapana, kabisa hapana! Hii inaonekana kama kitu kutoka filamu ya wadukuzi ya miaka ya 1980, na mimi si mwerevu vya kutosha kwa hili!" 😅
+Sawa, hebu tuketi tukazungumze kwa uwazi kuhusu mstari wa amri, kwa sababu nataka usikie hili kutoka kwa mtu anayeelewa kweli. Nilipoona mara ya kwanza – tu skrini ya giza na maandishi yanayometa – nilifikiri kwa kweli, "Hapana, kabisa hapana! Hii inaonekana kama kitu kutoka kwenye filamu za mdukuzi wa miaka ya 1980, na mimi si werevu vya kutosha kwa hili!" 😅
 
-Lakini hapa ni kile ningependa mtu kunisema wakati huo, na ninachokuambia sasa hivi: mstari wa amri si wa kutisha – ni kama kuwa na mazungumzo ya moja kwa moja na kompyuta yako. Fikiria kama tofauti kati ya kuagiza chakula kupitia app ya kisasa yenye picha na menyu (ambayo ni nzuri na rahisi) dhidi ya kuingia kwenye mgahawa wako maarufu ambapo mpishi anajua hasa unachopenda na anaweza kuandaa kitu kamili kwa sema tu "nishangaze na kitu kizuri."
+Lakini hapa ni kile ningetaka mtu kunisema wakati huo, na kile ninachoambiana nawe sasa hivi: mstari wa amri si wa kuogopesha – ni kama kuzungumza moja kwa moja na kompyuta yako. Fikiria kama tofauti kati ya kuagiza chakula kupitia programu nzuri yenye picha na menyu (ambayo ni rahisi na vizuri) dhidi ya kuingia kwenye mgahawa wako pendwa ambapo mpishi anajua hasa unachopenda na anaweza kuandaa kitu bora tu kwa kusema "nitishekee kitu cha kushangaza."
 
-Mstari wa amri ndio mahali pa watengenezaji kujisikia kama wachawi kabisa. Unaandika maneno machache yanayoonekana ya kichawi (sipigani, ni amri tu, lakini yanahisi ya kichawi!), bonyeza enter, na BOOM – umeunda muundo mzima wa mradi, kusanidi zana zenye nguvu kutoka sehemu mbalimbali duniani, au kupeleka programu yako mtandaoni kwa mamilioni ya watu kuiona. Ukipata ladha ya kwanza ya nguvu hiyo, ni tabia ya kuvuta sana!
+Mstari wa amri ndio mahali ambapo waendelezaji huhisi kama wachawi halisi. Unaandika maneno machache yanayoonekana kama uchawi (sawa, ni amri tu, lakini yanahisi kama uchawi!), bonyeza enter, na BOOM – umeunda muundo mzima wa mradi, kusakinisha zana zenye nguvu kutoka duniani kote, au kuweka programu yako mtandaoni kwa mamilioni ya watu kuiona. Ukipoa ladha ya nguvu hiyo, kwa kweli ni kuleta uraibu!
 
-**Kwa nini mstari wa amri utakuwa zana yako ya kipenzi:**
+**Kwa nini mstari wa amri utakuwa zana yako unayopenda:**
 
-Wakati interfaces za picha ni nzuri kwa kazi nyingi, mstari wa amri ufanisi katika uendeshaji kiotomatiki, usahihi, na kasi. Zana nyingi za maendeleo hufanya kazi hasa kupitia interface za mstari wa amri, na kujifunza kuzitumia kwa ufanisi kunaweza kuboresha uzalishaji wako sana.
+Ingawa maingiliano ya picha ni mazuri kwa kazi nyingi, mstari wa amri una ustadi katika un automatisi, usahihi, na kasi. Zana nyingi za maendeleo hufanya kazi hasa kupitia maingiliano ya mstari wa amri, na kujifunza kuzitumia kwa ufanisi kunaweza kuboresha ufanisi wako kwa kiasi kikubwa.
 
 ```bash
-# Hatua ya 1: Tengeneza na elekea kwenye saraka ya mradi
+# Hatua ya 1: Unda na uelekee kwenye saraka ya mradi
 mkdir my-awesome-website
 cd my-awesome-website
 ```
 
-**Hivi ndivyo msimbo huu unavyofanya:**
-- **Tengeneza** saraka mpya iitwayo "my-awesome-website" kwa mradi wako
-- **Ingia** ndani ya saraka mpya kuanza kazi
+**Hili ni jambo linachofanya msimbo huu:**
+- **Tengeneza** saraka mpya inayoitwa "my-awesome-website" kwa ajili ya mradi wako
+- **Elekea** kwenye saraka mpya kuanza kazi
 
 ```bash
-# Hatua 2: Anzisha mradi na package.json
+# Hatua ya 2: Anzisha mradi na package.json
 npm init -y
 
 # Sakinisha zana za kisasa za maendeleo
@@ -614,14 +612,14 @@ npm install --save-dev vite prettier eslint
 npm install --save-dev @eslint/js
 ```
 
-**Hatua kwa hatua, hili ndilo linalotokea:**
-- **anzisha** mradi mpya wa Node.js kwa mipangilio ya default kwa kutumia `npm init -y`
-- **sanidi** Vite kama zana ya kisasa ya kujenga kwa maendeleo ya haraka na kujenga uzalishaji
-- **ongeza** Prettier kwa urembo wa msimbo kiotomatiki na ESLint kwa ukaguzi wa ubora wa msimbo
-- **tumia** bendera `--save-dev` kuonyesha hizi ni tegemezi kwa maendeleo pekee
+**Hatua kwa hatua, hapa kinatokea:**
+- **anzisha** mradi mpya wa Node.js kwa mipangilio ya msingi ukitumia `npm init -y`
+- **sakinisha** Vite kama zana ya kisasa ya kujenga kwa maendeleo na ujenzi wa uzalishaji
+- **ongeza** Prettier kwa uundaji wa msimbo otomatiki na ESLint kwa ukaguzi wa ubora wa msimbo
+- **tumia** bendera `--save-dev` kuonyesha hizi ni tegemezi za maendeleo tu
 
 ```bash
-# Hatua ya 3: Unda muundo wa mradi na faili
+# Hatua ya 3: Tengeneza muundo wa mradi na faili
 mkdir src assets
 echo '<!DOCTYPE html><html><head><title>My Site</title></head><body><h1>Hello World</h1></body></html>' > index.html
 
@@ -629,104 +627,104 @@ echo '<!DOCTYPE html><html><head><title>My Site</title></head><body><h1>Hello Wo
 npx vite
 ```
 
-**Juu tume:**
+**Juu, tumefanya:**
 - **Panga** mradi wetu kwa kuunda folda tofauti kwa msimbo chanzo na mali
-- **Tengeneza** faili la HTML la msingi lenye muundo sahihi wa nyaraka
-- **anzisha** seva ya maendeleo ya Vite kwa uhuishaji wa moja kwa moja na kubadilisha moduli joto
+- **Tengeneza** faili ya msingi ya HTML yenye muundo sahihi wa hati
+- **Anza** server ya maendeleo ya Vite kwa upyaaji wa moja kwa moja na kubadilisha moduli halisi
 
 #### Zana Muhimu za Mstari wa Amri kwa Maendeleo ya Wavuti
 
 | Zana | Kusudi | Kwa Nini Unaihitaji |
-|-------|---------|--------------------|
-| **[Git](https://git-scm.com/)** | Udhibiti wa toleo | Fuatilia mabadiliko, shirikiana na wengine, tengeneza nakala za kazi yako |
-| **[Node.js & npm](https://nodejs.org/)** | JavaScript runtime & usimamizi wa kifurushi | Endesha JavaScript nje ya vivinjari, sanidi zana za maendeleo za kisasa |
-| **[Vite](https://vitejs.dev/)** | Zana ya kujenga & seva ya maendeleo | Maendeleo ya kasi sana na uhuishaji wa moduli joto |
-| **[ESLint](https://eslint.org/)** | Ubora wa msimbo | Pata na rekebisha matatizo ya JavaScript kiotomatiki |
-| **[Prettier](https://prettier.io/)** | Urembo wa msimbo | Hifadhi msimbo wako ukiwa na muundo thabiti na wa kusomeka |
+|-------|---------|---------------------|
+| **[Git](https://git-scm.com/)** | Udhibiti wa toleo | Fuata mabadiliko, shirikiana na wengine, hifadhi kazi zako |
+| **[Node.js & npm](https://nodejs.org/)** | Muda wa kuendesha JavaScript & usimamizi wa pakiti | Endesha JavaScript nje ya vivinjari, sakinisha zana za maendeleo za kisasa |
+| **[Vite](https://vitejs.dev/)** | Zana ya kujenga & server ya maendeleo | Maendeleo yenye kasi sana na kubadilisha moduli halisi |
+| **[ESLint](https://eslint.org/)** | Ubora wa msimbo | Gundua na rekebisha matatizo ya JavaScript yako moja kwa moja |
+| **[Prettier](https://prettier.io/)** | Uundaji wa msimbo | Hifadhi msimbo wako umepangwa vizuri na usomeke |
 
-#### Chaguo Maalum kwa Mifumo
+#### Chaguo Maalum kwa Mfumo
 
 **Windows:**
 - **[Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)** - Terminal ya kisasa yenye vipengele vingi
-- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 - Mazingira ya uandishi wa script yenye nguvu
-- **[Command Prompt](https://docs.microsoft.com/windows-server/administration/windows-commands/?WT.mc_id=academic-77807-sagibbon)** 💻 - Mstari wa amri wa kawaida wa Windows
+- **[PowerShell](https://docs.microsoft.com/powershell/?WT.mc_id=academic-77807-sagibbon)** 💻 - Mazingira yenye nguvu ya uandishi wa script
+- **[Command Prompt](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)** 💻 - Mstari wa amri wa Windows wa jadi
 
 **macOS:**
-- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 - Programu ya terminal iliyo ndani ya mfumo
+- **[Terminal](https://support.apple.com/guide/terminal/)** 💻 - Programu ya mtandaoni ya terminal iliyo jengwa ndani
 - **[iTerm2](https://iterm2.com/)** - Terminal iliyoboreshwa yenye vipengele vya hali ya juu
 
 **Linux:**
 - **[Bash](https://www.gnu.org/software/bash/)** 💻 - Shell ya kawaida ya Linux
-- **[KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)** - Emuleta terminal ya hali ya juu
+- **[KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)** - Emulator ya terminal ya hali ya juu
 
-> 💻 = Imejumuishwa tayari kwenye mfumo wa uendeshaji
+> 💻 = Imejumuishwa kwenye mfumo wa uendeshaji
 
-> 🎯 **Njia ya Kujifunza**: Anza na amri za msingi kama `cd` (badilisha saraka), `ls` au `dir` (orodhesha faili), na `mkdir` (tengeneza folda). Fanya mazoezi na amri za mtiririko wa kazi wa kisasa kama `npm install`, `git status`, na `code .` (fungua saraka ya sasa katika VS Code). Unapozoea, utaweza kujifunza amri za hali ya juu na mbinu za uendeshaji kiotomatiki kwa urahisi.
+> 🎯 **Njia ya Kujifunza**: Anza na amri za msingi kama `cd` (badilisha saraka), `ls` au `dir` (orodhesha mafaili), na `mkdir` (tengeneza folda). Fanya mazoezi na amri za mtiririko wa kazi wa kisasa kama `npm install`, `git status`, na `code .` (fungua saraka ya sasa katika VS Code). Kadiri unavyonyooka, utajifunza amri za hali ya juu na mbinu za automatisi kwa asili.
 
-### Nyaraka: Mshauri Wako wa Kujifunza Ukiwa Hapo Siku zote
+### Nyaraka: Mwalimu Wako Aliye Tayari Siku Zote Kujifunza
 
-Sawa, ngojea niambie siri kidogo itakayokufanya ujisikie vizuri kuwa mmwanzo: hata waendelezaji wenye uzoefu zaidi hutumia sehemu kubwa ya muda wao kusoma nyaraka. Na si kwa sababu hawajui wanachofanya – ni ishara ya hekima!
+Sawa, niruhusu kushiriki siri kidogo itakayokufanya uhisi vizuri kuhusu kuwa mgeni: hata waendelezaji wenye uzoefu mkubwa hutumia sehemu kubwa ya wakati wao kusoma nyaraka. Na si kwa sababu hawaelewi wanachofanya – ni ishara ya hekima!
 
-Fikiria nyaraka kama kuwa na ufikiaji wa walimu mwenye subira, wenye maarifa, waliopo kila wakati 24/7. Unakumbwa na shida saa 2 usiku? Nyaraka zipo na pambazuko la virtual lenye joto na jibu halisi unalohitaji. Unataka kujifunza kuhusu kipengele kipya kinachozungumziwa na kila mtu? Nyaraka zinakuunga mkono kwa mifano ya hatua kwa hatua. Unajaribu kuelewa kwa nini kitu kinafanya kazi jinsi kinavyo? Umekisia – nyaraka ziko tayari kueleza kwa njia inayokuleta mwangaza!
+Fikiria nyaraka kama kupata walimu wenye subira, wenye maarifa waliopo 24/7. Unaposhindwa na tatizo saa 2 usiku? Nyaraka ziko pale zikiwa na kumbatio la joto na jibu hasa unalotaka. Unataka kujifunza kuhusu kipengele kipya kinachozungumziwa na kila mtu? Nyaraka zitakuunga mkono na mifano hatua kwa hatua. Jaribu kuelewa kwanini kitu kinafanya kazi kama kinavyo? Ulivyokisia – nyaraka ziko tayari kufafanua kwa njia itakayokufanya uelewe kabisa!
 
-Hapa kuna kitu kilichobadilisha kabisa mtazamo wangu: ulimwengu wa maendeleo ya wavuti unasogea kwa kasi sana, na hakuna mtu (yaani hakuna mtu!) anayekumbuka kila kitu. Nimeona waendelezaji wa ngazi ya juu wenye miaka 15+ ya uzoefu wakitafuta sintaksia za msingi, na unajua nini? Hiyo si aibu – ni busara! Siyo kuhusu kumbukumbu kamili; ni kujua wapi kupata majibu ya kuaminika haraka na kuelewa jinsi ya kuyatumia.
+Hili nililobadilika kabisa mtazamo wangu: ulimwengu wa maendeleo ya wavuti husogea kwa kasi sana, na hakuna mtu (nakusudia hamna mtu kabisa!) anayehifadhi kila kitu akilini. Nimewahi kuona waendelezaji wakubwa wenye uzoefu wa miaka 15+ wakitafuta sintaksia za msingi, na unajua nini? Hilo si aibu – ni akili! Si kuhusu kumbukumbu kamilifu; ni kuhusu kujua wapi kupata majibu ya kuaminika kwa haraka na kuelewa jinsi ya kuyatumia.
 
-**Hapa ndipo uchawi wa kweli unapotokea:**
+**Hapa ndipo uchawi halisi unapotokea:**
 
-Waendelezaji wataalamu hutumia sehemu kubwa ya muda wao kusoma nyaraka – si kwa sababu hawajui wanachofanya, lakini kwa sababu mandhari ya maendeleo ya wavuti hubadilika haraka kiasi kwamba kuendelea kuwa wa kisasa kunahitaji kujifunza endelevu. Nyaraka bora zinakusaidia kuelewa si tu *jinsi* ya kutumia kitu, bali *kwa nini* na *lini* utakitumia.
+Waendelezaji wataalamu hutumia sehemu kubwa ya wakati wao kusoma nyaraka – sio kwa sababu hawaelewi wanachofanya, bali kwa sababu uwanja wa maendeleo ya wavuti hubadilika haraka sana na kuendelea kujifunza ni lazima. Nyaraka bora hukusaidia kuelewa sio tu *jinsi* ya kutumia kitu, bali *kwa nini* na *lini* cha kuitumia.
 
 #### Rasilimali Muhimu za Nyaraka
 
 **[Mozilla Developer Network (MDN)](https://developer.mozilla.org/docs/Web)**
 - Kiwango cha dhahabu cha nyaraka za teknolojia ya wavuti
 - Miongozo kamili ya HTML, CSS, na JavaScript
-- Inajumuisha taarifa za ulinganifu wa vivinjari
-- Ina mifano ya vitendo na maonyesho ya kuingiliana
+- Inajumuisha taarifa za urafiki wa kivinjari
+- Inatoa mifano ya vitendo na maonyesho ya mwingiliano
 
-**[Web.dev](https://web.dev)** (kwa Google)
-- Vigezo bora vya maendeleo ya wavuti ya kisasa
+**[Web.dev](https://web.dev)** (ya Google)
+- Mbinu bora za maendeleo ya wavuti za kisasa
 - Miongozo ya kuboresha utendaji
-- Kanuni za upatikanaji na muundo ujumuishi
-- Masomo ya kesi kutoka miradi halisi
+- Kanuni za upatikanaji na muundo jumuishi
+- Masomo kutoka miradi halisi
 
 **[Microsoft Developer Documentation](https://docs.microsoft.com/microsoft-edge/#microsoft-edge-for-developers)**
-- Rasilimali za maendeleo ya kivinjari cha Edge
-- Miongozo ya Programu za Wavuti Inayopiga Mbele
-- Maarifa juu ya maendeleo ya mseto wa majukwaa
+- Rasilimali za maendeleo ya kivinjari Edge
+- Miongozo ya Progressive Web App
+- Maarifa ya maendeleo ya majukwaa mbalimbali
 
 **[Frontend Masters Learning Paths](https://frontendmasters.com/learn/)**
-- Mitaala ya kujifunza yenye muundo
+- Mitaala ya kujifunza iliyopangwa
 - Kozi za video kutoka kwa wataalamu wa sekta
-- Mazoezi ya msimbo wa vitendo
+- Mazoezi ya kuandika msimbo ya vitendo
 
-> 📚 **Mbinu ya Kujifunza**: Usijaribu kukumbuka nyaraka – badala yake, jifunze jinsi ya kuzitafuta kwa ufanisi. Weka alama rasilimali zinazotumika mara kwa mara na fanya mazoezi ya kutumia kazi za utafutaji kupata taarifa maalum kwa haraka.
+> 📚 **Mbinu ya Kusoma**: Usijaribu kukumbuka nyaraka zote – badala yake, jifunze jinsi ya kuzitumia kwa ufanisi. Weka alama za marejeleo yanayotumika mara kwa mara na fanya mazoezi ya kutumia vitufe vya kutafuta kupata taarifa maalum haraka.
 
-### 🔧 **Kazia Zana: Ni Nini Kinaendana na Wewe?**
+### 🔧 **Kikaguzi cha Uwezo wa Zana: Nini Kinaakisi Kwako?**
 
-**Chukua muda kufikiria:**
-- Ni zana gani unayo hamu ya kutumia kwanza? (Hakuna jibu baya!)
-- Je, mstari wa amri bado unahisi kutisha, au unavutiwa na hivyo?
-- Unaweza kufikiria kutumia browser DevTools kuangalia siri za nyuma za tovuti zako za kupenda?
+**Chukua muda kuzingatia:**
+- Zana gani umehamasika zaidi kujaribu kwanza? (Hakuna jibu baya!)
+- Mstari wa amri bado unakufanya uogope, au unavutiwa nayo?
+- Unaweza kufikiria kutumia DevTools za kivinjari kuangalia nyuma ya pazia za tovuti zako unazopenda?
 
 ```mermaid
-pie title "Muda wa Mendevu Kutumika na Vifaa"
+pie title "Muda wa Mwandishi wa Programu Kutumika na Vifaa"
     "Mhariri wa Msimbo" : 40
     "Kujaribu Kivinjari" : 25
     "Mstari wa Amri" : 15
     "Kusoma Nyaraka" : 15
-    "Kukaguzi Kasoro" : 5
+    "Kurekebisha Makosa" : 5
 ```
-> **Maarifa ya kufurahisha**: Waendelezaji wengi hutumia takriban 40% ya wakati wao ndani ya mhariri wao wa msimbo, lakini angalia muda mwingi unaotumika kwa upimaji, kujifunza, na kutatua matatizo. Programu si tu kuandika msimbo – ni kutengeneza uzoefu!
+> **Maarifa ya kufurahisha**: Watengenezaji wengi hutumia takriban asilimia 40 ya wakati wao katika mhariri wa msimbo wao, lakini angalia sana muda unaotumika kupima, kujifunza, na kutatua matatizo. Kuprogramu siyo tu kuandika msimbo – ni kuunda uzoefu!
 
-✅ **Kukuza mawazo**: Hapa kuna jambo la kufikiria – unaonaje zana za kujenga tovuti (maendeleo) zinavyotofautiana na zana za kubuni muonekano wake (buni)? Ni kama tofauti kati ya kuwa mbunifu wa majengo anayetengeneza nyumba nzuri na mkandarasi anayejenga kweli. Zote ni muhimu, lakini zinahitaji boksi tofauti za zana! Fikra hii itakusaidia kuona picha kubwa ya jinsi tovuti zinavyooanwa.
+✅ **Chakula cha mawazo**: Hapa kuna jambo la kufikiria – unaonaje tofauti kati ya zana za kujenga tovuti (maendeleo) na zana za kubuni muonekano wake (muundo)? Ni kama tofauti kati ya mbunifu wa majengo anayeunda nyumba nzuri na mkandarasi anayeijenga kwa kweli. Zote ni muhimu, lakini zinahitaji sanduku tofauti la zana! Fikiria hivi itakusaidia sana kuona picha kubwa ya jinsi tovuti zinavyotengenezwa.
 
-## Changamoto ya GitHub Copilot Agent 🚀
+## Changamoto ya Wakala wa GitHub Copilot 🚀
 
-Tumia hali ya Agent kukamilisha changamoto ifuatayo:
+Tumia hali ya Wakala kukamilisha changamoto ifuatayo:
 
-**Maelezo:** Chunguza vipengele vya mhariri wa msimbo wa kisasa au IDE na onyesha jinsi vinaweza kuboresha mtiririko wako wa kazi kama mwendelezaji wa wavuti.
+**Maelezo:** Chunguza vipengele vya mhariri wa msimbo wa kisasa au IDE na onyesha jinsi vinavyoweza kuboresha mtiririko wako wa kazi kama mtaalamu wa wavuti.
 
-**Ombi:** Chagua mhariri wa msimbo au IDE (kama Visual Studio Code, WebStorm, au IDE ya wingu). Orodhesha vipengele au nyongeza tatu zinazokusaidia kuandika, kutambua makosa, au kudumisha msimbo kwa ufanisi zaidi. Kwa kila moja, toa maelezo mafupi kuhusu jinsi inavyoboresha mtiririko wako wa kazi.
+**Agizo:** Chagua mhariri wa msimbo au IDE (kama Visual Studio Code, WebStorm, au IDE ya wingu). Orodhesha vipengele tatu au nyongeza zinazokusaidia kuandika, kutatua matatizo, au kudumisha msimbo kwa ufanisi zaidi. Kwa kila moja, toa maelezo mafupi ya jinsi inavyoboresha mtiririko wako wa kazi.
 
 ---
 
@@ -734,99 +732,99 @@ Tumia hali ya Agent kukamilisha changamoto ifuatayo:
 
 **Sawa, mpelelezi, uko tayari kwa kesi yako ya kwanza?**
 
-Sasa umejenga msingi mzuri, nina adventure itakayokusaidia kuona jinsi ulimwengu wa programu ulivyo tofauti na kupendeza kweli. Na sikiliza – hii siyo kuhusu kuandika msimbo bado, hivyo usijisikie shinikizo! Fikiria kama mpelelezi wa lugha za programu kwenye kesi yako ya kwanza ya kusisimua!
+Sasa umejenga msingi huu mzuri, nina shughuli itakayokusaidia kuona dunia ya programu kwa namna tofauti kabisa na ya kuvutia. Na sikiliza – huu sio kuhusu kuandika msimbo bado, hivyo usijisukume! Jichukulie kama mpelelezi wa lugha za programu kwenye kesi yako ya kwanza ya kusisimua!
 
-**Kazi yako, ukikubali:**
-1. **Kuwa mchunguzi wa lugha**: Chagua lugha tatu za programu kutoka kwa dunia tofauti kabisa – labda moja inayojenga tovuti, moja inayounda apps za simu, na moja inayochambua data kwa wanasayansi. Tafuta mifano ya kazi rahisi sawa imeandikwa katika kila lugha. Naahidi utashangaa sana jinsi zinavyotofautiana huku zikifanya kitu kimoja kabisa!
+**Kazi yako, ikiwa ukubali:**
+1. **Kuwa mchunguzi wa lugha**: Chagua lugha tatu za programu kutoka kwa ulimwengu tofauti kabisa – labda moja inayotengeneza tovuti, moja inayotengeneza programu za simu, na moja inayochakata data kwa wanasayansi. Tafuta mifano ya kazi rahisi hiyo hiyo imeandikwa kwa kila lugha. Naahidi utashangazwa kabisa na tofauti zao lakini zinapotekeleza kazi ile ile!
 
-2. **Gundua hadithi zao za asili**: Nini kinachofanya kila lugha kuwa ya kipekee? Hapa kuna jambo la baridi – kila lugha ya programu iliumbwa kwa sababu mtu alifikiri, "Unajua? Lazima kuna njia bora ya kutatua tatizo hili maalum." Je, unaweza kubaini matatizo hayo? Hadithi hizi ni za kusisimua kweli!
+2. **Gundua hadithi zao za asili**: Nini kinachofanya kila lugha kuwa maalum? Hapa kuna ukweli mzuri – kila lugha ya programu iliumbwa kwa sababu mtu alifikiri, "Unajua nini? Lazima kuwe na njia bora ya kutatua tatizo hili maalum." Je, unaweza kugundua matatizo hayo yalikuwa yapi? Baadhi ya hadithi hizi ni za kuvutia sana!
 
-3. **Kutana na jumuiya**: Angalia jinsi jumuiya ya kila lugha inavyokaribisha na yenye shauku. Baadhi zina mamilioni ya waendelezaji wanaoshirikiana na kusaidiana, wengine ni wadogo lakini wa karibu na wenye msaada mkubwa. Utapenda kuona tabia tofauti za jumuiya hizi!
+3. **Kutana na jumuiya**: Angalia jinsi jamii za kila lugha zinavyokaribisha na kuwa na shauku. Baadhi zina mamilioni ya waendelezaji wanaoshiriki maarifa na kusaidiana, wengine ni wadogo lakini wana mshikamano mkubwa na msaada wa ukaribu. Utafurahia kuona tabia tofauti za jumuiya hizi!
 
-4. **Fuata hisia zako**: Ni lugha gani inayoonekana inakukaribisha zaidi kwa sasa? Usijali juu ya kuchagua sahihi kabisa – sikiliza tu hisia zako! Hakuna jibu baya hapa, na unaweza kamwe kuchunguza nyingine baadaye.
+4. **Fuata hisia zako**: Ni lugha gani unahisi ni rahisi kwako kwa sasa? Usijisukume kuchagua "kamilifu" – sikiliza tu hisia zako! Hakuna jibu baya kabisa hapa, na unaweza daima kuchunguza zingine baadaye.
 
-**Kazi ya ziada ya mpelelezi**: Angalia kama unaweza kugundua ni tovuti au apps gani kubwa zimejengwa kwa kila lugha. Nahakikishia utashangaa kujua ni nini kinaendesha Instagram, Netflix, au mchezo wa simu ambao huwezi kuacha kucheza!
+**Kazi ya ziada ya mpelelezi:** Angalia unaweza kugundua ni tovuti au programu kuu zipi zimetengenezwa kwa kila lugha. Nina hakika utafurahia kuvumbua maelezo kuhusu Instagram, Netflix, au mchezo huo wa simu usioweza kuacha kucheza!
 
-> 💡 **Kumbuka**: Huhuji kugeuka mtaalamu wa lugha hizi leo. Unajifunza tu mtaa kabla ya kuamua wapi unataka kuanzisha duka. Chukua muda wako, furahia, na ruhusu udadisi wako uongoze!
+> 💡 **Kumbuka**: Haufanyi kazi za kitaalamu katika lugha hizi leo. Unajifunza tu kabla ya kuchagua wapi unataka kujiwekea makazi. Chukua muda, furahia, na lete udadisi wako mbele!
 
-## Tusherehekee Uliyegundua!
+## Hebu Tusherehekee Niliyogundua!
 
-Mungu wangu, umejifunza mambo mengi ya kushangaza leo! Nimefurahi kweli kuona kiasi gani cha safari hii kubwa umekumbatia. Na kumbuka – hii si mtihani unaotakiwa kufanikisha kila kitu kwa ukamilifu. Hii ni sherehe ya mambo yote mazuri uliyofahamu kuhusu dunia hii ya kusisimua unayoanza kuingia ndani!
+Mwisho kabisa, umejifunza mengi ya kushangaza leo! Nina hamu ya kuona ni kiasi gani ya safari hii ya kushangaza imebakia kwako. Na kumbuka – hii si mtihani wa kupata kila kitu sawa. Hii ni sherehe ya mambo mazuri uliyoyajifunza kuhusu dunia hii nzuri unayoanza kuingilia!
 
-[Chukua jaribio baada ya somo](https://ff-quizzes.netlify.app/web/)
-## Mapitio & Kujifunza Binafsi
+[Fanya mtihani wa baada ya somo](https://ff-quizzes.netlify.app/web/)
 
-**Chukua muda wako kuchunguza na kufurahia!**
+## Mapitio & Kujisomea
 
-Umeshughulikia mengi leo, na hilo ni jambo la kujivunia! Sasa kuna sehemu ya kufurahisha – kuchunguza mada zilizoanzisha hamu yako. Kumbuka, hii si kazi za nyumbani – ni adventure!
+**Chukua muda kuchunguza na kufurahia!**
+Umefunika mengi leo, na hiyo ni jambo la kujivunia! Sasa inakuja sehemu ya kufurahisha – kuchunguza mada zilizoamsha udadisi wako. Kumbuka, hii si kazi ya nyumbani – ni adventure!
 
-**Chunguza kwa undani zaidi kile kinachokufurahisha:**
+**Zamia zaidi katika kile kinachokuvutia:**
 
-**Jaribu lugha za programu:**
-- Tembelea tovuti rasmi za lugha 2-3 zilizokuvutia. Kila moja ina tabia na hadithi yake!
-- Jaribu mizinga ya kuandika nambari mtandaoni kama [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), au [Replit](https://replit.com/). Usisite kujaribu – huwezi kuvunjika kitu chochote!
-- Soma jinsi lugha yako unayopenda ilivyotokea. Kwa kweli, baadhi ya hadithi hizi za asili ni za kuvutia na zitakusaidia kuelewa kwa nini lugha zinafanya kazi kama zinavyofanya.
+**Jifunze kutumia lugha za programu:**
+- Tembelea tovuti rasmi za lugha 2-3 zilizovutia macho yako. Kila moja ina haiba na hadithi yake!
+- Jaribu baadhi ya maeneo ya majaribio ya kuandika misimbo mtandaoni kama [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/), au [Replit](https://replit.com/). Usiogope kujaribu – hauwezi kuvunja kitu chochote!
+- Soma jinsi lugha yako unayopenda ilivyotokea. Kwa kweli, baadhi ya hadithi hizi za asili ni za kuvutia sana na zitakusaidia kuelewa kwa nini lugha hufanya kazi kwa njia fulani.
 
-**Jifunze kutumia zana zako mpya:**
-- Pakua Visual Studio Code kama bado hujapakia – ni bure na utapenda!
-- Tumia dakika chache vinjari Soko la Extensions. Ni kama duka la programu kwa mhariri wako wa nambari!
-- Fungua Zana za Mjenzi wa kivinjari chako na bonyeza sehemu mbali mbali. Usijali kuelewa kila kitu – jifunze tu na mambo yaliyopo.
+**Jifunze kutumia vifaa vipya ulivyopata:**
+- Pakua Visual Studio Code kama hujafanya hivyo tayari – ni bure na utapenda kabisa!
+- Tumia dakika chache kuvinjari soko la Extensions. Ni kama duka la programu kwa mhariri wako wa msimbo!
+- Fungua zana za Developer kwenye kivinjari chako na bonyeza kila sehemu. Usijali kuelewa kila kitu – jifunze tu kile kilicho hapo.
 
-**Jiunge na jamii:**
-- Fuata jamii za waendelezaji kwenye [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/), au [GitHub](https://github.com/). Jamii ya uandishi wa programu ni marafiki sana kwa wapya!
-- Tazama video za kuanzia kuandika nambari kwenye YouTube. Kuna waumbaji wengi wazuri wanaokumbuka jinsi ilivyokuwa kuanza.
-- Waza kujiunga na mikutano ya karibu au jamii mtandaoni. Ni kweli, waendelezaji wanapenda kusaidia wapya!
+**Ungana na jamii:**
+- Fuata baadhi ya jumuiya za watengenezaji kwenye [Dev.to](https://dev.to/), [Stack Overflow](https://stackoverflow.com/), au [GitHub](https://github.com/). Jamii ya programu inawakaribisha sana wanaoanza!
+- Angalia video za kuanzia kwa urafiki wa waandishi wa msimbo kwenye YouTube. Kuna watengenezaji wengi wazuri wa maudhui wanaokumbuka siku walipoanza.
+- Fikiria kujiunga na mikutano ya wenyeji au jumuiya mtandaoni. Ni kweli, watengenezaji wanapenda kusaidia wanaoanza!
 
-> 🎯 **Sikiliza, hapa ni kile nataka ukumbuke**: Huiruhusiwi kuwa mchawi wa kuandika nambari usiku moja! Sasa hivi, unajifunza tu kuhusu dunia hii mpya ya kushangaza unayoanza kujiingiza. Chukua muda wako, furahia safari, na kumbuka – kila mendelezaji unayemheshimu alikuwa hapo ulipo sasa hivi, akisikia msisimko na labda kidogo kukosa uwezo. Hilo ni la kawaida kabisa, na ina maana unafanya vizuri!
+> 🎯 **Sikiliza, hii ni jambo nataka ukumbuke**: Haufikiriwi kuwa mchawi wa kuandika msimbo usiku mmoja! Hivi sasa, unaanza kujifunza dunia hii mpya ya kushangaza ambayo utakuwa sehemu yake. Chukua muda wako, furahia safari, na kumbuka – kila mtaalamu unayemheshimu alikuwa amekaa mahali ulipo sasa, akiwa na hamu na labda kidogo amechanganyikiwa. Hiyo ni kawaida sana, na ina maana unafanya vizuri!
 
 
 
-## Kazi ya Nyumbani
+## Assignment
 
 [Reading the Docs](assignment.md)
 
-> 💡 **Kichocheo kidogo kwa kazi yako ya nyumbani**: Ningependa sana kukuona ukichunguza zana ambazo hatujazifunza bado! Ruka wahariri, vivinjari, na zana za mstari wa amri tulizozizungumza – kuna ulimwengu mzima wa zana za maendeleo nzuri kabisa zinasubiri kugunduliwa. Tafuta zile zinazotunzwa kwa ufanisi na zina jamii za kuishi na msaada (hizi huwa na mafunzo bora na watu wenye msaada wa hali ya juu ukiwa umefungwa na unahitaji msaada mzuri).
+> 💡 **Kikumbusho kidogo kwa kazi yako**: Ningependa sana kukuona ukichunguza baadhi ya vifaa ambavyo bado hatujazungumzia! Ruka wahariri, vivinjari, na zana za kituo cha amri tulizozungumza tayari – kuna ulimwengu mzima wa ajabu wa zana za maendeleo zinazotarajia kugunduliwa. Tafuta zile zinazodumishwa kikamilifu na zina jamii zenye nguvu na msaada (hawa huwa na mafunzo bora na watu wa msaada pale unapoingia shida na unahitaji msaada mzuri).
 
 ---
 
-## 🚀 Ratiba Yako ya Safari ya Kujifunza Programu
+## 🚀 Ratiba Yako ya Safari ya Programu
 
 ### ⚡ **Unachoweza Kufanya Katika Dakika 5 Zijazo**
-- [ ] Hifadhi tovuti 2-3 za lugha za programu zilizokuvutia
-- [ ] Pakua Visual Studio Code kama bado hujafanya hivyo
-- [ ] Fungua DevTools za kivinjari chako (F12) na bonyeza sehemu yoyote ya tovuti
-- [ ] Jiunge na jumuiya moja ya waendelezaji (Dev.to, Reddit r/webdev, au Stack Overflow)
+- [ ] Weka alama (bookmark) tovuti za lugha 2-3 za programu zilizokuvutia
+- [ ] Pakua Visual Studio Code kama hujafanya hivyo tayari
+- [ ] Fungua DevTools za kivinjari chako (F12) na bonyeza tovuti yoyote
+- [ ] Jiunge na jamii moja ya wataalamu wa programu (Dev.to, Reddit r/webdev, au Stack Overflow)
 
 ### ⏰ **Unachoweza Kufanikisha Saa Hii**
-- [ ] Kamili mtihani baada ya somo na tafakari majibu yako
-- [ ] Sanidi VS Code na nyongeza ya GitHub Copilot
-- [ ] Jaribu mfano wa "Hello World" katika lugha 2 tofauti mtandaoni
-- [ ] Tazama video ya "Siku Maisha ya Mendelezaji" kwenye YouTube
-- [ ] Anza kufanya upelelezi wa lugha yako ya programu (kutoka changamoto)
+- [ ] Kamilisha mtihani baada ya somo na tafakari juu ya majibu yako
+- [ ] Weka VS Code na kifunguzo cha GitHub Copilot
+- [ ] Jaribu mfano wa "Hello World" katika lugha 2 tofauti za programu mtandaoni
+- [ ] Tazama video ya "Siku Maisha ya Mtaalamu wa Programu" kwenye YouTube
+- [ ] Anza upelelezi wa lugha yako ya programu (kutoka kwenye changamoto)
 
-### 📅 **Adventure Yako ya Wiki Nzima**
-- [ ] Kamili kazi ya nyumbani na chunguza zana 3 mpya za maendeleo
-- [ ] Fuata waendelezaji 5 au akaunti za programu kwenye mitandao ya kijamii
-- [ ] Jaribu kujenga kitu kidogo kwenye CodePen au Replit (hata tu "Hello, [Jina Lako]!")
-- [ ] Soma blogu moja ya mendelezaji kuhusu safari ya mtu binafsi ya kuandika nambari
-- [ ] Jiunge na mkutano mtandaoni au angalia hotuba ya programu
-- [ ] Anza kujifunza lugha uliyoteua kwa mafunzo mtandaoni
+### 📅 **Adventure Yako ya Wiki Mmoja**
+- [ ] Kamilisha kazi na chunguza zana 3 mpya za maendeleo
+- [ ] Fuata watengenezaji 5 au akaunti za programu kwenye mitandao ya kijamii
+- [ ] Jaribu kuunda kitu kidogo katika CodePen au Replit (hata ni "Hello, [Jina Lako]!")
+- [ ] Soma chapisho moja la blogu la mtaalamu kuhusu safari yao ya kuandika msimbo
+- [ ] Jiunge na mkutano wa mtandaoni au angalia hotuba ya programu
+- [ ] Anza kujifunza lugha uliyochagua na mafunzo mtandaoni
 
-### 🗓️ **Mabadiliko Yako ya Mwezi Mzima**
-- [ ] Jenga mradi wako wa kwanza mdogo (hata tovuti rahisi ni nzuri!)
-- [ ] Changia mradi wa open-source (anza na marekebisho ya nyaraka)
-- [ ] Fundisha mtu anayeanza safari ya kuandika nambari
-- [ ] Tengeneza tovuti yako ya portfolio ya mendelezaji
-- [ ] Unganisha na jamii za mendelezaji wa karibu au vikundi vya masomo
-- [ ] Anza kupanga lengo lako lijalo la kujifunza
+### 🗓️ **Mabadiliko Yako ya Mwezi Mmoja**
+- [ ] Tengeneza mradi wako wa kwanza mdogo (hata ukurasa rahisi wa wavuti unahesabiwa!)
+- [ ] Changia kwenye mradi wa chanzo huria (anza na marekebisho ya nyaraka)
+- [ ] Mwange mtu anayeanza safari yao ya kuandika msimbo
+- [ ] Tengeneza tovuti yako ya wasifu wa mtaalamu wa programu
+- [ ] Ungana na jumuiya za mtaalamu wa karibu au makundi ya masomo
+- [ ] Anza kupanga hatua yako inayofuata ya kujifunza
 
-### 🎯 **Chunguza Mafanikio ya Mwisho**
+### 🎯 **Ukaguzi wa Mwisho wa Tafakari**
 
 **Kabla hujaendelea, chukua muda kusherehekea:**
-- Ni jambo gani moja kuhusu kuandika nambari lililokufurahisha leo?
-- Ni zana au dhana gani unataka kuchunguza kwanza?
+- Ni jambo gani moja kuhusu programu lililokufurahisha leo?
+- Ni chombo gani au dhana unayotaka kuchunguza kwanza?
 - Unajisikia vipi kuanza safari hii ya programu?
-- Ni swali gani moja ungependa kumuuliza mendelezaji sasa hivi?
+- Ni swali gani ungependa kumuuliza mtaalamu sasa hivi?
 
 ```mermaid
 journey
@@ -844,11 +842,11 @@ journey
       Confident: 5: You
       Helping Others: 5: You
 ```
-> 🌟 **Kumbuka**: Kila mtaalamu alikuwa mwanzoni. Kila mendelezaji mkuu alikuwa akijihisi kama unavyohisi sasa – msisimko, labda kidogo kupotea, na kila wakati na hamu kujua ni nini kinachowezekana. Uko katika kampuni nzuri sana, na safari hii itakuwa ya kushangaza. Karibu katika dunia ya ajabu ya programu! 🎉
+> 🌟 **Kumbuka**: Kila mtaalamu alikuwa mgeni. Kila mtaalamu mzee alikuwa anahisi kama ulivyo sasa hivi – na furaha, labda kidogo amechanganyikiwa, na kwa hakika mwenye udadisi kuhusu kile kinachowezekana. Uko katika kampuni nzuri sana, na safari hii itakuwa ya kushangaza. Karibu katika dunia ya kushangaza ya programu! 🎉
 
 ---
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
-**Taarifa ya Kukataa**:
-Nyaraka hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kuhakikisha usahihi, tafadhali fahamuni kwamba tafsiri za kiotomatiki zinaweza kuwa na makosa au kasoro za usahihi. Nyaraka asilia katika lugha yake ya asili inapaswa kuzingatiwa kama chanzo cha uthibitisho. Kwa taarifa muhimu, tafsiri ya mtaalamu wa lugha inashauriwa. Sisi hatuwajibiki kwa maelewano mabaya au tafsiri zisizofaa zinazotokana na matumizi ya tafsiri hii.
+**Angalizo**:  
+Hati hii imetafsiriwa kwa kutumia huduma ya tafsiri ya AI [Co-op Translator](https://github.com/Azure/co-op-translator). Ingawa tunajitahidi kwa usahihi, tafadhali fahamu kuwa tafsiri za otomatiki zinaweza kuwa na makosa au upungufu wa usahihi. Hati ya asili katika lugha yake ya asili inapaswa kuchukuliwa kama chanzo cha mamlaka. Kwa taarifa muhimu, tafsiri ya kitaalamu ya binadamu inapendekezwa. Hatuhusiki kwa kutokuelewana au tafsiri ambazo zitajitokeza kutokana na matumizi ya tafsiri hii.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
